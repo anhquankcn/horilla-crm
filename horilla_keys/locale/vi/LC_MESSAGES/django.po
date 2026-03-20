@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-17 09:38+0000\n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,32 +18,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: .\horilla_keys\__version__.py:10
 msgid "Module providing customizable keyboard shortcuts."
-msgstr ""
+msgstr "Mô-đun cung cấp các phím tắt có thể tùy chỉnh."
 
+#: .\horilla_keys\apps.py:14
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Phím tắt"
 
+#: .\horilla_keys\menu.py:18 .\horilla_keys\views.py:47
 msgid "Short Keys"
-msgstr ""
+msgstr "Phím ngắn"
 
+#: .\horilla_keys\models.py:28
 msgid "User"
-msgstr ""
+msgstr "người dùng"
 
+#: .\horilla_keys\models.py:30 .\horilla_keys\views.py:88
 msgid "Page"
-msgstr ""
+msgstr "Trang"
 
+#: .\horilla_keys\models.py:31 .\horilla_keys\views.py:88
 msgid "Key"
-msgstr ""
+msgstr "Chìa khóa"
 
+#: .\horilla_keys\models.py:34
 msgid "Command Key"
-msgstr ""
+msgstr "Phím lệnh"
 
+#: .\horilla_keys\models.py:45
 msgid "Shortcut Key"
-msgstr ""
+msgstr "Phím tắt"
 
+#: .\horilla_keys\models.py:46
 msgid "Shortcut Keys"
-msgstr ""
+msgstr "Phím tắt"
 
+#: .\horilla_keys\views.py:135
 msgid "Short Key"
-msgstr ""
+msgstr "Phím ngắn"

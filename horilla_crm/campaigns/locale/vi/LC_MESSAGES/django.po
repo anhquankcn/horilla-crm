@@ -6,218 +6,280 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-18 08:25+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
+"PO-Revision-Date: 2026-01-04 13:44+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
+#: .\horilla_crm\campaigns\apps.py:13 .\horilla_crm\campaigns\menu.py:37
+#: .\horilla_crm\campaigns\models.py:364
 msgid "Campaigns"
-msgstr ""
+msgstr "Chiến dịch"
 
+#: .\horilla_crm\campaigns\forms.py:141
 msgid "Select Campaign"
-msgstr ""
+msgstr "Chọn chiến dịch"
 
+#: .\horilla_crm\campaigns\forms.py:154
 msgid "Select campaign"
-msgstr ""
+msgstr "Chọn chiến dịch"
 
+#: .\horilla_crm\campaigns\forms.py:221
 msgid "Please select campaign."
-msgstr ""
+msgstr "Vui lòng chọn chiến dịch."
 
+#: .\horilla_crm\campaigns\forms.py:225
 msgid "This campaign already has a parent campaign assigned."
-msgstr ""
+msgstr "Chiến dịch này đã được chỉ định chiến dịch gốc."
 
+#: .\horilla_crm\campaigns\forms.py:231
 msgid "An campaign cannot be its own parent."
-msgstr ""
+msgstr "Một chiến dịch không thể là chiến dịch gốc của chính nó."
 
+#: .\horilla_crm\campaigns\forms.py:240
 msgid "Please select a valid campaign."
-msgstr ""
+msgstr "Vui lòng chọn một chiến dịch hợp lệ."
 
+#: .\horilla_crm\campaigns\models.py:29 .\horilla_crm\campaigns\models.py:242
 msgid "Planned"
-msgstr ""
+msgstr "Đã lên kế hoạch"
 
+#: .\horilla_crm\campaigns\models.py:30
 msgid "Sent"
-msgstr ""
+msgstr "Đã gửi"
 
+#: .\horilla_crm\campaigns\models.py:31
 msgid "Recieved"
-msgstr ""
+msgstr "Đã nhận"
 
+#: .\horilla_crm\campaigns\models.py:32
 msgid "Responded"
-msgstr ""
+msgstr "Đã phản hồi"
 
+#: .\horilla_crm\campaigns\models.py:35 .\horilla_crm\campaigns\models.py:50
 msgid "Lead"
-msgstr ""
+msgstr "Tiềm năng"
 
+#: .\horilla_crm\campaigns\models.py:36 .\horilla_crm\campaigns\models.py:61
 msgid "Contact"
-msgstr ""
+msgstr "Liên hệ"
 
+#: .\horilla_crm\campaigns\models.py:42 .\horilla_crm\campaigns\models.py:363
 msgid "Campaign"
-msgstr ""
+msgstr "Chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:53
 msgid "Member Status"
-msgstr ""
+msgstr "Trạng thái thành viên"
 
+#: .\horilla_crm\campaigns\models.py:66 .\horilla_crm\campaigns\models.py:273
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
+#: .\horilla_crm\campaigns\models.py:175
 msgid "Campaign Member"
-msgstr ""
+msgstr "Thành viên chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:176
 msgid "Campaign Members"
-msgstr ""
+msgstr "Thành viên chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:241
 msgid "New"
-msgstr ""
+msgstr "Mới tạo"
 
+#: .\horilla_crm\campaigns\models.py:243
 msgid "In Progress"
-msgstr ""
+msgstr "Đang tiến hành"
 
+#: .\horilla_crm\campaigns\models.py:244
 msgid "Completed"
-msgstr ""
+msgstr "Hoàn thành"
 
+#: .\horilla_crm\campaigns\models.py:245
 msgid "Aborted"
-msgstr ""
+msgstr "Đã hủy bỏ"
 
+#: .\horilla_crm\campaigns\models.py:249
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
+#: .\horilla_crm\campaigns\models.py:250
 msgid "Event"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_crm\campaigns\models.py:251
 msgid "Social Media"
-msgstr ""
+msgstr "Truyền thông xã hội"
 
+#: .\horilla_crm\campaigns\models.py:252
 msgid "Other"
-msgstr ""
+msgstr "Khác"
 
+#: .\horilla_crm\campaigns\models.py:253
 msgid "Webinar"
-msgstr ""
+msgstr "Hội thảo trên web"
 
+#: .\horilla_crm\campaigns\models.py:254
 msgid "Referral"
-msgstr ""
+msgstr "Giới thiệu"
 
+#: .\horilla_crm\campaigns\models.py:255
 msgid "Advertisement"
-msgstr ""
+msgstr "Quảng cáo"
 
+#: .\horilla_crm\campaigns\models.py:258
 msgid "Campaign Name"
-msgstr ""
+msgstr "Tên chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:263
 msgid "Campaign Owner"
-msgstr ""
+msgstr "Chủ chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:270
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
+#: .\horilla_crm\campaigns\models.py:275
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
+#: .\horilla_crm\campaigns\models.py:276
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
+#: .\horilla_crm\campaigns\models.py:282
 msgid "Expected Revenue"
-msgstr ""
+msgstr "Doanh thu dự kiến"
 
+#: .\horilla_crm\campaigns\models.py:289
 msgid "Budget Cost"
-msgstr ""
+msgstr "Chi phí ngân sách"
 
+#: .\horilla_crm\campaigns\models.py:296
 msgid "Actual Cost"
-msgstr ""
+msgstr "Chi phí thực tế"
 
+#: .\horilla_crm\campaigns\models.py:299
 msgid "Expected Response (%)"
-msgstr ""
+msgstr "Phản hồi dự kiến ​​(%)"
 
+#: .\horilla_crm\campaigns\models.py:302
 msgid "Number Sent in Campaign"
-msgstr ""
+msgstr "Số đã gửi trong chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:304
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
+#: .\horilla_crm\campaigns\models.py:311
 msgid "Parent Campaign"
-msgstr ""
+msgstr "Chiến dịch dành cho phụ huynh"
 
+#: .\horilla_crm\campaigns\models.py:315
 msgid "Leads in Campaign"
-msgstr ""
+msgstr "Dẫn đầu trong chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:318
 msgid "Converted Leads in Campaign"
-msgstr ""
+msgstr "Tiềm năng đã chuyển đổi trong chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:321
 msgid "Contacts in Campaign"
-msgstr ""
+msgstr "Danh sách Liên hệ trong Chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:324
 msgid "Opportunities in Campaign"
-msgstr ""
+msgstr "Danh sách Cơ hội trong Chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:327
 msgid "Won Opportunities in Campaign"
-msgstr ""
+msgstr "Cơ hội Thắng trong chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:333
 msgid "Value Opportunities in Campaign"
-msgstr ""
+msgstr "Giá trị các Cơ hội trong chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:339
 msgid "Value Won Opportunities in Campaign"
-msgstr ""
+msgstr "Giá trị các Cơ hội đã Thắng trong chiến dịch"
 
+#: .\horilla_crm\campaigns\models.py:342
 msgid "Responses in Campaign"
-msgstr ""
+msgstr "Danh sách Phản hồi trong Chiến dịch"
 
+#: .\horilla_crm\campaigns\views.py:204
 msgid "Duplicate"
-msgstr ""
+msgstr "Nhân bản"
 
+#: .\horilla_crm\campaigns\views.py:308
 msgid "Campaign Information"
-msgstr ""
+msgstr "Thông tin Chiến dịch"
 
+#: .\horilla_crm\campaigns\views.py:309
 msgid "Financial Information"
-msgstr ""
+msgstr "Thông tin Tài chính"
 
+#: .\horilla_crm\campaigns\views.py:310
 msgid "Additional Information"
-msgstr ""
+msgstr "Thông tin Bổ sung"
 
+#: .\horilla_crm\campaigns\views.py:361
 msgid "Change Owner"
-msgstr ""
+msgstr "Thay đổi Chủ sở hữu"
 
+#: .\horilla_crm\campaigns\views.py:783
 msgid "Add Child Campaign"
-msgstr ""
+msgstr "Thêm chiến dịch con"
 
+#: .\horilla_crm\campaigns\views.py:807
 msgid "You must be logged in to perform this action."
-msgstr ""
+msgstr "Bạn phải đăng nhập để thực hiện hành động này."
 
+#: .\horilla_crm\campaigns\views.py:817
 msgid "No parent campaign specified in the request."
-msgstr ""
+msgstr "Không có chiến dịch gốc nào được chỉ định trong yêu cầu."
 
+#: .\horilla_crm\campaigns\views.py:822
 msgid "A campaign cannot be its own parent."
-msgstr ""
+msgstr "Chiến dịch không thể là chiến dịch gốc của chính nó."
 
+#: .\horilla_crm\campaigns\views.py:827
 msgid "This campaign already has a parent campaign."
-msgstr ""
+msgstr "Chiến dịch này đã có chiến dịch gốc."
 
+#: .\horilla_crm\campaigns\views.py:837
 msgid "Child campaign assigned successfully!"
-msgstr ""
+msgstr "Chiến dịch con đã được chỉ định thành công!"
 
+#: .\horilla_crm\campaigns\views.py:840
 msgid "Invalid parent campaign ID format."
-msgstr ""
+msgstr "Định dạng ID chiến dịch gốc không hợp lệ."
 
+#: .\horilla_crm\campaigns\views.py:881
 msgid "You don't have permission to perform this action."
-msgstr ""
+msgstr "Bạn không có quyền thực hiện hành động này."
 
+#: .\horilla_crm\campaigns\views.py:892
 msgid "This campaign doesn't have a parent campaign."
-msgstr ""
+msgstr "Chiến dịch này không có chiến dịch gốc."
 
-#, python-brace-format
-msgid ""
-"Successfully removed {child_campaign.campaign_name} from {parent_campaign."
-"campaign_name}'s child campaigns."
-msgstr ""
-
+#: .\horilla_crm\campaigns\views.py:918
 msgid "An error occurred while removing the child campaign."
-msgstr ""
+msgstr "Đã xảy ra lỗi khi xóa chiến dịch con."
 
+#: .\horilla_crm\campaigns\views.py:935 .\horilla_crm\campaigns\views.py:1056
 msgid "Add to Campaign"
-msgstr ""
+msgstr "Thêm vào chiến dịch"
 
+#: .\horilla_crm\campaigns\views.py:993
 msgid "Add Campaign Members"
-msgstr ""
+msgstr "Thêm thành viên chiến dịch"

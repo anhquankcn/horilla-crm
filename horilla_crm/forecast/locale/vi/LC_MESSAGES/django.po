@@ -6,332 +6,492 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:06+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
+"PO-Revision-Date: 2026-01-04 13:29+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
+#: .\horilla_crm\forecast\apps.py:13 .\horilla_crm\forecast\menu.py:20
+#: .\horilla_crm\forecast\menu.py:41 .\horilla_crm\forecast\models.py:299
+#: .\horilla_crm\forecast\templates\forecast_navbar.html:5
 msgid "Forecast"
-msgstr ""
+msgstr "Dự báo"
 
+#: .\horilla_crm\forecast\forecast_target.py:736
 msgid "Update Target"
-msgstr ""
+msgstr "Cập nhật mục tiêu"
 
+#: .\horilla_crm\forecast\models.py:33
 msgid "Deal Revenue Amount"
-msgstr ""
+msgstr "Số tiền doanh thu giao dịch"
 
+#: .\horilla_crm\forecast\models.py:34
 msgid "Deal Revenue Expected Amount"
-msgstr ""
+msgstr "Doanh thu giao dịch Số tiền dự kiến"
 
+#: .\horilla_crm\forecast\models.py:35
 msgid "Deal Quantity"
-msgstr ""
+msgstr "Số lượng giao dịch"
 
+#: .\horilla_crm\forecast\models.py:37
 msgid "Forecast Type Name"
-msgstr ""
+msgstr "Tên loại dự báo"
 
+#: .\horilla_crm\forecast\models.py:38
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
+#: .\horilla_crm\forecast\models.py:44 .\horilla_crm\forecast\models.py:59
+#: .\horilla_crm\forecast\models.py:115 .\horilla_crm\forecast\models.py:161
+#: .\horilla_crm\forecast\models.py:464
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_filters.html:7
 msgid "Forecast Type"
-msgstr ""
+msgstr "Loại dự báo"
 
+#: .\horilla_crm\forecast\models.py:48
 msgid "Include Pipeline"
-msgstr ""
+msgstr "Bao gồm đường ống"
 
+#: .\horilla_crm\forecast\models.py:51
 msgid "Include Best Case"
-msgstr ""
+msgstr "Bao gồm trường hợp tốt nhất"
 
+#: .\horilla_crm\forecast\models.py:53
 msgid "Include Commit"
-msgstr ""
+msgstr "Bao gồm Cam kết"
 
+#: .\horilla_crm\forecast\models.py:54
 msgid "Include Closed"
-msgstr ""
+msgstr "Bao gồm Đã đóng"
 
+#: .\horilla_crm\forecast\models.py:60
 msgid "Forecast Types"
-msgstr ""
+msgstr "Các loại Dự báo"
 
+#: .\horilla_crm\forecast\models.py:118
 msgid "Field Name"
-msgstr ""
+msgstr "Tên trường"
 
+#: .\horilla_crm\forecast\models.py:122
 msgid "Operator"
-msgstr ""
+msgstr "Toán tử"
 
+#: .\horilla_crm\forecast\models.py:125
 msgid "Value"
-msgstr ""
+msgstr "Giá trị"
 
+#: .\horilla_crm\forecast\models.py:131
 msgid "Logical Operator"
-msgstr ""
+msgstr "Toán tử logic"
 
+#: .\horilla_crm\forecast\models.py:134
 msgid "Order"
-msgstr ""
+msgstr "Đặt hàng"
 
+#: .\horilla_crm\forecast\models.py:139
 msgid "Forecast Condition"
-msgstr ""
+msgstr "Điều kiện dự báo"
 
+#: .\horilla_crm\forecast\models.py:140
 msgid "Forecast Conditions"
-msgstr ""
+msgstr "Điều kiện dự báo"
 
+#: .\horilla_crm\forecast\models.py:153
 msgid "Draft"
-msgstr ""
+msgstr "Bản nháp"
 
+#: .\horilla_crm\forecast\models.py:154
 msgid "Submitted"
-msgstr ""
+msgstr "Đã gửi"
 
+#: .\horilla_crm\forecast\models.py:155
 msgid "Approved"
-msgstr ""
+msgstr "Tán thành"
 
+#: .\horilla_crm\forecast\models.py:156
 msgid "Rejected"
-msgstr ""
+msgstr "Vật bị loại bỏ"
 
+#: .\horilla_crm\forecast\models.py:159
 msgid "Forecast Name"
-msgstr ""
+msgstr "Tên dự báo"
 
+#: .\horilla_crm\forecast\models.py:167
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:7
 msgid "Period"
-msgstr ""
+msgstr "Giai đoạn"
 
+#: .\horilla_crm\forecast\models.py:174
 msgid "Quarter"
-msgstr ""
+msgstr "Một phần tư"
 
+#: .\horilla_crm\forecast\models.py:179
 msgid "Fiscal Year"
-msgstr ""
+msgstr "Năm tài chính"
 
+#: .\horilla_crm\forecast\models.py:185
 msgid "Forecast Owner"
-msgstr ""
+msgstr "Chủ sở hữu dự báo"
 
+#: .\horilla_crm\forecast\models.py:190
 msgid "Target Amount"
-msgstr ""
+msgstr "Số tiền mục tiêu"
 
+#: .\horilla_crm\forecast\models.py:196
 msgid "Pipeline Amount"
-msgstr ""
+msgstr "Số tiền theo Đường ống"
 
+#: .\horilla_crm\forecast\models.py:204
 msgid "Best Case Amount"
-msgstr ""
+msgstr "Số tiền trường hợp tốt nhất"
 
+#: .\horilla_crm\forecast\models.py:212
 msgid "Commit Amount"
-msgstr ""
+msgstr "Số tiền cam kết"
 
+#: .\horilla_crm\forecast\models.py:220
 msgid "Closed Amount"
-msgstr ""
+msgstr "Số tiền đã đóng"
 
+#: .\horilla_crm\forecast\models.py:228
 msgid "Actual Amount"
-msgstr ""
+msgstr "Số tiền thực tế"
 
+#: .\horilla_crm\forecast\models.py:235
 msgid "Target Quantity"
-msgstr ""
+msgstr "Số lượng mục tiêu"
 
+#: .\horilla_crm\forecast\models.py:241
 msgid "Pipeline Quantity"
-msgstr ""
+msgstr "Số lượng theo đường ống"
 
+#: .\horilla_crm\forecast\models.py:247
 msgid "Best Case Quantity"
-msgstr ""
+msgstr "Số lượng trường hợp tốt nhất"
 
+#: .\horilla_crm\forecast\models.py:253
 msgid "Commit Quantity"
-msgstr ""
+msgstr "Cam kết số lượng"
 
+#: .\horilla_crm\forecast\models.py:259
 msgid "Closed Quantity"
-msgstr ""
+msgstr "Số lượng đã đóng"
 
+#: .\horilla_crm\forecast\models.py:265
 msgid "Actual Quantity"
-msgstr ""
+msgstr "Số lượng thực tế"
 
+#: .\horilla_crm\forecast\models.py:274
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
+#: .\horilla_crm\forecast\models.py:278
 msgid "Submitted At"
-msgstr ""
+msgstr "Đã gửi tại"
 
+#: .\horilla_crm\forecast\models.py:281
 msgid "Approved At"
-msgstr ""
+msgstr "Được phê duyệt tại"
 
+#: .\horilla_crm\forecast\models.py:289
 msgid "Approved By"
-msgstr ""
+msgstr "Được phê duyệt bởi"
 
+#: .\horilla_crm\forecast\models.py:292
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
+#: .\horilla_crm\forecast\models.py:300
 msgid "Forecasts"
-msgstr ""
+msgstr "Dự báo"
 
+#: .\horilla_crm\forecast\models.py:447
 msgid "Assigned User"
-msgstr ""
+msgstr "Người dùng được chỉ định"
 
+#: .\horilla_crm\forecast\models.py:455
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
+#: .\horilla_crm\forecast\models.py:471
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_filters.html:33
 msgid "Forecast Period"
-msgstr ""
+msgstr "Giai đoạn Dự báo"
 
+#: .\horilla_crm\forecast\models.py:479
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:8
 msgid "Target"
-msgstr ""
+msgstr "Mục tiêu"
 
+#: .\horilla_crm\forecast\models.py:480
 msgid "Target amount (revenue or quantity)"
-msgstr ""
+msgstr "Số mục tiêu (doanh thu hoặc số lượng)"
 
+#: .\horilla_crm\forecast\models.py:487
 msgid "Currency"
-msgstr ""
+msgstr "Tiền tệ"
 
+#: .\horilla_crm\forecast\models.py:488
 msgid "Currency code (e.g., USD, EUR, INR)"
-msgstr ""
+msgstr "Mã tiền tệ (ví dụ: USD, EUR, INR)"
 
+#: .\horilla_crm\forecast\models.py:496
 msgid "Current Achievement"
-msgstr ""
+msgstr "Thành tích hiện tại"
 
+#: .\horilla_crm\forecast\models.py:497
 msgid "Current achieved amount (auto-calculated)"
-msgstr ""
+msgstr "Số tiền đạt được hiện tại (được tính toán tự động)"
 
+#: .\horilla_crm\forecast\models.py:503 .\horilla_crm\forecast\models.py:571
 msgid "Forecast Target"
-msgstr ""
+msgstr "Mục tiêu dự báo"
 
+#: .\horilla_crm\forecast\models.py:504
 msgid "Forecast Targets"
-msgstr ""
+msgstr "Danh sách Mục tiêu dự báo"
 
+#: .\horilla_crm\forecast\models.py:576
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
+#: .\horilla_crm\forecast\models.py:584
 msgid "User Revenue Target"
-msgstr ""
+msgstr "Mục tiêu doanh thu của người dùng"
 
+#: .\horilla_crm\forecast\models.py:585
 msgid "Individual revenue target for this user"
-msgstr ""
+msgstr "Mục tiêu doanh thu cá nhân cho người dùng này"
 
+#: .\horilla_crm\forecast\models.py:589
 msgid "User Quantity Target"
-msgstr ""
+msgstr "Mục tiêu Số lượng người dùng"
 
+#: .\horilla_crm\forecast\models.py:590
 msgid "Individual quantity target for this user"
-msgstr ""
+msgstr "Mục tiêu số lượng cá nhân cho người dùng này"
 
+#: .\horilla_crm\forecast\models.py:598
 msgid "Current Revenue Achieved"
-msgstr ""
+msgstr "Doanh thu hiện tại đạt được"
 
+#: .\horilla_crm\forecast\models.py:599
 msgid "Current achieved revenue for this user"
-msgstr ""
+msgstr "Doanh thu đạt được hiện tại của người dùng này"
 
+#: .\horilla_crm\forecast\models.py:603
 msgid "Current Quantity Achieved"
-msgstr ""
+msgstr "Số lượng hiện tại đạt được"
 
+#: .\horilla_crm\forecast\models.py:604
 msgid "Current achieved quantity for this user"
-msgstr ""
+msgstr "Số lượng đạt được hiện tại cho người dùng này"
 
+#: .\horilla_crm\forecast\models.py:607
 msgid "Is Active"
-msgstr ""
+msgstr "Đang hoạt động"
 
+#: .\horilla_crm\forecast\models.py:612
 msgid "Forecast Target User"
-msgstr ""
+msgstr "Dự báo người dùng mục tiêu"
 
+#: .\horilla_crm\forecast\models.py:613
 msgid "Forecast Target Users"
-msgstr ""
+msgstr "Dự báo người dùng mục tiêu"
 
+#: .\horilla_crm\forecast\templates\forecast_navbar.html:5
+#: .\horilla_crm\forecast\templates\forecast_navbar.html:29
 msgid "My Forecast"
-msgstr ""
+msgstr "Dự báo của tôi"
 
+#: .\horilla_crm\forecast\templates\forecast_navbar.html:22
 msgid "All Users"
-msgstr ""
+msgstr "Tất cả người dùng"
 
+#: .\horilla_crm\forecast\templates\forecast_navbar.html:65
 msgid "Select Fiscal Year"
-msgstr ""
+msgstr "Chọn năm tài chính"
 
+#: .\horilla_crm\forecast\templates\forecast_navbar.html:70
 msgid "- Current"
-msgstr ""
+msgstr "- Hiện hành"
 
+#: .\horilla_crm\forecast\templates\forecast_opportunities_modal_content.html:6
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_form.html:16
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
+#: .\horilla_crm\forecast\templates\forecast_opportunities_modal_content.html:42
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:26
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:34
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:58
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:73
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:89
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:105
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:121
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:165
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:173
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:197
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:213
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:242
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:270
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:298
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:342
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:374
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:387
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:412
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:437
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:462
 msgid "deals"
-msgstr ""
+msgstr "giao dịch"
 
+#: .\horilla_crm\forecast\templates\forecast_opportunities_modal_content.html:70
 msgid "Total:"
-msgstr ""
+msgstr "Tổng cộng:"
 
+#: .\horilla_crm\forecast\templates\forecast_opportunities_modal_content.html:70
 msgid "opportunities"
-msgstr ""
+msgstr "những cơ hội"
 
+#: .\horilla_crm\forecast\templates\forecast_opportunities_modal_content.html:76
 msgid "Total Quantity:"
-msgstr ""
+msgstr "Tổng số lượng:"
 
+#: .\horilla_crm\forecast\templates\forecast_opportunities_modal_content.html:78
 msgid "Total Amount:"
-msgstr ""
+msgstr "Tổng số tiền:"
 
+#: .\horilla_crm\forecast\templates\forecast_target\condition_fields.html:11
+#: .\horilla_crm\forecast\templates\forecast_target\condition_fields.html:78
+#: .\horilla_crm\forecast\templates\forecast_target\condition_row.html:11
 msgid "Select User"
-msgstr ""
+msgstr "Chọn người dùng"
 
+#: .\horilla_crm\forecast\templates\forecast_target\condition_fields.html:23
+#: .\horilla_crm\forecast\templates\forecast_target\condition_fields.html:90
+#: .\horilla_crm\forecast\templates\forecast_target\condition_row.html:23
 msgid "Select Period"
-msgstr ""
+msgstr "Chọn khoảng thời gian"
 
+#: .\horilla_crm\forecast\templates\forecast_target\condition_fields.html:111
 msgid "Select Forecast Type"
-msgstr ""
+msgstr "Chọn loại dự báo"
 
+#: .\horilla_crm\forecast\templates\forecast_target\condition_fields.html:127
+#: .\horilla_crm\forecast\templates\forecast_target\condition_row.html:69
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_form.html:143
 msgid "Conditions"
-msgstr ""
+msgstr "Điều kiện"
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_form.html:163
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_view.html:8
+#: .\horilla_crm\forecast\templates\forecast_view.html:38
 msgid "Activate company"
-msgstr ""
+msgstr "Kích hoạt công ty"
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_view.html:9
+#: .\horilla_crm\forecast\templates\forecast_view.html:39
 msgid "Please create or activate your company."
-msgstr ""
+msgstr "Vui lòng tạo hoặc kích hoạt công ty của bạn."
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_view.html:11
 msgid "Not found"
-msgstr ""
+msgstr "Không tìm thấy"
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_view.html:12
+#: .\horilla_crm\forecast\templates\forecast_view.html:28
 msgid "No Forecast Type set. Set it from settings."
-msgstr ""
+msgstr "Không có Loại dự báo nào được đặt. Đặt nó từ cài đặt."
 
+#: .\horilla_crm\forecast\templates\forecast_target\forecast_target_view.html:16
+#: .\horilla_crm\forecast\templates\forecast_view.html:32
 msgid "Go To Forecast Type"
-msgstr ""
+msgstr "Chuyển đến Loại dự báo"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:9
 msgid "Achievement"
-msgstr ""
+msgstr "Thành tích"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:10
 msgid "Gap"
-msgstr ""
+msgstr "Khoảng cách"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:11
 msgid "Closed"
-msgstr ""
+msgstr "Đã đóng"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:12
 msgid "Commit Forecast"
-msgstr ""
+msgstr "Cam kết dự báo"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:13
 msgid "Best Case"
-msgstr ""
+msgstr "Trường hợp tốt nhất"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:14
 msgid "Open Pipeline"
-msgstr ""
+msgstr "Đường ống mở"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:21
 msgid "Total"
-msgstr ""
+msgstr "Tổng cộng"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:21
 msgid "Periods"
-msgstr ""
+msgstr "Thời kỳ"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:218
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:247
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:275
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:303
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:392
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:417
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:442
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:467
 msgid "Up trend"
-msgstr ""
+msgstr "Xu hướng tăng"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:220
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:249
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:277
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:305
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:394
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:419
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:444
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:469
 msgid "Down trend"
-msgstr ""
+msgstr "Xu hướng giảm"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:488
 msgid "Loading more users for"
-msgstr ""
+msgstr "Đang tải thêm người dùng cho"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:500
 msgid "No forecast data available for this period"
-msgstr ""
+msgstr "Không có dữ liệu dự báo cho giai đoạn này"
 
+#: .\horilla_crm\forecast\templates\forecast_type_table.html:509
 msgid "Forecast Type:"
-msgstr ""
+msgstr "Loại dự báo:"
 
+#: .\horilla_crm\forecast\templates\forecast_view.html:47
 msgid "Permission Denied"
-msgstr ""
+msgstr "Quyền bị từ chối"
 
+#: .\horilla_crm\forecast\templates\forecast_view.html:48
 msgid "You do not have permission to view this page."
-msgstr ""
+msgstr "Bạn không có quyền xem trang này."

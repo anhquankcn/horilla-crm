@@ -6,538 +6,786 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:12+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
+"PO-Revision-Date: 2026-01-04 13:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
+#: .\horilla_crm\leads\apps.py:13 .\horilla_crm\leads\menu.py:91
+#: .\horilla_crm\leads\models.py:298
 msgid "Leads"
-msgstr ""
+msgstr "Tiềm năng"
 
+#: .\horilla_crm\leads\i18n.py:3
 msgid "CRM"
-msgstr ""
+msgstr "CRM"
 
+#: .\horilla_crm\leads\i18n.py:4
 msgid "CRM module for managing leads, contacts, and opportunities."
-msgstr ""
+msgstr "Mô-đun CRM để quản lý Tiềm năng, liên hệ và cơ hội."
 
+#: .\horilla_crm\leads\i18n.py:5 .\horilla_crm\leads\i18n.py:8
 msgid "Horilla CRM"
-msgstr ""
+msgstr "AQ CRM"
 
+#: .\horilla_crm\leads\i18n.py:6
 msgid "Welcome to Horilla CRM"
-msgstr ""
+msgstr "Chào mừng đến với AQ CRM"
 
+#: .\horilla_crm\leads\i18n.py:7
 msgid "Please sign up to access Horilla CRM"
-msgstr ""
+msgstr "Vui lòng đăng ký để truy cập AQ CRM"
 
+#: .\horilla_crm\leads\lead_stage.py:129 .\horilla_crm\leads\models.py:43
 msgid "Is Final Stage"
-msgstr ""
+msgstr "Là giai đoạn cuối cùng"
 
+#: .\horilla_crm\leads\mail_to_lead.py:45 .\horilla_crm\leads\menu.py:52
 msgid "Mail to Lead"
-msgstr ""
+msgstr "Gửi thư cho Tiềm năng"
 
+#: .\horilla_crm\leads\menu.py:38 .\horilla_crm\leads\models.py:297
+#: .\horilla_crm\leads\models.py:514
 msgid "Lead"
-msgstr ""
+msgstr "Chỉ huy"
 
+#: .\horilla_crm\leads\menu.py:61
 msgid "Web to Lead"
-msgstr ""
+msgstr "Web để dẫn đầu"
 
+#: .\horilla_crm\leads\menu.py:79
 msgid "Sales"
-msgstr ""
+msgstr "Kinh doanh"
 
+#: .\horilla_crm\leads\models.py:40
 msgid "Status Name"
-msgstr ""
+msgstr "Tên trạng thái"
 
+#: .\horilla_crm\leads\models.py:41
 msgid "Status Order"
-msgstr ""
+msgstr "Thứ tự trạng thái"
 
+#: .\horilla_crm\leads\models.py:42
 msgid "Status Color"
-msgstr ""
+msgstr "Màu trạng thái"
 
+#: .\horilla_crm\leads\models.py:47
 msgid "Probability"
-msgstr ""
+msgstr "Xác suất"
 
+#: .\horilla_crm\leads\models.py:48
 msgid "Default probability percentage for this stage"
-msgstr ""
+msgstr "Phần trăm xác suất mặc định cho giai đoạn này"
 
+#: .\horilla_crm\leads\models.py:54 .\horilla_crm\leads\models.py:260
 msgid "Lead Stage"
-msgstr ""
+msgstr "Trạng thái Tiềm năng"
 
+#: .\horilla_crm\leads\models.py:55
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_initialize.html:25
 msgid "Lead Stages"
-msgstr ""
+msgstr "Các trạng thái tiềm năng"
 
+#: .\horilla_crm\leads\models.py:71
 msgid "Order must be a non-negative integer."
-msgstr ""
+msgstr "Thứ tự phải là số nguyên không âm."
 
+#: .\horilla_crm\leads\models.py:214
 msgid "Website"
-msgstr ""
+msgstr "Trang web"
 
+#: .\horilla_crm\leads\models.py:215
 msgid "Referral"
-msgstr ""
+msgstr "Giới thiệu"
 
+#: .\horilla_crm\leads\models.py:216
 msgid "Event"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_crm\leads\models.py:217
 msgid "Campaign"
-msgstr ""
+msgstr "Chiến dịch"
 
+#: .\horilla_crm\leads\models.py:218
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
+#: .\horilla_crm\leads\models.py:219 .\horilla_crm\leads\models.py:247
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
+#: .\horilla_crm\leads\models.py:220
 msgid "Social Media"
-msgstr ""
+msgstr "Truyền thông xã hội"
 
+#: .\horilla_crm\leads\models.py:221
 msgid "Partner"
-msgstr ""
+msgstr "Cộng sự"
 
+#: .\horilla_crm\leads\models.py:222 .\horilla_crm\leads\models.py:234
 msgid "Other"
-msgstr ""
+msgstr "Khác"
 
+#: .\horilla_crm\leads\models.py:226
 msgid "Finance"
-msgstr ""
+msgstr "Tài chính"
 
+#: .\horilla_crm\leads\models.py:227
 msgid "Healthcare"
-msgstr ""
+msgstr "Y tế"
 
+#: .\horilla_crm\leads\models.py:228
 msgid "Manufacturing"
-msgstr ""
+msgstr "Sản xuất"
 
+#: .\horilla_crm\leads\models.py:229
 msgid "Agriculture"
-msgstr ""
+msgstr "Nông nghiệp"
 
+#: .\horilla_crm\leads\models.py:230
 msgid "Construction"
-msgstr ""
+msgstr "Xây dựng"
 
+#: .\horilla_crm\leads\models.py:231
 msgid "Banking"
-msgstr ""
+msgstr "Ngân hàng"
 
+#: .\horilla_crm\leads\models.py:232
 msgid "Education"
-msgstr ""
+msgstr "Giáo dục"
 
+#: .\horilla_crm\leads\models.py:233
 msgid "Insurance"
-msgstr ""
+msgstr "Bảo hiểm"
 
+#: .\horilla_crm\leads\models.py:241 .\horilla_crm\leads\models.py:383
+#: .\horilla_crm\leads\models.py:496
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:201
 msgid "Lead Owner"
-msgstr ""
+msgstr "Chủ sở hữu Tiềm năng"
 
+#: .\horilla_crm\leads\models.py:244
 msgid "Title"
-msgstr ""
+msgstr "Tiêu đề"
 
+#: .\horilla_crm\leads\models.py:245
+#: .\horilla_crm\leads\templates\lead_convert_contact.html:5
 msgid "First Name"
-msgstr ""
+msgstr "Tên"
 
+#: .\horilla_crm\leads\models.py:246
+#: .\horilla_crm\leads\templates\lead_convert_contact.html:14
 msgid "Last Name"
-msgstr ""
+msgstr "Họ"
 
+#: .\horilla_crm\leads\models.py:249
 msgid "Contact Number"
-msgstr ""
+msgstr "Số liên lạc"
 
+#: .\horilla_crm\leads\models.py:251
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
+#: .\horilla_crm\leads\models.py:254
 msgid "Lead Source"
-msgstr ""
+msgstr "Nguồn Tiềm năng"
 
+#: .\horilla_crm\leads\models.py:262
 msgid "Company"
-msgstr ""
+msgstr "Công ty"
 
+#: .\horilla_crm\leads\models.py:264
 msgid "Total Employees"
-msgstr ""
+msgstr "Tổng số nhân viên"
 
+#: .\horilla_crm\leads\models.py:267
 msgid "Industry"
-msgstr ""
+msgstr "Ngành"
 
+#: .\horilla_crm\leads\models.py:274
 msgid "Annual Revenue"
-msgstr ""
+msgstr "Doanh thu hàng năm"
 
+#: .\horilla_crm\leads\models.py:276
 msgid "City"
-msgstr ""
+msgstr "Thành phố"
 
+#: .\horilla_crm\leads\models.py:277
 msgid "State"
-msgstr ""
+msgstr "Khu vực"
 
+#: .\horilla_crm\leads\models.py:278
 msgid "Country"
-msgstr ""
+msgstr "Quốc gia"
 
+#: .\horilla_crm\leads\models.py:279
 msgid "Zip"
-msgstr ""
+msgstr "Mã zip"
 
+#: .\horilla_crm\leads\models.py:281 .\horilla_crm\leads\views.py:396
 msgid "Requirements"
-msgstr ""
+msgstr "Yêu cầu"
 
+#: .\horilla_crm\leads\models.py:285
 msgid "Lead Score"
-msgstr ""
+msgstr "Điểm Tiềm năng"
 
+#: .\horilla_crm\leads\models.py:310
 msgid "Annual Revenue 3x"
-msgstr ""
+msgstr "Doanh thu hàng năm gấp 3 lần"
 
+#: .\horilla_crm\leads\models.py:367
 msgid "Incoming Mail"
-msgstr ""
+msgstr "Thư đến"
 
+#: .\horilla_crm\leads\models.py:374
 msgid ""
 "Comma-separated list of allowed sender email addresses. Leave blank to "
 "accept all."
 msgstr ""
+"Danh sách địa chỉ email người gửi được phép được phân tách bằng dấu phẩy. "
+"Để trống để chấp nhận tất cả."
 
+#: .\horilla_crm\leads\models.py:376
 msgid "Accept Emails From"
-msgstr ""
+msgstr "Chấp nhận email từ"
 
+#: .\horilla_crm\leads\models.py:390
 msgid ""
 "Comma-separated keywords to filter emails. Email must contain at least one "
 "keyword in subject OR body."
 msgstr ""
+"Từ khóa được phân tách bằng dấu phẩy để lọc email. Email phải chứa ít nhất "
+"một từ khóa trong chủ đề HOẶC nội dung."
 
+#: .\horilla_crm\leads\models.py:392
 msgid "Keywords"
-msgstr ""
+msgstr "Từ khóa"
 
+#: .\horilla_crm\leads\models.py:396
 msgid "Last Fetched On"
-msgstr ""
+msgstr "Được tìm nạp lần cuối"
 
+#: .\horilla_crm\leads\models.py:400 .\horilla_crm\leads\models.py:401
 msgid "Mail to Lead Config"
-msgstr ""
+msgstr "Cấu hình gửi thư tới Tiềm năng"
 
+#: .\horilla_crm\leads\models.py:462
 msgid "English"
-msgstr ""
+msgstr "Tiếng Anh"
 
+#: .\horilla_crm\leads\models.py:463
 msgid "Arabic"
-msgstr ""
+msgstr "Tiếng Ả Rập"
 
+#: .\horilla_crm\leads\models.py:464
 msgid "German"
-msgstr ""
+msgstr "Tiếng Đức"
 
+#: .\horilla_crm\leads\models.py:465
 msgid "French"
-msgstr ""
+msgstr "Tiếng Pháp"
 
+#: .\horilla_crm\leads\models.py:468
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:28
 msgid "Form Name"
-msgstr ""
+msgstr "Tên biểu mẫu"
 
+#: .\horilla_crm\leads\models.py:469
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:73
 msgid "Selected Fields"
-msgstr ""
+msgstr "Các trường đã chọn"
 
+#: .\horilla_crm\leads\models.py:471
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:103
 msgid "Enable Return URL"
-msgstr ""
+msgstr "Bật URL trả về"
 
+#: .\horilla_crm\leads\models.py:473
+#: .\horilla_crm\leads\templates\web_to_lead\conditional_fields.html:6
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:126
 msgid "Return URL"
-msgstr ""
+msgstr "URL trả về"
 
+#: .\horilla_crm\leads\models.py:475
+#: .\horilla_crm\leads\templates\web_to_lead\conditional_fields.html:24
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:145
 msgid "Success Message"
-msgstr ""
+msgstr "Thông báo thành công"
 
+#: .\horilla_crm\leads\models.py:478
+#: .\horilla_crm\leads\templates\web_to_lead\conditional_fields.html:41
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:162
 msgid "Success Description"
-msgstr ""
+msgstr "Mô tả thành công"
 
+#: .\horilla_crm\leads\models.py:481
 msgid "Enable Recaptcha"
-msgstr ""
+msgstr "Bật hình ảnh xác thực"
 
+#: .\horilla_crm\leads\models.py:487
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:180
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
+#: .\horilla_crm\leads\models.py:489
 msgid "Header Color"
-msgstr ""
+msgstr "Màu tiêu đề"
 
+#: .\horilla_crm\leads\models.py:501
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:9
 msgid "Lead Capture Form"
-msgstr ""
+msgstr "Biểu mẫu nắm bắt Tiềm năng"
 
+#: .\horilla_crm\leads\models.py:502
 msgid "Lead Capture Forms"
-msgstr ""
+msgstr "Biểu mẫu thu thập chì"
 
+#: .\horilla_crm\leads\models.py:510
 msgid "Rule Name"
-msgstr ""
+msgstr "Tên quy tắc"
 
+#: .\horilla_crm\leads\models.py:515
+#: .\horilla_crm\leads\templates\lead_convert.html:74
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:56
 msgid "Opportunity"
-msgstr ""
+msgstr "Cơ hội"
 
+#: .\horilla_crm\leads\models.py:516
+#: .\horilla_crm\leads\templates\lead_convert.html:22
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:22
 msgid "Account"
-msgstr ""
+msgstr "Tài khoản"
 
+#: .\horilla_crm\leads\models.py:517
+#: .\horilla_crm\leads\templates\lead_convert.html:49
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:39
 msgid "Contact"
-msgstr ""
+msgstr "Liên hệ"
 
+#: .\horilla_crm\leads\models.py:519 .\horilla_crm\leads\scoring_rule.py:120
 msgid "Module"
-msgstr ""
+msgstr "Mô đun"
 
+#: .\horilla_crm\leads\models.py:521
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
+#: .\horilla_crm\leads\models.py:558
 msgid "Scoring Rule"
-msgstr ""
+msgstr "Quy tắc tính điểm"
 
+#: .\horilla_crm\leads\models.py:559
 msgid "Scoring Rules"
-msgstr ""
+msgstr "Quy tắc tính điểm"
 
+#: .\horilla_crm\leads\models.py:569
 msgid "Criterion Name"
-msgstr ""
+msgstr "Tên tiêu chí"
 
+#: .\horilla_crm\leads\models.py:571
 msgid "Points to Award"
-msgstr ""
+msgstr "Điểm để thưởng"
 
+#: .\horilla_crm\leads\models.py:574
 msgid "Add"
-msgstr ""
+msgstr "Thêm vào"
 
+#: .\horilla_crm\leads\models.py:574
 msgid "Sub"
-msgstr ""
+msgstr "Phụ"
 
+#: .\horilla_crm\leads\models.py:576
 msgid "Operation Type"
-msgstr ""
+msgstr "Loại hoạt động"
 
+#: .\horilla_crm\leads\models.py:579 .\horilla_crm\leads\models.py:635
+#: .\horilla_crm\leads\templates\lead_status\order_field.html:4
 msgid "Order"
-msgstr ""
+msgstr "Đặt hàng"
 
+#: .\horilla_crm\leads\models.py:609
 msgid "Scoring Criterion"
-msgstr ""
+msgstr "Tiêu chí chấm điểm"
 
+#: .\horilla_crm\leads\models.py:610
 msgid "Scoring Criteria"
-msgstr ""
+msgstr "Tiêu chí chấm điểm"
 
+#: .\horilla_crm\leads\models.py:621
 msgid "Field Name"
-msgstr ""
+msgstr "Tên trường"
 
+#: .\horilla_crm\leads\models.py:625
 msgid "Operator"
-msgstr ""
+msgstr "Toán tử"
 
+#: .\horilla_crm\leads\models.py:627
 msgid "Value"
-msgstr ""
+msgstr "Giá trị"
 
+#: .\horilla_crm\leads\models.py:630
 msgid "AND"
-msgstr ""
+msgstr "VÀ"
 
+#: .\horilla_crm\leads\models.py:630
 msgid "OR"
-msgstr ""
+msgstr "HOẶC"
 
+#: .\horilla_crm\leads\models.py:632
 msgid "Logical Operator"
-msgstr ""
+msgstr "Toán tử logic"
 
+#: .\horilla_crm\leads\models.py:701
 msgid "Scoring Condition"
-msgstr ""
+msgstr "Điều kiện chấm điểm"
 
+#: .\horilla_crm\leads\models.py:702
 msgid "Scoring Conditions"
-msgstr ""
+msgstr "Điều kiện tính điểm"
 
+#: .\horilla_crm\leads\models.py:714
 msgid "Opened"
-msgstr ""
+msgstr "Đã mở"
 
+#: .\horilla_crm\leads\models.py:715
 msgid "Clicked"
-msgstr ""
+msgstr "Đã nhấp vào"
 
+#: .\horilla_crm\leads\models.py:716
 msgid "Bounced"
-msgstr ""
+msgstr "Bị trả lại"
 
+#: .\horilla_crm\leads\scoring_rule.py:84
 msgid "Add column to list"
-msgstr ""
+msgstr "Thêm cột vào danh sách"
 
+#: .\horilla_crm\leads\scoring_rule.py:121
 msgid "Is Active"
-msgstr ""
+msgstr "Đang hoạt động"
 
+#: .\horilla_crm\leads\scoring_rule.py:318
 msgid "Create New Rule Criteria"
-msgstr ""
+msgstr "Tạo tiêu chí quy tắc mới"
 
+#: .\horilla_crm\leads\templates\actions.html:18
+#: .\horilla_crm\leads\templates\scoring_rule\scoring_rule_detail_view.html:56
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: .\horilla_crm\leads\templates\actions.html:24
+msgid "Export"
+msgstr "Xuất khẩu"
+
+#: .\horilla_crm\leads\templates\actions.html:31
+msgid "Move"
+msgstr "Di chuyển"
+
+#: .\horilla_crm\leads\templates\actions.html:38
+msgid "Favourite"
+msgstr "Yêu thích"
+
+#: .\horilla_crm\leads\templates\actions.html:45
+#: .\horilla_crm\leads\views.py:241
+msgid "Duplicate"
+msgstr "Nhân bản"
+
+#: .\horilla_crm\leads\templates\lead_convert.html:8
 msgid "Lead Conversion"
-msgstr ""
+msgstr "Chuyển đổi Tiềm năng"
 
+#: .\horilla_crm\leads\templates\lead_convert.html:10
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:12
+#: .\horilla_crm\leads\templates\lead_status\custom_stages_form.html:45
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_modal.html:128
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
+#: .\horilla_crm\leads\templates\lead_convert.html:32
+#: .\horilla_crm\leads\templates\lead_convert.html:58
+#: .\horilla_crm\leads\templates\lead_convert.html:83
 msgid "Create New"
-msgstr ""
+msgstr "Tạo mới"
 
+#: .\horilla_crm\leads\templates\lead_convert.html:42
+#: .\horilla_crm\leads\templates\lead_convert.html:67
+#: .\horilla_crm\leads\templates\lead_convert.html:95
 msgid "Select Existing"
-msgstr ""
+msgstr "Chọn hiện có"
 
+#: .\horilla_crm\leads\templates\lead_convert.html:103
 msgid "Owner"
-msgstr ""
+msgstr "Người sở hữu"
 
+#: .\horilla_crm\leads\templates\lead_convert.html:118
 msgid "Convert"
-msgstr ""
+msgstr "Chuyển thành"
 
+#: .\horilla_crm\leads\templates\lead_convert_account.html:4
+#: .\horilla_crm\leads\templates\lead_convert_account.html:14
 msgid "Account Name"
-msgstr ""
+msgstr "Tên tài khoản"
 
+#: .\horilla_crm\leads\templates\lead_convert_contact.html:25
 msgid "Select Contact"
-msgstr ""
+msgstr "Chọn liên hệ"
 
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:4
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:15
 msgid "Opportunity Name"
-msgstr ""
+msgstr "Tên cơ hội"
 
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:25
 msgid "Select Opportunity"
-msgstr ""
+msgstr "Chọn cơ hội"
 
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:34
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:39
 msgid "Please select an account first"
-msgstr ""
+msgstr "Vui lòng chọn một tài khoản trước"
 
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:36
+#: .\horilla_crm\leads\templates\lead_convert_opportunity.html:41
 msgid "Select an account to see available opportunities"
-msgstr ""
+msgstr "Chọn một tài khoản để xem các cơ hội có sẵn"
 
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:17
 msgid "Success"
-msgstr ""
+msgstr "Thành công"
 
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:18
 msgid "Your lead has been converted"
-msgstr ""
+msgstr "Tiềm năng của bạn đã được chuyển đổi"
 
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:25
 msgid "Comapny"
-msgstr ""
+msgstr "Công ty"
 
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:42
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:59
 msgid "crown"
-msgstr ""
+msgstr "vương miện"
 
+#: .\horilla_crm\leads\templates\lead_convert_success_modal.html:76
 msgid "Go to Leads"
-msgstr ""
+msgstr "Chuyển đến Danh sách tiềm năng"
 
+#: .\horilla_crm\leads\templates\lead_status\custom_stages_form.html:5
 msgid "Manage Custom Stages"
-msgstr ""
+msgstr "Quản lý các giai đoạn tùy chỉnh"
 
+#: .\horilla_crm\leads\templates\lead_status\custom_stages_form.html:20
 msgid "Drag"
-msgstr ""
+msgstr "Lôi kéo"
 
+#: .\horilla_crm\leads\templates\lead_status\custom_stages_form.html:59
 msgid "Add Stage"
-msgstr ""
+msgstr "Thêm trạng thái"
 
+#: .\horilla_crm\leads\templates\lead_status\custom_stages_form.html:65
 msgid " Changes"
-msgstr ""
+msgstr " Thay đổi"
 
+#: .\horilla_crm\leads\templates\lead_status\custom_stages_form.html:70
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_initialize.html:6
 msgid "Initialize Database"
-msgstr ""
+msgstr "Khởi tạo cơ sở dữ liệu"
 
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_initialize.html:27
 msgid "Get started by using default stages or adding your custom stages."
 msgstr ""
+"Bắt đầu bằng cách sử dụng các giai đoạn mặc định hoặc thêm các giai đoạn "
+"tùy chỉnh của bạn."
 
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_modal.html:23
 msgid "Default Stages"
-msgstr ""
+msgstr "Trạng thái mặc định"
 
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_modal.html:25
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_modal.html:35
 msgid "Stages"
-msgstr ""
+msgstr "Giai đoạn trạng thái"
 
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_modal.html:84
 msgid "Select Lead Stages for"
-msgstr ""
+msgstr "Chọn các giai đoạn cho KH Tiềm năng"
 
+#: .\horilla_crm\leads\templates\lead_status\lead_stages_modal.html:112
 msgid "Custom Stages"
-msgstr ""
+msgstr "Giai đoạn tùy chỉnh"
 
+#: .\horilla_crm\leads\templates\scoring_rule\scoring_rule_detail_view.html:21
 msgid "Criteria"
-msgstr ""
+msgstr "Tiêu chuẩn"
 
+#: .\horilla_crm\leads\templates\scoring_rule\scoring_rule_detail_view.html:35
 msgid "Points"
-msgstr ""
+msgstr "Điểm"
 
+#: .\horilla_crm\leads\templates\scoring_rule\scoring_rule_detail_view.html:45
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
-msgid "Delete"
-msgstr ""
-
+#: .\horilla_crm\leads\templates\scoring_rule\scoring_rule_detail_view.html:74
 msgid "Nothing to show yet. Please add your Criteria"
-msgstr ""
+msgstr "Chưa có gì để hiển thị. Vui lòng thêm Tiêu chí của bạn"
 
+#: .\horilla_crm\leads\templates\web_to_lead\conditional_fields.html:12
 msgid "Enter return url"
-msgstr ""
+msgstr "Nhập url trả về"
 
+#: .\horilla_crm\leads\templates\web_to_lead\conditional_fields.html:30
 msgid "Enter success message"
-msgstr ""
+msgstr "Nhập thông báo thành công"
 
+#: .\horilla_crm\leads\templates\web_to_lead\conditional_fields.html:46
 msgid "Enter success description"
-msgstr ""
+msgstr "Nhập mô tả thành công"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_heading.html:5
+#: .\horilla_crm\leads\templates\web_to_lead\form_heading.html:10
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:6
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:12
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:70
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:76
 msgid "Contact Us"
-msgstr ""
+msgstr "Liên hệ với chúng tôi"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:27
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:34
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:43
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:66
 #, python-format
 msgid "Enter %(vname)s"
-msgstr ""
+msgstr "Nhập %(vname)s"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:55
 #, python-format
 msgid "Select %(vname)s"
-msgstr ""
+msgstr "Chọn %(vname)s"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:77
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:84
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:123
 msgid "Submit"
-msgstr ""
+msgstr "Gửi đi"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_preview.html:90
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:273
 msgid "Select fields to preview form"
-msgstr ""
+msgstr "Chọn các trường để xem trước biểu mẫu"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:5
 msgid "Your lead capture form is ready to use."
 msgstr ""
+"Biểu mẫu thu thập Tiềm năng của bạn đã sẵn sàng để sử dụng."
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:9
 msgid "IFRAME EMBED CODE"
-msgstr ""
+msgstr "MÃ NHÚNG IFRAME"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:14
 msgid "Copy Embed"
-msgstr ""
+msgstr "Sao chép Nhúng"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:21
 msgid ""
 "Copy and paste this embed code into your website's HTML where you want the "
 "form to appear."
 msgstr ""
+"Sao chép và dán mã nhúng này vào HTML của trang web nơi bạn muốn biểu mẫu "
+"xuất hiện."
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:26
 msgid "GENERATED HTML CODE"
-msgstr ""
+msgstr "MÃ HTML ĐƯỢC TẠO"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:32
 msgid "Copy Code"
-msgstr ""
+msgstr "Sao chép mã"
 
+#: .\horilla_crm\leads\templates\web_to_lead\form_saved_success.html:39
 msgid "Preview"
-msgstr ""
+msgstr "Xem trước"
 
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:24
 msgid "Form Builder"
-msgstr ""
+msgstr "Trình tạo biểu mẫu"
 
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:52
 msgid "Fields"
-msgstr ""
+msgstr "Trường"
 
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:89
 msgid "Click fields to add"
-msgstr ""
+msgstr "Bấm vào các trường để thêm"
 
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:210
 msgid "Select Lead Owner"
-msgstr ""
+msgstr "Chọn chủ sở hữu chính"
 
+#: .\horilla_crm\leads\templates\web_to_lead\lead_form_builder.html:263
 msgid "Generate"
-msgstr ""
+msgstr "Sinh ra"
 
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:92
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:96
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:101
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:113
 msgid "Enter"
-msgstr ""
+msgstr "Đi vào"
 
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:105
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:121
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:122
 msgid "Submitting..."
-msgstr ""
+msgstr "Đang gửi..."
 
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:128
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
+#: .\horilla_crm\leads\templates\web_to_lead\public_lead_form.html:130
 msgid "Loading..."
-msgstr ""
+msgstr "Đang tải..."
 
+#: .\horilla_crm\leads\templates\web_to_lead\web_to_lead_404.html:5
 msgid "Page Not Found"
-msgstr ""
+msgstr "Không tìm thấy trang"
 
+#: .\horilla_crm\leads\views.py:104
 msgid "Converted Lead"
-msgstr ""
+msgstr "Tiềm năng đã chuyển đổi"
 
-msgid "Duplicate"
-msgstr ""
-
+#: .\horilla_crm\leads\views.py:393
 msgid "Basic Information"
-msgstr ""
+msgstr "Thông tin cơ bản"
 
+#: .\horilla_crm\leads\views.py:394
 msgid "Company Details"
-msgstr ""
+msgstr "Chi tiết công ty"
 
+#: .\horilla_crm\leads\views.py:395
 msgid "Location"
-msgstr ""
+msgstr "Vị trí"
 
+#: .\horilla_crm\leads\views.py:726
 msgid "Change Owner"
-msgstr ""
+msgstr "Thay đổi chủ sở hữu"

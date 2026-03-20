@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:06+0000\n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,296 +18,464 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: .\horilla_reports\__version__.py:7
 msgid "Module for creating and customizing reports across all system modules."
-msgstr ""
+msgstr "Mô-đun để tạo và tùy chỉnh báo cáo trên tất cả các mô-đun hệ thống."
 
+#: .\horilla_reports\apps.py:18 .\horilla_reports\menu.py:31
+#: .\horilla_reports\models.py:133
+#: .\horilla_reports\templates\favourite_folder_list.html:44
+#: .\horilla_reports\templates\favourite_folder_list.html:101
+#: .\horilla_reports\templates\favourite_report_list_view.html:18
+#: .\horilla_reports\templates\favourite_report_list_view.html:74
+#: .\horilla_reports\templates\report_folder_detail.html:48
+#: .\horilla_reports\templates\report_folder_detail.html:104
+#: .\horilla_reports\templates\report_list_view.html:19
+#: .\horilla_reports\templates\report_list_view.html:74
+#: .\horilla_reports\templates\reports_view.html:22
+#: .\horilla_reports\templates\reports_view.html:63
 msgid "Reports"
-msgstr ""
+msgstr "Báo cáo"
 
+#: .\horilla_reports\menu.py:19
 msgid "Analytics"
-msgstr ""
+msgstr "Phân tích"
 
+#: .\horilla_reports\models.py:16
 msgid "Folder Name"
-msgstr ""
+msgstr "Tên thư mục"
 
+#: .\horilla_reports\models.py:22 .\horilla_reports\models.py:107
 msgid "Folder"
-msgstr ""
+msgstr "Thư mục"
 
+#: .\horilla_reports\models.py:29
 msgid "Folder Owner"
-msgstr ""
+msgstr "Chủ sở hữu thư mục"
 
+#: .\horilla_reports\models.py:35
 msgid "Report Folder"
-msgstr ""
+msgstr "Thư mục báo cáo"
 
+#: .\horilla_reports\models.py:36
 msgid "Report Folders"
-msgstr ""
+msgstr "Thư mục báo cáo"
 
+#: .\horilla_reports\models.py:78
 msgid "Column Chart"
-msgstr ""
+msgstr "Biểu đồ cột"
 
+#: .\horilla_reports\models.py:79
+#: .\horilla_reports\templates\partials\chart_container.html:29
 msgid "Line Chart"
-msgstr ""
+msgstr "Biểu đồ đường"
 
+#: .\horilla_reports\models.py:80
+#: .\horilla_reports\templates\partials\chart_container.html:23
 msgid "Pie Chart"
-msgstr ""
+msgstr "Biểu đồ hình tròn"
 
+#: .\horilla_reports\models.py:81
 msgid "Funnel"
-msgstr ""
+msgstr "Kênh"
 
+#: .\horilla_reports\models.py:82
+#: .\horilla_reports\templates\partials\chart_container.html:17
 msgid "Bar Chart"
-msgstr ""
+msgstr "Biểu đồ thanh"
 
+#: .\horilla_reports\models.py:83
 msgid "Donut"
-msgstr ""
+msgstr "bánh rán"
 
+#: .\horilla_reports\models.py:84
 msgid "Stacked Vertical Chart"
-msgstr ""
+msgstr "Biểu đồ dọc xếp chồng"
 
+#: .\horilla_reports\models.py:85
 msgid "Stacked Horizontal Chart"
-msgstr ""
+msgstr "Biểu đồ ngang xếp chồng"
 
+#: .\horilla_reports\models.py:86
 msgid "Scatter Chart"
-msgstr ""
+msgstr "Biểu đồ phân tán"
 
+#: .\horilla_reports\models.py:92
 msgid "Report Owner"
-msgstr ""
+msgstr "Chủ sở hữu báo cáo"
 
+#: .\horilla_reports\models.py:95
 msgid "Report Name"
-msgstr ""
+msgstr "Tên báo cáo"
 
+#: .\horilla_reports\models.py:99 .\horilla_reports\views.py:161
+#: .\horilla_reports\views.py:236
 msgid "Module"
-msgstr ""
+msgstr "mô-đun"
 
+#: .\horilla_reports\models.py:118
 msgid "Chart Field"
-msgstr ""
+msgstr "Trường biểu đồ"
 
+#: .\horilla_reports\models.py:121
 msgid "Secondary Field"
-msgstr ""
+msgstr "Trường phụ"
 
+#: .\horilla_reports\models.py:132
 msgid "Report"
-msgstr ""
+msgstr "Báo cáo"
 
+#: .\horilla_reports\templates\favourite_folder_list.html:56
 msgid " All Reports"
-msgstr ""
+msgstr "Tất cả báo cáo"
 
+#: .\horilla_reports\templates\favourite_folder_list.html:60
+#: .\horilla_reports\templates\favourite_folder_list.html:88
+#: .\horilla_reports\templates\favourite_report_list_view.html:34
+#: .\horilla_reports\templates\favourite_report_list_view.html:62
+#: .\horilla_reports\templates\report_folder_detail.html:64
+#: .\horilla_reports\templates\report_folder_detail.html:92
+#: .\horilla_reports\templates\report_list_view.html:34
+#: .\horilla_reports\templates\report_list_view.html:61
+#: .\horilla_reports\templates\reports_view.html:37
+#: .\horilla_reports\templates\reports_view.html:57
 msgid "Folders"
-msgstr ""
+msgstr "Thư mục"
 
+#: .\horilla_reports\templates\favourite_folder_list.html:72
+#: .\horilla_reports\templates\favourite_report_list_view.html:46
+#: .\horilla_reports\templates\report_folder_detail.html:76
+#: .\horilla_reports\templates\report_list_view.html:45
+#: .\horilla_reports\templates\reports_view.html:48
 msgid "All Folders"
-msgstr ""
+msgstr "Tất cả các thư mục"
 
+#: .\horilla_reports\templates\favourite_folder_list.html:76
+#: .\horilla_reports\templates\favourite_report_list_view.html:50
+#: .\horilla_reports\templates\report_folder_detail.html:80
+#: .\horilla_reports\templates\report_list_view.html:49
+#: .\horilla_reports\templates\reports_view.html:52
 msgid "Favourites"
-msgstr ""
+msgstr "Yêu thích"
 
+#: .\horilla_reports\templates\favourite_report_list_view.html:30
+#: .\horilla_reports\templates\report_folder_detail.html:60
+#: .\horilla_reports\templates\report_list_view.html:30
+#: .\horilla_reports\templates\reports_view.html:33
 msgid "All Reports"
-msgstr ""
+msgstr "Tất cả báo cáo"
 
+#: .\horilla_reports\templates\partials\available_columns_list.html:18
 msgid "You are already selected this field"
-msgstr ""
+msgstr "Bạn đã chọn trường này"
 
+#: .\horilla_reports\templates\partials\available_columns_list.html:24
 msgid "No matching columns found"
-msgstr ""
+msgstr "Không tìm thấy cột phù hợp"
 
+#: .\horilla_reports\templates\partials\available_filter_list.html:14
+#: .\horilla_reports\templates\partials\available_grouping_list.html:53
 msgid "No fields found matching your search"
-msgstr ""
+msgstr "Không tìm thấy trường nào phù hợp với tìm kiếm của bạn"
 
+#: .\horilla_reports\templates\partials\available_grouping_list.html:19
+#: .\horilla_reports\templates\partials\report_panel.html:158
 msgid "R"
-msgstr ""
+msgstr "R"
 
+#: .\horilla_reports\templates\partials\available_grouping_list.html:30
+#: .\horilla_reports\templates\partials\report_panel.html:170
 msgid "C"
-msgstr ""
+msgstr "C"
 
+#: .\horilla_reports\templates\partials\available_grouping_list.html:46
+#: .\horilla_reports\templates\partials\report_panel.html:187
 msgid "A"
-msgstr ""
+msgstr "MỘT"
 
+#: .\horilla_reports\templates\partials\chart_container.html:8
 msgid "Down"
-msgstr ""
+msgstr "Xuống"
 
+#: .\horilla_reports\templates\partials\chart_container.html:30
+#: .\horilla_reports\templates\report_detail.html:204
 msgid "Add to Dashboard"
-msgstr ""
+msgstr "Thêm vào Trang tổng quan"
 
+#: .\horilla_reports\templates\partials\chart_container.html:35
 msgid "Record Count"
-msgstr ""
+msgstr "Số lượng bản ghi"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:17
 msgid "Is"
-msgstr ""
+msgstr "Là"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:18
 msgid "Contains"
-msgstr ""
+msgstr "Chứa"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:19
 msgid "Greater than"
-msgstr ""
+msgstr "Lớn hơn"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:20
 msgid "Less than"
-msgstr ""
+msgstr "Ít hơn"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:21
 msgid "Greater or equal"
-msgstr ""
+msgstr "Lớn hơn hoặc bằng"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:22
 msgid "Less or equal"
-msgstr ""
+msgstr "Ít hơn hoặc bằng"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:65
+#: .\horilla_reports\templates\report_detail.html:57
+#: .\horilla_reports\templates\report_detail.html:69
+#: .\horilla_reports\templates\reports\load_default_reports.html:8
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:79
 msgid "AND"
-msgstr ""
+msgstr "VÀ"
 
+#: .\horilla_reports\templates\partials\filter_row_report.html:80
 msgid "OR"
-msgstr ""
+msgstr "HOẶC"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:5
 msgid "Summary Report"
-msgstr ""
+msgstr "Báo cáo tóm tắt"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:11
+#: .\horilla_reports\templates\report_detail.html:141
 msgid "Total Count"
-msgstr ""
+msgstr "Tổng số"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:46
+#: .\horilla_reports\templates\partials\pivot_table.html:68
+#: .\horilla_reports\templates\partials\pivot_table.html:92
+#: .\horilla_reports\templates\partials\pivot_table.html:125
+#: .\horilla_reports\templates\partials\pivot_table.html:154
+#: .\horilla_reports\templates\partials\pivot_table.html:185
+#: .\horilla_reports\templates\partials\pivot_table.html:267
+#: .\horilla_reports\templates\partials\pivot_table.html:397
+#: .\horilla_reports\templates\partials\pivot_table.html:424
 msgid "Total"
-msgstr ""
+msgstr "Tổng cộng"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:217
+#: .\horilla_reports\templates\partials\pivot_table.html:299
 msgid "Subtotal"
-msgstr ""
+msgstr "Tổng phụ"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:237
+#: .\horilla_reports\templates\partials\pivot_table.html:319
 msgid "Grand Total"
-msgstr ""
+msgstr "Tổng cộng"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:347
+#: .\horilla_reports\templates\partials\report_panel.html:274
 msgid "Count"
-msgstr ""
+msgstr "Đếm"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:451
 msgid "Overall Grand Total"
-msgstr ""
+msgstr "Tổng cộng Tổng cộng"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:481
 msgid "Error"
-msgstr ""
+msgstr "Lỗi"
 
+#: .\horilla_reports\templates\partials\pivot_table.html:483
 msgid "Configuration not supported"
-msgstr ""
+msgstr "Cấu hình không được hỗ trợ"
 
+#: .\horilla_reports\templates\partials\report_panel.html:23
+#: .\horilla_reports\templates\partials\report_panel.html:61
+#: .\horilla_reports\templates\partials\report_panel.html:121
+#: .\horilla_reports\templates\partials\report_panel.html:289
 msgid "Columns"
-msgstr ""
+msgstr "Cột"
 
+#: .\horilla_reports\templates\partials\report_panel.html:36
 msgid "Grouping"
-msgstr ""
+msgstr "Nhóm"
 
+#: .\horilla_reports\templates\partials\report_panel.html:49
 msgid "Filter"
-msgstr ""
+msgstr "Lọc"
 
+#: .\horilla_reports\templates\partials\report_panel.html:75
+#: .\horilla_reports\templates\partials\report_panel.html:136
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
+#: .\horilla_reports\templates\partials\report_panel.html:97
 msgid "Selected Columns"
-msgstr ""
+msgstr "Cột đã chọn"
 
+#: .\horilla_reports\templates\partials\report_panel.html:195
 msgid "Grouped Columns"
-msgstr ""
+msgstr "Cột được nhóm"
 
+#: .\horilla_reports\templates\partials\report_panel.html:197
 msgid "Row Groups"
-msgstr ""
+msgstr "Nhóm hàng"
 
+#: .\horilla_reports\templates\partials\report_panel.html:219
 msgid "Column Groups"
-msgstr ""
+msgstr "Nhóm cột"
 
+#: .\horilla_reports\templates\partials\report_panel.html:235
 msgid "Aggregate Columns"
-msgstr ""
+msgstr "Cột tổng hợp"
 
+#: .\horilla_reports\templates\partials\report_panel.html:272
 msgid "Sum"
-msgstr ""
+msgstr "Tổng"
 
+#: .\horilla_reports\templates\partials\report_panel.html:273
 msgid "Avg"
-msgstr ""
+msgstr "Trung bình"
 
+#: .\horilla_reports\templates\partials\report_panel.html:275
 msgid "Max"
-msgstr ""
+msgstr "Tối đa"
 
+#: .\horilla_reports\templates\partials\report_panel.html:276
 msgid "Min"
-msgstr ""
+msgstr "tối thiểu"
 
+#: .\horilla_reports\templates\partials\report_panel.html:302
 msgid "Seacrch"
-msgstr ""
+msgstr "tìm kiếm"
 
+#: .\horilla_reports\templates\partials\report_panel.html:320
 msgid "Apply Filters"
-msgstr ""
+msgstr "Áp dụng bộ lọc"
 
+#: .\horilla_reports\templates\report_detail.html:25
 msgid "Report:"
-msgstr ""
+msgstr "Báo cáo:"
 
+#: .\horilla_reports\templates\report_detail.html:31
 msgid "Refresh"
-msgstr ""
+msgstr "Làm cho khỏe lại"
 
+#: .\horilla_reports\templates\report_detail.html:44
+#: .\horilla_reports\templates\report_detail.html:131
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
+#: .\horilla_reports\templates\report_detail.html:82
+#: .\horilla_reports\templates\reports\actions.html:22
+#: .\horilla_reports\templates\reports\folder_actions.html:16
+#: .\horilla_reports\templates\reports\folder_actions_detail.html:10
+#: .\horilla_reports\templates\reports\report_actions_detail.html:9
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
+#: .\horilla_reports\templates\report_detail.html:93
+#: .\horilla_reports\templates\report_detail.html:165
 msgid "Actions"
-msgstr ""
+msgstr "hành động"
 
+#: .\horilla_reports\templates\report_detail.html:131
 msgid "You have unsaved changes. Click"
-msgstr ""
+msgstr "Bạn có những thay đổi chưa được lưu. nhấp chuột"
 
+#: .\horilla_reports\templates\report_detail.html:131
 msgid "to keep your changes or"
-msgstr ""
+msgstr "để giữ những thay đổi của bạn hoặc"
 
+#: .\horilla_reports\templates\report_detail.html:131
 msgid "Discard"
-msgstr ""
+msgstr "Loại bỏ"
 
+#: .\horilla_reports\templates\report_detail.html:131
 msgid "to revert."
-msgstr ""
+msgstr "để hoàn nguyên."
 
+#: .\horilla_reports\templates\report_detail.html:149
 msgid "Detail table"
-msgstr ""
+msgstr "Bảng chi tiết"
 
+#: .\horilla_reports\templates\report_detail.html:155
 msgid "Pivot table"
-msgstr ""
+msgstr "Bảng tổng hợp"
 
+#: .\horilla_reports\templates\report_detail.html:162
 msgid "Report Chart"
-msgstr ""
+msgstr "Biểu đồ báo cáo"
 
+#: .\horilla_reports\templates\report_detail.html:175
 msgid "Change Chart"
-msgstr ""
+msgstr "Thay đổi biểu đồ"
 
+#: .\horilla_reports\templates\report_detail.html:185
 msgid "Change Field"
-msgstr ""
+msgstr "Thay đổi trường"
 
+#: .\horilla_reports\templates\report_detail.html:190
 msgid "Export as PDF"
-msgstr ""
+msgstr "Xuất dưới dạng PDF"
 
+#: .\horilla_reports\templates\report_detail.html:195
 msgid "Export as PNG"
-msgstr ""
+msgstr "Xuất dưới dạng PNG"
 
+#: .\horilla_reports\templates\report_detail.html:212
 msgid "Record Count:"
-msgstr ""
+msgstr "Số lượng bản ghi:"
 
+#: .\horilla_reports\templates\reports\actions.html:29
+#: .\horilla_reports\templates\reports\folder_actions_detail.html:17
+#: .\horilla_reports\templates\reports\report_actions_detail.html:23
 msgid "Move"
-msgstr ""
+msgstr "Di chuyển"
 
+#: .\horilla_reports\templates\reports\actions.html:40
+#: .\horilla_reports\templates\reports\folder_actions.html:27
+#: .\horilla_reports\templates\reports\folder_actions_detail.html:28
+#: .\horilla_reports\templates\reports\report_actions_detail.html:17
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
+#: .\horilla_reports\templates\reports\load_default_reports.html:6
 msgid "Select Default Reports"
-msgstr ""
+msgstr "Chọn báo cáo mặc định"
 
+#: .\horilla_reports\templates\reports\load_default_reports.html:25
 msgid "Select All"
-msgstr ""
+msgstr "Chọn tất cả"
 
+#: .\horilla_reports\templates\reports\load_default_reports.html:51
 msgid "Create"
-msgstr ""
+msgstr "Tạo nên"
 
+#: .\horilla_reports\templates\reports\load_default_reports.html:56
 msgid "No reports found."
-msgstr ""
+msgstr "Không tìm thấy báo cáo nào."
 
+#: .\horilla_reports\views.py:98
 msgid "New Report"
-msgstr ""
+msgstr "Báo cáo mới"
 
+#: .\horilla_reports\views.py:109 .\horilla_reports\views.py:158
 msgid "Load Default Reports"
-msgstr ""
+msgstr "Tải báo cáo mặc định"
 
+#: .\horilla_reports\views.py:124
 msgid "New Folder"
-msgstr ""
+msgstr "Thư mục mới"
 
+#: .\horilla_reports\views.py:4020
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
+#: .\horilla_reports\views.py:4021
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"

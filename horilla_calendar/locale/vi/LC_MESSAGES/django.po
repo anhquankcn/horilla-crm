@@ -6,155 +6,210 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:06+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
+"PO-Revision-Date: 2026-01-04 13:07+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
+#: .\horilla_calendar\__version__.py:6
 msgid "Module for managing calendar events and schedules."
-msgstr ""
+msgstr "Mô-đun quản lý sự kiện và lịch trình lịch."
 
+#: .\horilla_calendar\apps.py:13 .\horilla_calendar\menu.py:31
+#: .\horilla_calendar\templates\calendar.html:26
 msgid "Calendar"
-msgstr ""
+msgstr "Lịch"
 
+#: .\horilla_calendar\menu.py:19
 msgid "Schedule"
-msgstr ""
+msgstr "Lịch trình"
 
+#: .\horilla_calendar\models.py:16
 msgid "Task"
-msgstr ""
+msgstr "Nhiệm vụ"
 
+#: .\horilla_calendar\models.py:17
 msgid "Event"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_calendar\models.py:18
 msgid "Meeting"
-msgstr ""
+msgstr "Cuộc họp"
 
+#: .\horilla_calendar\models.py:19
 msgid "Un Availability"
-msgstr ""
+msgstr "Không có sẵn"
 
+#: .\horilla_calendar\models.py:26 .\horilla_calendar\models.py:56
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
+#: .\horilla_calendar\models.py:29
 msgid "Calendar Type"
-msgstr ""
+msgstr "Loại lịch"
 
+#: .\horilla_calendar\models.py:31
+#: .\horilla_calendar\templates\calendar.html:845
 msgid "Color"
-msgstr ""
+msgstr "Màu sắc"
 
+#: .\horilla_calendar\models.py:32
 msgid "Is Selected"
-msgstr ""
+msgstr "Được chọn"
 
+#: .\horilla_calendar\models.py:42
 msgid "User Calendar Preference"
-msgstr ""
+msgstr "Tùy chọn lịch của người dùng"
 
+#: .\horilla_calendar\models.py:43
 msgid "User Calendar Preferences"
-msgstr ""
+msgstr "Tùy chọn lịch của người dùng"
 
+#: .\horilla_calendar\models.py:58
 msgid "From"
-msgstr ""
+msgstr "Từ"
 
+#: .\horilla_calendar\models.py:59
 msgid "To"
-msgstr ""
+msgstr "ĐẾN"
 
+#: .\horilla_calendar\models.py:60
+#: .\horilla_calendar\templates\calendar.html:344
 msgid "Reason"
-msgstr ""
+msgstr "Lý do"
 
+#: .\horilla_calendar\models.py:65
 msgid "User Unavailability"
-msgstr ""
+msgstr "Người dùng không có mặt"
 
+#: .\horilla_calendar\models.py:66
 msgid "User Unavailabilities"
-msgstr ""
+msgstr "Người dùng không sẵn sàng"
 
+#: .\horilla_calendar\templates\calendar.html:12
 msgid "Mark Unavailable"
-msgstr ""
+msgstr "Đánh dấu là không có sẵn"
 
+#: .\horilla_calendar\templates\calendar.html:36
 msgid "preview"
-msgstr ""
+msgstr "xem trước"
 
+#: .\horilla_calendar\templates\calendar.html:43
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
+#: .\horilla_calendar\templates\calendar.html:49
 msgid "next"
-msgstr ""
+msgstr "kế tiếp"
 
+#: .\horilla_calendar\templates\calendar.html:59
 msgid "Day"
-msgstr ""
+msgstr "Ngày"
 
+#: .\horilla_calendar\templates\calendar.html:63
 msgid "Week"
-msgstr ""
+msgstr "Tuần"
 
+#: .\horilla_calendar\templates\calendar.html:67
 msgid "Month"
-msgstr ""
+msgstr "Tháng"
 
+#: .\horilla_calendar\templates\calendar.html:71
 msgid "Year"
-msgstr ""
+msgstr "Năm"
 
+#: .\horilla_calendar\templates\calendar.html:345
+#: .\horilla_calendar\templates\calendar.html:381
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
+#: .\horilla_calendar\templates\calendar.html:346
+#: .\horilla_calendar\templates\calendar.html:382
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
+#: .\horilla_calendar\templates\calendar.html:357
+#: .\horilla_calendar\templates\calendar.html:403
 msgid "Edit"
-msgstr ""
+msgstr "Sửa"
 
+#: .\horilla_calendar\templates\calendar.html:365
+#: .\horilla_calendar\templates\calendar.html:411
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
+#: .\horilla_calendar\templates\calendar.html:380
 msgid "Subject"
-msgstr ""
+msgstr "Chủ đề"
 
+#: .\horilla_calendar\templates\calendar.html:383
 msgid "Assigned to"
-msgstr ""
+msgstr "Được giao cho"
 
+#: .\horilla_calendar\templates\calendar.html:384
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
+#: .\horilla_calendar\templates\calendar.html:388
 msgid "Mark as Complete"
-msgstr ""
+msgstr "Đánh dấu là hoàn thành"
 
+#: .\horilla_calendar\templates\calendar.html:419
 msgid "Info"
-msgstr ""
+msgstr "Thông tin"
 
+#: .\horilla_calendar\templates\calendar.html:448
 msgid "New Activity"
-msgstr ""
+msgstr "Hoạt động mới"
 
+#: .\horilla_calendar\templates\calendar.html:459
 msgid "Mark as Unavailable"
-msgstr ""
+msgstr "Đánh dấu là không có sẵn"
 
+#: .\horilla_calendar\templates\calendar.html:806
 msgid "My Calendars"
-msgstr ""
+msgstr "Lịch của tôi"
 
+#: .\horilla_calendar\templates\calendar.html:829
 msgid "Dropdown"
-msgstr ""
+msgstr "Thả xuống"
 
+#: .\horilla_calendar\templates\calendar.html:841
 msgid "Display This Only"
-msgstr ""
+msgstr "Chỉ hiển thị cái này"
 
+#: .\horilla_calendar\views.py:36
 msgid "Tasks"
-msgstr ""
+msgstr "Nhiệm vụ"
 
+#: .\horilla_calendar\views.py:37
 msgid "Events"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_calendar\views.py:38
 msgid "Meetings"
-msgstr ""
+msgstr "Cuộc họp"
 
+#: .\horilla_calendar\views.py:41
 msgid "Unavailability"
-msgstr ""
+msgstr "Không có sẵn"
 
+#: .\horilla_calendar\views.py:135
 msgid "Preferences saved successfully"
-msgstr ""
+msgstr "Đã lưu tùy chọn thành công"
 
+#: .\horilla_calendar\views.py:320
 msgid "Marked as completed successfully."
-msgstr ""
+msgstr "Đánh dấu là đã hoàn tất thành công."
 
+#: .\horilla_calendar\views.py:340
 msgid "Mark Unavailability"
-msgstr ""
+msgstr "Đánh dấu không có sẵn"

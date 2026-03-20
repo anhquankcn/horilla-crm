@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:06+0000\n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,479 +18,676 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: .\horilla_mail\__version__.py:9
 msgid ""
 "Module for managing incoming and outgoing emails through mail servers and "
 "Outlook."
 msgstr ""
 
+#: .\horilla_mail\apps.py:12
 msgid "Mail System"
 msgstr ""
 
+#: .\horilla_mail\forms.py:27
 msgid "To Email"
 msgstr ""
 
+#: .\horilla_mail\forms.py:32 .\horilla_mail\templates\form_email_test.html:40
 msgid "Enter email address to send test email"
 msgstr ""
 
+#: .\horilla_mail\forms.py:36
 msgid "Enter the email address where you want to send the test email."
 msgstr ""
 
+#: .\horilla_mail\forms.py:49
 msgid "Please enter a valid email address."
 msgstr ""
 
+#: .\horilla_mail\forms.py:178 .\horilla_mail\forms.py:232
 msgid "Enter app password"
 msgstr ""
 
+#: .\horilla_mail\forms.py:179
 msgid "Enter the app-specific password for your mail account."
 msgstr ""
 
+#: .\horilla_mail\forms.py:233
 msgid "Enter the app-specific password  for your mail account."
 msgstr ""
 
+#: .\horilla_mail\forms.py:277
 msgid "Enter client secret"
 msgstr ""
 
+#: .\horilla_mail\forms.py:279
 msgid ""
 "Enter the client secret generated from your Microsoft Azure app "
 "registration. This secret is used to authenticate your Outlook integration "
 "securely."
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:123 .\horilla_mail\models.py:374
 msgid "Related Model"
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:215
 msgid "Update Mail Template"
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:216
 msgid "Update Template"
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:219
 msgid "Create Mail Template"
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:220
+#: .\horilla_mail\templates\mail_template\save_mail_template.html:37
 msgid "Save Template"
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:245
+#, python-brace-format
 msgid "Mail template \"{}\" updated successfully."
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:252
+#: .\horilla_mail\horilla_mail_template.py:425
+#, python-brace-format
 msgid "Mail template \"{}\" created successfully."
 msgstr ""
 
+#: .\horilla_mail\horilla_mail_template.py:266
 msgid "Please correct the errors below."
 msgstr ""
 
+#: .\horilla_mail\horilla_outlook.py:225
 msgid "Token not refreshed, Login required"
 msgstr ""
 
+#: .\horilla_mail\horilla_outlook.py:227
 msgid "Token refreshed successfully"
 msgstr ""
 
+#: .\horilla_mail\incoming_mail.py:50
 msgid "Incoming Mail Configurations"
 msgstr ""
 
+#: .\horilla_mail\menu.py:16 .\horilla_mail\models.py:28
+#: .\horilla_mail\models.py:319
 msgid "Mail"
 msgstr ""
 
+#: .\horilla_mail\menu.py:21
 msgid "Outgoing Mail Server"
 msgstr ""
 
+#: .\horilla_mail\menu.py:30
 msgid "Incoming Mail Server"
 msgstr ""
 
+#: .\horilla_mail\menu.py:39 .\horilla_mail\models.py:383
 msgid "Mail Template"
 msgstr ""
 
+#: .\horilla_mail\models.py:29
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:15
+#: .\horilla_mail\templates\mail_server_type_selection.html:16
 msgid "Outlook"
 msgstr ""
 
+#: .\horilla_mail\models.py:33
 msgid "Incoming"
 msgstr ""
 
+#: .\horilla_mail\models.py:34 .\horilla_mail\templates\mail_actions.html:28
 msgid "Outgoing"
 msgstr ""
 
+#: .\horilla_mail\models.py:38
 msgid "Type"
 msgstr ""
 
+#: .\horilla_mail\models.py:43
 msgid "Mail Channel"
 msgstr ""
 
+#: .\horilla_mail\models.py:46
 msgid ""
 "Specifies whether this configuration handles incoming,outgoing, or both "
 "types of emails."
 msgstr ""
 
+#: .\horilla_mail\models.py:53
 msgid "Host"
 msgstr ""
 
+#: .\horilla_mail\models.py:55
 msgid "Port"
 msgstr ""
 
+#: .\horilla_mail\models.py:57
 msgid "Default From Mail"
 msgstr ""
 
+#: .\horilla_mail\models.py:61
 msgid "Email Host Username"
 msgstr ""
 
+#: .\horilla_mail\models.py:67
 msgid "Display Name"
 msgstr ""
 
+#: .\horilla_mail\models.py:72
 msgid "Email Authentication Password"
 msgstr ""
 
+#: .\horilla_mail\models.py:77
 msgid "Use TLS"
 msgstr ""
 
+#: .\horilla_mail\models.py:81
 msgid "Use SSL"
 msgstr ""
 
+#: .\horilla_mail\models.py:85
 msgid "Fail Silently"
 msgstr ""
 
+#: .\horilla_mail\models.py:89
 msgid "Primary Mail Server"
 msgstr ""
 
+#: .\horilla_mail\models.py:94
 msgid "By enabling this the display name will take from who triggered the mail"
 msgstr ""
 
+#: .\horilla_mail\models.py:99
 msgid "Email Send Timeout (seconds)"
 msgstr ""
 
+#: .\horilla_mail\models.py:103
 msgid "Client ID"
 msgstr ""
 
+#: .\horilla_mail\models.py:106
 msgid "Client Secret"
 msgstr ""
 
+#: .\horilla_mail\models.py:109
 msgid "Tenant ID"
 msgstr ""
 
+#: .\horilla_mail\models.py:112
 msgid "Redirect URi"
 msgstr ""
 
+#: .\horilla_mail\models.py:115
 msgid "OAuth authorization endpoint"
 msgstr ""
 
+#: .\horilla_mail\models.py:118
 msgid "OAuth token endpoint"
 msgstr ""
 
+#: .\horilla_mail\models.py:121
 msgid "Microsoft Graph API endpoint"
 msgstr ""
 
+#: .\horilla_mail\models.py:140
 msgid "This field is required"
 msgstr ""
 
+#: .\horilla_mail\models.py:186
 msgid "Mail Configuration"
 msgstr ""
 
+#: .\horilla_mail\models.py:187
 msgid "Mail Configurations"
 msgstr ""
 
+#: .\horilla_mail\models.py:196
 msgid "Draft"
 msgstr ""
 
+#: .\horilla_mail\models.py:197
 msgid "Scheduled"
 msgstr ""
 
+#: .\horilla_mail\models.py:198
 msgid "Sent"
 msgstr ""
 
+#: .\horilla_mail\models.py:199
 msgid "Failed"
 msgstr ""
 
+#: .\horilla_mail\models.py:207 .\horilla_mail\templates\mail_form.html:25
 msgid "From"
 msgstr ""
 
+#: .\horilla_mail\models.py:211
 msgid "Comma separated recipient email addresses"
 msgstr ""
 
+#: .\horilla_mail\models.py:211 .\horilla_mail\templates\mail_form.html:38
 msgid "To"
 msgstr ""
 
+#: .\horilla_mail\models.py:213 .\horilla_mail\templates\mail_form.html:44
+#: .\horilla_mail\templates\mail_preview_modal.html:41
 msgid "Cc"
 msgstr ""
 
+#: .\horilla_mail\models.py:214 .\horilla_mail\templates\mail_form.html:50
+#: .\horilla_mail\templates\mail_preview_modal.html:48
 msgid "Bcc"
 msgstr ""
 
+#: .\horilla_mail\models.py:216 .\horilla_mail\models.py:365
+#: .\horilla_mail\templates\mail_form.html:56
+#: .\horilla_mail\templates\mail_preview_modal.html:54
+#: .\horilla_mail\templates\mail_template\template_preview.html:19
 msgid "Subject"
 msgstr ""
 
+#: .\horilla_mail\models.py:218 .\horilla_mail\models.py:367
 msgid "Body"
 msgstr ""
 
+#: .\horilla_mail\models.py:230
 msgid "When the mail should be sent (for scheduled mails)."
 msgstr ""
 
+#: .\horilla_mail\models.py:320
 msgid "Mails"
 msgstr ""
 
+#: .\horilla_mail\models.py:353
 msgid "Mail Attachment"
 msgstr ""
 
+#: .\horilla_mail\models.py:354
 msgid "Mail Attachments"
 msgstr ""
 
+#: .\horilla_mail\models.py:360
 msgid "Template title"
 msgstr ""
 
+#: .\horilla_mail\models.py:384
 msgid "Mail Templates"
 msgstr ""
 
+#: .\horilla_mail\outgoing_mail.py:58
 msgid "Outgoing Mail Configurations"
 msgstr ""
 
+#: .\horilla_mail\outgoing_mail.py:327 .\horilla_mail\views.py:345
 msgid "Mail sent successfully"
 msgstr ""
 
+#: .\horilla_mail\outgoing_mail.py:330
+msgid "Something went wrong:"
+msgstr ""
+
+#: .\horilla_mail\templates\draft_save_modal.html:3
 msgid "Save Changes?"
 msgstr ""
 
+#: .\horilla_mail\templates\draft_save_modal.html:7
 msgid "Do you want to save your changes as a draft or discard them?"
 msgstr ""
 
+#: .\horilla_mail\templates\draft_save_modal.html:14
 msgid "Discard"
 msgstr ""
 
+#: .\horilla_mail\templates\draft_save_modal.html:23
 msgid "Save as Draft"
 msgstr ""
 
+#: .\horilla_mail\templates\email_suggestions.html:22
 msgid "No emails found for"
 msgstr ""
 
+#: .\horilla_mail\templates\email_suggestions.html:24
 msgid "Start typing to search emails..."
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:4
 msgid "Insert Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:6
+#: .\horilla_mail\templates\form_email_test.html:12
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:6
+#: .\horilla_mail\templates\mail_config_required.html:12
+#: .\horilla_mail\templates\mail_form.html:20
+#: .\horilla_mail\templates\mail_preview_modal.html:17
+#: .\horilla_mail\templates\mail_server_type_selection.html:7
+#: .\horilla_mail\templates\mail_template\mail_template_detail.html:7
+#: .\horilla_mail\templates\mail_template\mail_template_form.html:16
+#: .\horilla_mail\templates\mail_template\save_mail_template.html:6
+#: .\horilla_mail\templates\mail_template\select_mail_template.html:5
+#: .\horilla_mail\templates\mail_template\template_preview.html:5
+#: .\horilla_mail\templates\schedule_mail_form.html:7
 msgid "Close"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:18
 msgid "Select fields to insert into your email template."
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:39
 msgid "Instance"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:62
 msgid "User"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:84
 msgid "Company"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:106
 msgid "Request"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:129
 msgid "Direct Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:131
 msgid "User Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:133
 msgid "Company Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:135
 msgid "Request Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:163
 msgid "Related Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:208
 msgid "Reverse Related Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:251
 msgid "No fields available for this model"
 msgstr ""
 
+#: .\horilla_mail\templates\field_selection_modal.html:265
 msgid "Insert Selected Fields"
 msgstr ""
 
+#: .\horilla_mail\templates\form_email_test.html:10
 msgid "Test Email Configuration"
 msgstr ""
 
+#: .\horilla_mail\templates\form_email_test.html:65
+#: .\horilla_mail\templates\mail_form.html:180
+#: .\horilla_mail\templates\mail_template\mail_template_form.html:142
+#: .\horilla_mail\templates\schedule_mail_form.html:52
 msgid "Loading..."
 msgstr ""
 
+#: .\horilla_mail\templates\form_email_test.html:67
 msgid "Send Test Email"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:4
+#: .\horilla_mail\templates\mail_server_type_selection.html:5
 msgid "Select Mail Server Type"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:16
+#: .\horilla_mail\templates\mail_server_type_selection.html:17
 msgid "Outlook Mail Server"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:17
+#: .\horilla_mail\templates\mail_server_type_selection.html:18
 msgid "Configure using Microsoft Azure/Office 365 OAuth authentication"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:23
+#: .\horilla_mail\templates\mail_server_type_selection.html:24
 msgid "Select Outlook"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:31
+#: .\horilla_mail\templates\mail_server_type_selection.html:32
 msgid "mail"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:32
+#: .\horilla_mail\templates\mail_server_type_selection.html:33
 msgid "Other Mail Servers"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:33
+#: .\horilla_mail\templates\mail_server_type_selection.html:34
 msgid "Configure SMTP, Gmail, Yahoo, or any other mail server"
 msgstr ""
 
+#: .\horilla_mail\templates\incoming\incoming_mail_server_type_selection.html:40
+#: .\horilla_mail\templates\mail_server_type_selection.html:41
 msgid "Select Other"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_actions.html:12
 msgid "Refresh"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_actions.html:18
 msgid "Login"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_actions.html:43
 msgid "Edit"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_actions.html:54
 msgid "Delete"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_config_required.html:9
 msgid "Mail Configuration Required"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_config_required.html:31
 msgid "Cannot send email"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_config_required.html:36
 msgid "Mail can only be sent after outgoing mail is configured."
 msgstr ""
 
+#: .\horilla_mail\templates\mail_config_required.html:45
 msgid "Configure Outgoing Mail"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_config_required.html:50
 msgid "Please contact your administrator to configure outgoing mail settings."
 msgstr ""
 
+#: .\horilla_mail\templates\mail_form.html:11
+#: .\horilla_mail\templates\mail_form.html:182
 msgid "Send Mail"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_form.html:33
 msgid "No mail server configured"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_form.html:62
 msgid "Related to"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_form.html:68
 msgid "Message"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_preview_modal.html:11
 msgid "Mail Preview"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_preview_modal.html:13
 msgid "Email Snapshot"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_preview_modal.html:25
 msgid "From:"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_preview_modal.html:30
 msgid "No sender configured"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_preview_modal.html:66
 msgid "No message content"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_preview_modal.html:97
 msgid "This is how your email will look when sent"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\mail_template_form.html:51
 msgid "Enter email subject (optional)"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\mail_template_form.html:72
 msgid "Select content type (optional)"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\save_mail_template.html:4
 msgid "Save as mail template"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\save_mail_template.html:16
 msgid "Title"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\select_mail_template.html:3
 msgid "Select Mail Template"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\select_mail_template.html:17
 msgid "Select Template"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\template_preview.html:12
 msgid "Email Template Preview"
 msgstr ""
 
+#: .\horilla_mail\templates\mail_template\template_preview.html:33
 msgid "No content to preview"
 msgstr ""
 
+#: .\horilla_mail\templates\schedule_mail_form.html:5
 msgid "Schedule Email"
 msgstr ""
 
+#: .\horilla_mail\templates\schedule_mail_form.html:21
 msgid "Schedule Date"
 msgstr ""
 
+#: .\horilla_mail\templates\schedule_mail_form.html:54
 msgid "Schedule"
 msgstr ""
 
+#: .\horilla_mail\views.py:115
 msgid "Cannot send email. Outgoing mail must be configured first."
 msgstr ""
 
+#: .\horilla_mail\views.py:165
 msgid ""
 "Message body contains potentially dangerous content (XSS detected). Please "
 "remove any scripts or malicious code."
 msgstr ""
 
+#: .\horilla_mail\views.py:298
 msgid "Missing required fields: "
 msgstr ""
 
+#: .\horilla_mail\views.py:348
 msgid "Failed to send mail: "
 msgstr ""
 
+#: .\horilla_mail\views.py:359
 msgid "Error sending mail: "
 msgstr ""
 
+#: .\horilla_mail\views.py:1331
 msgid "No content to save as draft"
 msgstr ""
 
+#: .\horilla_mail\views.py:1398
 msgid "Draft saved successfully"
 msgstr ""
 
+#: .\horilla_mail\views.py:1406
 msgid "Error saving draft: "
 msgstr ""
 
+#: .\horilla_mail\views.py:1450
 msgid "Draft discarded"
 msgstr ""
 
+#: .\horilla_mail\views.py:1458
 msgid "Error discarding draft: "
 msgstr ""
 
+#: .\horilla_mail\views.py:1536 .\horilla_mail\views.py:1587
+#: .\horilla_mail\views.py:1635
 msgid "Schedule time is required"
 msgstr ""
 
+#: .\horilla_mail\views.py:1549
 msgid "Scheduled time must be in the future"
 msgstr ""
 
+#: .\horilla_mail\views.py:1554
 msgid "Invalid date/time format"
 msgstr ""
 
+#: .\horilla_mail\views.py:1596
 msgid "Scheduled mail not found or you don't have permission"
 msgstr ""
 
+#: .\horilla_mail\views.py:1617
 msgid "Mail rescheduled successfully for "
 msgstr ""
 
+#: .\horilla_mail\views.py:1631
 msgid "To email is required"
 msgstr ""
 
+#: .\horilla_mail\views.py:1633
 msgid "From mail configuration is required"
 msgstr ""
 
+#: .\horilla_mail\views.py:1639
 msgid "Message body contains potentially dangerous content (XSS detected)."
 msgstr ""
 
+#: .\horilla_mail\views.py:1731
 msgid "Invalid mail configuration selected"
 msgstr ""
 
+#: .\horilla_mail\views.py:1784
 msgid "Mail scheduled successfully for "
 msgstr ""
 
+#: .\horilla_mail\views.py:1811
 msgid "Error scheduling mail: "
 msgstr ""

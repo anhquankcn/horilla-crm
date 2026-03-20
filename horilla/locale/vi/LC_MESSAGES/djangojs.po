@@ -6,47 +6,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-18 06:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2026-01-04 12:04+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Xác nhận"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Selected"
-msgstr ""
+msgstr "Đã chọn"
 
 msgid "Do you want to download the excel file?"
-msgstr ""
+msgstr "Bạn có muốn tải xuống dạng file excel?"
 
 msgid "Do you want to download the template?"
-msgstr ""
+msgstr "Bạn có muốn tải xuống định dạng mẫu?"
 
 msgid "No rows are selected from the records."
-msgstr ""
+msgstr "Không dòng nội dung nào được chọn từ danh sách."
 
 msgid "Do you really want to delete all the selected records?"
-msgstr ""
+msgstr "Bạn có muốn xóa tất cả bản ghi đã chọn?"
 
 msgid "Do you really want to archive all the selected records?"
-msgstr ""
+msgstr "Bạn có muốn lưu trữ tất cả bản ghi đã chọn?"
 
 msgid "Do you really want to unarchive all the selected records?"
-msgstr ""
+msgstr "Bạn có muốn bỏ lưu trữ các bản ghi đã chọn?"
 
 msgid "Select an option"
-msgstr ""
+msgstr "Lựa chọn"

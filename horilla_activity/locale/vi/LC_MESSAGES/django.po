@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-17 11:41+0000\n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,190 +18,256 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: .\horilla_activity\__version__.py:9
 msgid ""
-"Module for tracking and managing activities such as tasks,calls, events, and "
-"emails."
+"Module for tracking and managing activities such as tasks,calls, events, and"
+" emails."
 msgstr ""
+"Mô-đun theo dõi và quản lý các hoạt động như nhiệm vụ, cuộc gọi, sự kiện và "
+"email."
 
+#: .\horilla_activity\apps.py:14 .\horilla_activity\models.py:154
 msgid "Activity"
-msgstr ""
+msgstr "Hoạt động"
 
+#: .\horilla_activity\menu.py:19 .\horilla_activity\models.py:155
+#: .\horilla_activity\views.py:336
 msgid "Activities"
-msgstr ""
+msgstr "Các hoạt động"
 
+#: .\horilla_activity\models.py:27
 msgid "Event"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_activity\models.py:28
 msgid "Meeting"
-msgstr ""
+msgstr "Cuộc họp"
 
+#: .\horilla_activity\models.py:29
 msgid "Task"
-msgstr ""
+msgstr "Nhiệm vụ"
 
+#: .\horilla_activity\models.py:30
 msgid "Log Call"
-msgstr ""
+msgstr "Nhật ký cuộc gọi"
 
+#: .\horilla_activity\models.py:33
 msgid "Pending"
-msgstr ""
+msgstr "Chưa giải quyết"
 
+#: .\horilla_activity\models.py:34
 msgid "Completed"
-msgstr ""
+msgstr "Hoàn thành"
 
+#: .\horilla_activity\models.py:37
 msgid "High"
-msgstr ""
+msgstr "Cao"
 
+#: .\horilla_activity\models.py:38
 msgid "Medium"
-msgstr ""
+msgstr "Trung bình"
 
+#: .\horilla_activity\models.py:39
 msgid "Low"
-msgstr ""
+msgstr "Thấp"
 
+#: .\horilla_activity\models.py:42
 msgid "Inbound"
-msgstr ""
+msgstr "Trong nước"
 
+#: .\horilla_activity\models.py:43
 msgid "Outbound"
-msgstr ""
+msgstr "Đi"
 
+#: .\horilla_activity\models.py:47
 msgid "Subject"
-msgstr ""
+msgstr "Chủ thể"
 
+#: .\horilla_activity\models.py:48
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
+#: .\horilla_activity\models.py:50
 msgid "Activity Type"
-msgstr ""
+msgstr "Loại hoạt động"
 
+#: .\horilla_activity\models.py:52
 msgid "Source"
-msgstr ""
+msgstr "Nguồn"
 
+#: .\horilla_activity\models.py:58
 msgid "Related Content Type"
-msgstr ""
+msgstr "Loại nội dung liên quan"
 
+#: .\horilla_activity\models.py:62
 msgid "Related Object ID"
-msgstr ""
+msgstr "ID đối tượng liên quan"
 
+#: .\horilla_activity\models.py:69
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
+#: .\horilla_activity\models.py:73
 msgid "Title"
-msgstr ""
+msgstr "Tiêu đề"
 
+#: .\horilla_activity\models.py:76
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
+#: .\horilla_activity\models.py:79
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
+#: .\horilla_activity\models.py:82
 msgid "Location"
-msgstr ""
+msgstr "Vị trí"
 
+#: .\horilla_activity\models.py:84
 msgid "All Day"
-msgstr ""
+msgstr "cả ngày"
 
+#: .\horilla_activity\models.py:89
 msgid "Assigned To"
-msgstr ""
+msgstr "Được giao cho"
 
+#: .\horilla_activity\models.py:95
 msgid "Participants"
-msgstr ""
+msgstr "Người tham gia"
 
+#: .\horilla_activity\models.py:103
 msgid "Meeting Host"
-msgstr ""
+msgstr "Chủ trì cuộc họp"
 
+#: .\horilla_activity\models.py:111
 msgid "Activity Owner"
-msgstr ""
+msgstr "Chủ sở hữu hoạt động"
 
+#: .\horilla_activity\models.py:119
 msgid "Priority"
-msgstr ""
+msgstr "Sự ưu tiên"
 
+#: .\horilla_activity\models.py:122
 msgid "Due Date"
-msgstr ""
+msgstr "Ngày đáo hạn"
 
+#: .\horilla_activity\models.py:125
 msgid "Recipient Email"
-msgstr ""
+msgstr "Email người nhận"
 
+#: .\horilla_activity\models.py:130
 msgid "Call Duration"
-msgstr ""
+msgstr "Thời lượng cuộc gọi"
 
+#: .\horilla_activity\models.py:133
 msgid "Call Duration (Seconds)"
-msgstr ""
+msgstr "Thời lượng cuộc gọi (Giây)"
 
+#: .\horilla_activity\models.py:140
 msgid "Call Type"
-msgstr ""
+msgstr "Loại cuộc gọi"
 
+#: .\horilla_activity\models.py:142
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
+#: .\horilla_activity\models.py:144
 msgid "Call Purpose"
-msgstr ""
+msgstr "Mục đích cuộc gọi"
 
+#: .\horilla_activity\templates\activity_tab.html:11
 msgid "Tasks"
-msgstr ""
+msgstr "Nhiệm vụ"
 
+#: .\horilla_activity\templates\activity_tab.html:16
 msgid "Meetings"
-msgstr ""
+msgstr "Cuộc họp"
 
+#: .\horilla_activity\templates\activity_tab.html:21
 msgid "Call"
-msgstr ""
+msgstr "Gọi"
 
+#: .\horilla_activity\templates\activity_tab.html:26
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
+#: .\horilla_activity\templates\activity_tab.html:31
 msgid "Events"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_activity\templates\activity_tab.html:49
 msgid "Pending Tasks"
-msgstr ""
+msgstr "Nhiệm vụ đang chờ xử lý"
 
+#: .\horilla_activity\templates\activity_tab.html:59
 msgid "Completed Tasks"
-msgstr ""
+msgstr "Nhiệm vụ đã hoàn thành"
 
+#: .\horilla_activity\templates\activity_tab.html:72
 msgid "Add Task"
-msgstr ""
+msgstr "Thêm nhiệm vụ"
 
+#: .\horilla_activity\templates\activity_tab.html:95
 msgid "Pending Meetings"
-msgstr ""
+msgstr "Cuộc họp đang chờ xử lý"
 
+#: .\horilla_activity\templates\activity_tab.html:105
 msgid "Completed Meetings"
-msgstr ""
+msgstr "Cuộc họp đã hoàn thành"
 
+#: .\horilla_activity\templates\activity_tab.html:118
 msgid "Add Meetings"
-msgstr ""
+msgstr "Thêm cuộc họp"
 
+#: .\horilla_activity\templates\activity_tab.html:142
 msgid "Pending Calls"
-msgstr ""
+msgstr "Cuộc gọi đang chờ xử lý"
 
+#: .\horilla_activity\templates\activity_tab.html:152
 msgid "Completed Calls"
-msgstr ""
+msgstr "Cuộc gọi đã hoàn thành"
 
+#: .\horilla_activity\templates\activity_tab.html:165
 msgid "Add Call"
-msgstr ""
+msgstr "Thêm cuộc gọi"
 
+#: .\horilla_activity\templates\activity_tab.html:188
 msgid "Mails"
-msgstr ""
+msgstr "Thư"
 
+#: .\horilla_activity\templates\activity_tab.html:197
 msgid "Drafts"
-msgstr ""
+msgstr "Bản nháp"
 
+#: .\horilla_activity\templates\activity_tab.html:206
 msgid "Scheduled"
-msgstr ""
+msgstr "Đã lên lịch"
 
+#: .\horilla_activity\templates\activity_tab.html:242
 msgid "Pending Events"
-msgstr ""
+msgstr "Sự kiện đang chờ xử lý"
 
+#: .\horilla_activity\templates\activity_tab.html:251
 msgid "Completed Events"
-msgstr ""
+msgstr "Sự kiện đã hoàn thành"
 
+#: .\horilla_activity\templates\activity_tab.html:264
 msgid "Add Events"
-msgstr ""
+msgstr "Thêm sự kiện"
 
+#: .\horilla_activity\views.py:96
 msgid "Send Email"
-msgstr ""
+msgstr "Gửi email"
 
+#: .\horilla_activity\views.py:220 .\horilla_activity\views.py:292
+#: .\horilla_activity\views.py:342
 msgid "Related To"
-msgstr ""
+msgstr "Liên quan đến"
 
+#: .\horilla_activity\views.py:254
 msgid "Duplicate"
-msgstr ""
+msgstr "Nhân bản"
 
+#: .\horilla_activity\views.py:335
 msgid "Schedule"
-msgstr ""
+msgstr "Lịch trình"

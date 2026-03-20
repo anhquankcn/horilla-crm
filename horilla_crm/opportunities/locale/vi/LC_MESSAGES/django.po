@@ -6,702 +6,1005 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:06+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
+"PO-Revision-Date: 2026-01-04 13:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
+#: .\horilla_crm\opportunities\apps.py:13
+#: .\horilla_crm\opportunities\menu.py:29
+#: .\horilla_crm\opportunities\models.py:396
 msgid "Opportunities"
-msgstr ""
+msgstr "Danh sách Cơ hội"
 
+#: .\horilla_crm\opportunities\big_deal_alert.py:119
 msgid "Threshold updated successfully"
-msgstr ""
+msgstr "Đã cập nhật ngưỡng thành công"
 
+#: .\horilla_crm\opportunities\big_deal_alert.py:133
+#: .\horilla_crm\opportunities\models.py:1024
 msgid "Big Deal Alert"
-msgstr ""
+msgstr "Cảnh báo KH Deal lớn"
 
+#: .\horilla_crm\opportunities\forms.py:378
 msgid "At least one valid condition row must be provided."
-msgstr ""
+msgstr "Phải cung cấp ít nhất một hàng điều kiện hợp lệ."
 
+#: .\horilla_crm\opportunities\forms.py:433
 msgid "Select Team"
-msgstr ""
+msgstr "Chọn đội"
 
+#: .\horilla_crm\opportunities\forms.py:434
 msgid "Select a team to add all its default members to this opportunity"
-msgstr ""
+msgstr "Chọn một nhóm để thêm tất cả thành viên mặc định vào cơ hội này"
 
+#: .\horilla_crm\opportunities\menu.py:65
+#: .\horilla_crm\opportunities\models.py:585
 msgid "Opportunity Team"
-msgstr ""
+msgstr "Nhóm Team Cơ hội"
 
+#: .\horilla_crm\opportunities\menu.py:86
+#: .\horilla_crm\opportunities\models.py:395
+#: .\horilla_crm\opportunities\models.py:623
+#: .\horilla_crm\opportunities\models.py:917
 msgid "Opportunity"
-msgstr ""
+msgstr "Cơ hội"
 
+#: .\horilla_crm\opportunities\menu.py:100
 msgid "Opportunity Team Settings"
-msgstr ""
+msgstr "Cài đặt nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\menu.py:109
+#: .\horilla_crm\opportunities\opportunity_split.py:53
 msgid "Opportunity Split Settings"
-msgstr ""
+msgstr "Cài đặt phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:36
 msgid "Open"
-msgstr ""
+msgstr "Mở"
 
+#: .\horilla_crm\opportunities\models.py:37
+#: .\horilla_crm\opportunities\opporunity_stages.py:456
+#: .\horilla_crm\opportunities\opporunity_stages.py:613
 msgid "Closed Won"
-msgstr ""
+msgstr "Đã đóng - Thắng"
 
+#: .\horilla_crm\opportunities\models.py:38
+#: .\horilla_crm\opportunities\opporunity_stages.py:454
+#: .\horilla_crm\opportunities\opporunity_stages.py:611
 msgid "Closed Lost"
-msgstr ""
+msgstr "Đã đóng - Bị mất"
 
+#: .\horilla_crm\opportunities\models.py:41
 msgid "Stage Name"
-msgstr ""
+msgstr "Tên trạng thái"
 
+#: .\horilla_crm\opportunities\models.py:43
 msgid "Order"
-msgstr ""
+msgstr "Đặt hàng"
 
+#: .\horilla_crm\opportunities\models.py:48
+#: .\horilla_crm\opportunities\models.py:325
 msgid "Probability"
-msgstr ""
+msgstr "Xác suất"
 
+#: .\horilla_crm\opportunities\models.py:51
+#: .\horilla_crm\opportunities\opporunity_stages.py:134
 msgid "Is Final Stage"
-msgstr ""
+msgstr "Là Trạng thái cuối"
 
+#: .\horilla_crm\opportunities\models.py:56
 msgid "Stage Type"
-msgstr ""
+msgstr "Loại trạng thái"
 
+#: .\horilla_crm\opportunities\models.py:57
 msgid "Type of stage - Open, Closed Won, or Closed Lost"
-msgstr ""
+msgstr "Loại trạng thái - Mở, Đóng thắng hoặc Đóng thua"
 
+#: .\horilla_crm\opportunities\models.py:74
 msgid "Order must be a non-negative integer."
-msgstr ""
+msgstr "Thứ tự phải là số nguyên không âm."
 
+#: .\horilla_crm\opportunities\models.py:236
 msgid "Opportunity Stage"
-msgstr ""
+msgstr "Trạng thái Cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:237
+#: .\horilla_crm\opportunities\templates\opportunity_stage\oppor_stages_initialize.html:25
 msgid "Opportunity Stages"
-msgstr ""
+msgstr "Các trạng thái Cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:264
 msgid "Website"
-msgstr ""
+msgstr "Trang web"
 
+#: .\horilla_crm\opportunities\models.py:265
 msgid "Referral"
-msgstr ""
+msgstr "Giới thiệu"
 
+#: .\horilla_crm\opportunities\models.py:266
 msgid "Event"
-msgstr ""
+msgstr "Sự kiện"
 
+#: .\horilla_crm\opportunities\models.py:267
 msgid "Campaign"
-msgstr ""
+msgstr "Chiến dịch"
 
+#: .\horilla_crm\opportunities\models.py:268
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
+#: .\horilla_crm\opportunities\models.py:269
+#: .\horilla_crm\opportunities\models.py:293
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
+#: .\horilla_crm\opportunities\models.py:270
 msgid "Social Media"
-msgstr ""
+msgstr "Truyền thông xã hội"
 
+#: .\horilla_crm\opportunities\models.py:271
 msgid "Partner"
-msgstr ""
+msgstr "Cộng sự"
 
+#: .\horilla_crm\opportunities\models.py:272
+#: .\horilla_crm\opportunities\models.py:557
 msgid "Other"
-msgstr ""
+msgstr "Khác"
 
+#: .\horilla_crm\opportunities\models.py:290
 msgid "Opportunity Name"
-msgstr ""
+msgstr "Tên cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:297
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:27
 msgid "Amount"
-msgstr ""
+msgstr "Số lượng"
 
+#: .\horilla_crm\opportunities\models.py:304
+#: .\horilla_crm\opportunities\models.py:828
 msgid "Expected Revenue"
-msgstr ""
+msgstr "Doanh thu dự kiến"
 
+#: .\horilla_crm\opportunities\models.py:311
 msgid "Quantity"
-msgstr ""
+msgstr "Số lượng"
 
+#: .\horilla_crm\opportunities\models.py:314
 msgid "Close Date"
-msgstr ""
+msgstr "Ngày đóng"
 
+#: .\horilla_crm\opportunities\models.py:318
 msgid "Stage"
-msgstr ""
+msgstr "Trạng thái"
 
+#: .\horilla_crm\opportunities\models.py:330
+#: .\horilla_crm\opportunities\models.py:572
+#: .\horilla_crm\opportunities\views.py:296
+#: .\horilla_crm\opportunities\views.py:364
 msgid "Description"
-msgstr ""
+msgstr "Mô tả chi tiết"
 
+#: .\horilla_crm\opportunities\models.py:333
 msgid "Next Step"
-msgstr ""
+msgstr "Bước tiếp theo"
 
+#: .\horilla_crm\opportunities\models.py:336
 msgid "Opportunity Score"
-msgstr ""
+msgstr "Điểm Cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:343
 msgid "Primary Campaign Source"
-msgstr ""
+msgstr "Nguồn chiến dịch chính"
 
+#: .\horilla_crm\opportunities\models.py:349
+#: .\horilla_crm\opportunities\models.py:563
+#: .\horilla_crm\opportunities\models.py:577
 msgid "Owner"
-msgstr ""
+msgstr "Người sở hữu"
 
+#: .\horilla_crm\opportunities\models.py:353
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
+#: .\horilla_crm\opportunities\models.py:356
 msgid "Lead Source"
-msgstr ""
+msgstr "Nguồn Tiềm năng"
 
+#: .\horilla_crm\opportunities\models.py:362
 msgid "Forecast Category"
-msgstr ""
+msgstr "Danh mục dự báo"
 
+#: .\horilla_crm\opportunities\models.py:368
 msgid "Delivery Installation Status"
-msgstr ""
+msgstr "Trạng thái cài đặt giao hàng"
 
+#: .\horilla_crm\opportunities\models.py:371
 msgid "Main Competitors"
-msgstr ""
+msgstr "Đối thủ cạnh tranh chính"
 
+#: .\horilla_crm\opportunities\models.py:374
 msgid "Order Number"
-msgstr ""
+msgstr "Số thứ tự"
 
+#: .\horilla_crm\opportunities\models.py:377
 msgid "Tracking Number"
-msgstr ""
+msgstr "Số theo dõi"
 
+#: .\horilla_crm\opportunities\models.py:385
 msgid "Account"
-msgstr ""
+msgstr "Tài khoản"
 
+#: .\horilla_crm\opportunities\models.py:516
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
+#: .\horilla_crm\opportunities\models.py:540
 msgid "Opportunity Contact Role"
-msgstr ""
+msgstr "Vai trò liên hệ cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:541
 msgid "Opportunity Contact Roles"
-msgstr ""
+msgstr "Vai trò liên hệ cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:549
 msgid "Account Manager"
-msgstr ""
+msgstr "Người quản lý tài khoản"
 
+#: .\horilla_crm\opportunities\models.py:550
 msgid "Channel Manager"
-msgstr ""
+msgstr "Quản lý kênh"
 
+#: .\horilla_crm\opportunities\models.py:551
 msgid "Executive Sponsor"
-msgstr ""
+msgstr "Nhà tài trợ điều hành"
 
+#: .\horilla_crm\opportunities\models.py:552
 msgid "Lead Qualifier"
-msgstr ""
+msgstr "Vòng loại dẫn đầu"
 
+#: .\horilla_crm\opportunities\models.py:553
 msgid "Pre-Sales Consultant"
-msgstr ""
+msgstr "Tư vấn trước khi bán hàng"
 
+#: .\horilla_crm\opportunities\models.py:554
 msgid "Sales Manager"
-msgstr ""
+msgstr "Giám đốc bán hàng"
 
+#: .\horilla_crm\opportunities\models.py:555
 msgid "Sales Rep"
-msgstr ""
+msgstr "Đại diện bán hàng"
 
+#: .\horilla_crm\opportunities\models.py:556
 msgid "Opportunity Owner"
-msgstr ""
+msgstr "Chủ sở hữu cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:561
 msgid "Read Only"
-msgstr ""
+msgstr "Chỉ đọc"
 
+#: .\horilla_crm\opportunities\models.py:562
 msgid "Read/Write"
-msgstr ""
+msgstr "Đọc/Ghi"
 
+#: .\horilla_crm\opportunities\models.py:571
+#: .\horilla_crm\opportunities\models.py:677
 msgid "Team Name"
-msgstr ""
+msgstr "Tên đội"
 
+#: .\horilla_crm\opportunities\models.py:586
 msgid "Opportunity Teams"
-msgstr ""
+msgstr "Nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:629
 msgid "Opportunity Access"
-msgstr ""
+msgstr "Tiếp cận cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:632
+#: .\horilla_crm\opportunities\models.py:688
 msgid "Member Role"
-msgstr ""
+msgstr "Vai trò thành viên"
 
+#: .\horilla_crm\opportunities\models.py:638
 msgid "Team Members"
-msgstr ""
+msgstr "Thành viên nhóm"
 
+#: .\horilla_crm\opportunities\models.py:644
 msgid "Opportunity team member"
-msgstr ""
+msgstr "Thành viên nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:645
 msgid "Opportunity team members"
-msgstr ""
+msgstr "Thành viên nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:684
+#: .\horilla_crm\opportunities\models.py:924
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:21
 msgid "Team Member"
-msgstr ""
+msgstr "Thành viên nhóm"
 
+#: .\horilla_crm\opportunities\models.py:692
 msgid "Access Level"
-msgstr ""
+msgstr "Cấp độ truy cập"
 
+#: .\horilla_crm\opportunities\models.py:698
 msgid "Default Opportunity Member"
-msgstr ""
+msgstr "Thành viên cơ hội mặc định"
 
+#: .\horilla_crm\opportunities\models.py:699
 msgid "Default Opportunity Members"
-msgstr ""
+msgstr "Thành viên cơ hội mặc định"
 
+#: .\horilla_crm\opportunities\models.py:729
 msgid "Enable Team Selling"
-msgstr ""
+msgstr "Kích hoạt tính năng bán hàng theo nhóm"
 
+#: .\horilla_crm\opportunities\models.py:731
 msgid ""
 "Enable Opportunity Teams to help multiple users collaborate on "
 "opportunities. When enabled, you can define roles for team members, set "
 "record-level access, and view teams in list views and reports."
 msgstr ""
+"Kích hoạt Nhóm cơ hội để giúp nhiều người dùng cộng tác trên các cơ hội. "
+"Khi được bật, bạn có thể xác định vai trò cho các thành viên trong nhóm, "
+"đặt quyền truy cập cấp bản ghi và xem các nhóm trong chế độ xem danh sách "
+"và báo cáo."
 
+#: .\horilla_crm\opportunities\models.py:739
 msgid "Enable Opportunity Splits"
-msgstr ""
+msgstr "Bật phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:741
 msgid ""
-"Allow multiple users to share credit for an opportunity. Splits can be based "
-"on revenue, overlay, or custom metrics."
+"Allow multiple users to share credit for an opportunity. Splits can be "
+"based on revenue, overlay, or custom metrics."
 msgstr ""
+"Cho phép nhiều người dùng chia sẻ tín dụng để có cơ hội. Việc phân chia có "
+"thể dựa trên doanh thu, lớp phủ hoặc số liệu tùy chỉnh."
 
+#: .\horilla_crm\opportunities\models.py:749
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:57
 msgid "Let users add members to opportunity teams while editing splits"
 msgstr ""
+"Cho phép người dùng thêm thành viên vào nhóm cơ hội trong khi chỉnh sửa "
+"phần tách"
 
+#: .\horilla_crm\opportunities\models.py:752
 msgid ""
-"When enabled, users can assign splits to any active user in the company, not "
-"just opportunity team members. This allows adding new members while editing "
-"splits."
+"When enabled, users can assign splits to any active user in the company, "
+"not just opportunity team members. This allows adding new members while "
+"editing splits."
 msgstr ""
+"Khi được bật, người dùng có thể chỉ định phần chia tách cho bất kỳ người "
+"dùng đang hoạt động nào trong công ty, không chỉ các thành viên trong nhóm "
+"cơ hội. Điều này cho phép thêm thành viên mới trong khi chỉnh sửa phần tách."
 
+#: .\horilla_crm\opportunities\models.py:758
 msgid "Opportunity Setting"
-msgstr ""
+msgstr "Cài đặt cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:759
 msgid "Opportunity Settings"
-msgstr ""
+msgstr "Cài đặt cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:819
 msgid "Expected Revenue Overlay"
-msgstr ""
+msgstr "Lớp phủ doanh thu dự kiến"
 
+#: .\horilla_crm\opportunities\models.py:838
 msgid "Overlay"
-msgstr ""
+msgstr "Lớp phủ"
 
+#: .\horilla_crm\opportunities\models.py:846
 msgid "Revenue"
-msgstr ""
+msgstr "Doanh thu"
 
+#: .\horilla_crm\opportunities\models.py:862
 msgid "Split Label"
-msgstr ""
+msgstr "Tách nhãn"
 
+#: .\horilla_crm\opportunities\models.py:863
 msgid "Name of the split type (e.g., Revenue, Overlay)"
-msgstr ""
+msgstr "Tên của loại phân chia (ví dụ: Doanh thu, Lớp phủ)"
 
+#: .\horilla_crm\opportunities\models.py:869
 msgid "Split Field"
-msgstr ""
+msgstr "Trường phân chia"
 
+#: .\horilla_crm\opportunities\models.py:870
 msgid "Field to split: amount, expected_revenue, etc."
-msgstr ""
+msgstr "Trường cần phân chia: số tiền, doanh thu dự kiến, v.v."
 
+#: .\horilla_crm\opportunities\models.py:872
 msgid "Opportunity - Amount"
-msgstr ""
+msgstr "Cơ hội - Số tiền"
 
+#: .\horilla_crm\opportunities\models.py:873
 msgid "Opportunity - Expected Revenue"
-msgstr ""
+msgstr "Cơ hội - Doanh thu dự kiến"
 
+#: .\horilla_crm\opportunities\models.py:879
 msgid "Totals 100%"
-msgstr ""
+msgstr "Tổng cộng 100%"
 
+#: .\horilla_crm\opportunities\models.py:880
 msgid "Require splits of this type to total exactly 100%"
-msgstr ""
+msgstr "Yêu cầu các phần chia kiểu này phải có tổng chính xác 100%"
 
+#: .\horilla_crm\opportunities\models.py:884
 msgid "Opportunity Split Type"
-msgstr ""
+msgstr "Loại phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:885
 msgid "Opportunity Split Types"
-msgstr ""
+msgstr "Các loại phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:925
 msgid "User receiving credit for this split."
-msgstr ""
+msgstr "Người dùng nhận được tín dụng cho phần chia này."
 
+#: .\horilla_crm\opportunities\models.py:932
 msgid "Split Type"
-msgstr ""
+msgstr "Kiểu chia"
 
+#: .\horilla_crm\opportunities\models.py:933
 msgid "Type of split, such as Revenue or Overlay."
-msgstr ""
+msgstr "Loại phân chia, chẳng hạn như Doanh thu hoặc Lớp phủ."
 
+#: .\horilla_crm\opportunities\models.py:941
 msgid "Split Percentage"
-msgstr ""
+msgstr "Tỷ lệ chia tách"
 
+#: .\horilla_crm\opportunities\models.py:942
 msgid "Percentage of total credit (e.g., 25.00 for 25%)."
-msgstr ""
+msgstr "Tỷ lệ phần trăm của tổng tín chỉ (ví dụ: 25,00 cho 25%)."
 
+#: .\horilla_crm\opportunities\models.py:950
 msgid "Split Amount"
-msgstr ""
+msgstr "Số tiền chia"
 
+#: .\horilla_crm\opportunities\models.py:952
 msgid "Calculated split amount based on percentage and opportunity amount."
 msgstr ""
+"Số tiền chia được tính toán dựa trên tỷ lệ phần trăm và số tiền cơ hội."
 
+#: .\horilla_crm\opportunities\models.py:957
 msgid "Opportunity Split"
-msgstr ""
+msgstr "Chia tách cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:958
+#: .\horilla_crm\opportunities\views.py:795
 msgid "Opportunity Splits"
-msgstr ""
+msgstr "Chia tách cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:980
 msgid "Alert Name"
-msgstr ""
+msgstr "Tên cảnh báo"
 
+#: .\horilla_crm\opportunities\models.py:983
 msgid "Trigger Amount"
-msgstr ""
+msgstr "Số tiền kích hoạt"
 
+#: .\horilla_crm\opportunities\models.py:988
 msgid "Trigger Probability"
-msgstr ""
+msgstr "Xác suất kích hoạt"
 
+#: .\horilla_crm\opportunities\models.py:990
 msgid "Trigger alert when opportunity probability reaches this percentage"
-msgstr ""
+msgstr "Kích hoạt cảnh báo khi xác suất cơ hội đạt đến tỷ lệ phần trăm này"
 
+#: .\horilla_crm\opportunities\models.py:995
 msgid "Sender Name"
-msgstr ""
+msgstr "Tên người gửi"
 
+#: .\horilla_crm\opportunities\models.py:998
 msgid "Sender Email"
-msgstr ""
+msgstr "Email người gửi"
 
+#: .\horilla_crm\opportunities\models.py:1004
 msgid "Notify Emails"
-msgstr ""
+msgstr "Thông báo qua email"
 
+#: .\horilla_crm\opportunities\models.py:1005
 msgid "Comma-separated emails to notify"
-msgstr ""
+msgstr "Các email được phân tách bằng dấu phẩy để thông báo"
 
+#: .\horilla_crm\opportunities\models.py:1008
 msgid "Notify CC Emails"
-msgstr ""
+msgstr "Thông báo email CC"
 
+#: .\horilla_crm\opportunities\models.py:1011
 msgid "Notify BCC Emails"
-msgstr ""
+msgstr "Thông báo email BCC"
 
+#: .\horilla_crm\opportunities\models.py:1015
 msgid "Notify Opportunity Owner"
-msgstr ""
+msgstr "Thông báo cho chủ sở hữu cơ hội"
 
+#: .\horilla_crm\opportunities\models.py:1018
 msgid "Active"
-msgstr ""
+msgstr "Tích cực"
 
+#: .\horilla_crm\opportunities\models.py:1025
 msgid "Big Deal Alerts"
-msgstr ""
+msgstr "Cảnh báo ưu đãi lớn"
 
+#: .\horilla_crm\opportunities\opportunity_split.py:89
 msgid "Is Active"
-msgstr ""
+msgstr "Đang hoạt động"
 
+#: .\horilla_crm\opportunities\opportunity_split.py:109
 msgid ""
 "Opportunity Splits has been enabled successfully! Users can now split "
 "opportunities and assign percentages to team members."
 msgstr ""
+"Chia tách cơ hội đã được kích hoạt thành công! Giờ đây, người dùng có thể "
+"phân chia cơ hội và chỉ định tỷ lệ phần trăm cho các thành viên trong nhóm."
 
+#: .\horilla_crm\opportunities\opportunity_split.py:119
 msgid ""
 "Opportunity Splits has been disabled. Existing splits will no longer be "
 "visible or accessible."
 msgstr ""
+"Phân chia cơ hội đã bị vô hiệu hóa. Các phần chia tách hiện tại sẽ không "
+"còn hiển thị hoặc truy cập được nữa."
 
+#: .\horilla_crm\opportunities\opportunity_split.py:146
 msgid ""
-"All users can now be added to opportunity splits. Users can assign splits to "
-"any active user in the company."
+"All users can now be added to opportunity splits. Users can assign splits "
+"to any active user in the company."
 msgstr ""
+"Giờ đây, tất cả người dùng có thể được thêm vào phần chia tách cơ hội. "
+"Người dùng có thể chỉ định phần chia tách cho bất kỳ người dùng đang hoạt "
+"động nào trong công ty."
 
+#: .\horilla_crm\opportunities\opportunity_split.py:157
 msgid ""
-"Only opportunity team members can now be added to splits. Adding other users "
-"has been restricted."
+"Only opportunity team members can now be added to splits. Adding other "
+"users has been restricted."
 msgstr ""
+"Giờ đây, chỉ các thành viên trong nhóm cơ hội mới có thể được thêm vào phần "
+"chia tách. Việc thêm người dùng khác đã bị hạn chế."
 
+#: .\horilla_crm\opportunities\opportunity_split.py:419
 msgid "Opportunity splits are not enabled."
-msgstr ""
+msgstr "Phân chia cơ hội không được kích hoạt."
 
+#: .\horilla_crm\opportunities\opportunity_split.py:513
 msgid "Opportunity splits saved successfully"
-msgstr ""
+msgstr "Đã lưu thành công phần chia tách cơ hội"
 
-msgid "Added to opportunity team: {}"
-msgstr ""
-
-msgid "At least one split must be added."
-msgstr ""
-
-msgid "Invalid percentage value."
-msgstr ""
-
+#: .\horilla_crm\opportunities\opportunity_split.py:552
 #, python-brace-format
-msgid "Total percentage must equal 100%. Current total: {total_percentage}%"
-msgstr ""
+msgid "Added to opportunity team: {}"
+msgstr "Đã thêm vào nhóm cơ hội: {}"
 
+#: .\horilla_crm\opportunities\opportunity_split.py:578
+msgid "At least one split must be added."
+msgstr "Ít nhất một phần tách phải được thêm vào."
+
+#: .\horilla_crm\opportunities\opportunity_split.py:585
+msgid "Invalid percentage value."
+msgstr "Giá trị phần trăm không hợp lệ."
+
+#: .\horilla_crm\opportunities\opportunity_split.py:601
 msgid "Percentage must be between 0 and 100."
-msgstr ""
+msgstr "Tỷ lệ phần trăm phải nằm trong khoảng từ 0 đến 100."
 
+#: .\horilla_crm\opportunities\opportunity_split.py:609
 msgid "Cannot assign multiple splits to the same user for one split type."
 msgstr ""
+"Không thể chỉ định nhiều phần phân chia cho cùng một người dùng cho một "
+"loại phân chia."
 
+#: .\horilla_crm\opportunities\opportunity_team.py:180
+#: .\horilla_crm\opportunities\opportunity_team.py:425
 msgid "Create Opportunity Team"
-msgstr ""
+msgstr "Tạo nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\opportunity_team.py:181
+#: .\horilla_crm\opportunities\opportunity_team.py:427
+#: .\horilla_crm\opportunities\opportunity_team.py:828
+#: .\horilla_crm\opportunities\views.py:713
 msgid "Add Members"
-msgstr ""
+msgstr "Thêm thành viên"
 
+#: .\horilla_crm\opportunities\opportunity_team.py:600
+#: .\horilla_crm\opportunities\opportunity_team.py:622
 msgid "Update Team Member"
-msgstr ""
+msgstr "Cập nhật thành viên nhóm"
 
-msgid ""
-"Cannot delete {user.get_full_name() or user.username} from the opportunity "
-"team. "
-msgstr ""
-
+#: .\horilla_crm\opportunities\opportunity_team.py:704
 msgid "An error occurred while deleting the team member."
-msgstr ""
+msgstr "Đã xảy ra lỗi khi xóa thành viên nhóm."
 
+#: .\horilla_crm\opportunities\opportunity_team.py:721
 msgid "Add Default Team"
-msgstr ""
+msgstr "Thêm nhóm mặc định"
 
+#: .\horilla_crm\opportunities\opportunity_team.py:743
 msgid "Opportunity ID is required"
-msgstr ""
+msgstr "ID cơ hội là bắt buộc"
 
+#: .\horilla_crm\opportunities\opportunity_team.py:758
 msgid "The selected team has no default members configured."
-msgstr ""
+msgstr "Nhóm đã chọn không có thành viên mặc định nào được định cấu hình."
 
-#, python-brace-format
-msgid ""
-"Successfully added {added_count} team member(s) from {selected_team."
-"team_name}."
-msgstr ""
-
-#, python-brace-format
-msgid "{skipped_count} member(s) were already part of the opportunity team."
-msgstr ""
-
-msgid "Error adding default team members: {str(e)}"
-msgstr ""
-
+#: .\horilla_crm\opportunities\opportunity_team.py:826
 msgid "Add Opportunity Members"
-msgstr ""
+msgstr "Thêm thành viên cơ hội"
 
+#: .\horilla_crm\opportunities\opportunity_team.py:981
 msgid ""
-"Team Selling has been enabled successfully! Users can now create opportunity "
-"teams and add team members."
+"Team Selling has been enabled successfully! Users can now create "
+"opportunity teams and add team members."
 msgstr ""
+"Nhóm bán hàng đã được kích hoạt thành công! Người dùng hiện có thể tạo nhóm "
+"cơ hội và thêm thành viên nhóm."
 
+#: .\horilla_crm\opportunities\opportunity_team.py:993
 msgid ""
 "Team Selling has been disabled and all existing opportunity teams and their "
 "members have been deleted."
 msgstr ""
+"Nhóm Bán hàng đã bị vô hiệu hóa và tất cả các nhóm cơ hội hiện có cũng như "
+"các thành viên của họ đã bị xóa."
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:141
+#: .\horilla_crm\opportunities\templates\big_deal.html:44
+#: .\horilla_crm\opportunities\views.py:156
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:153
+#: .\horilla_crm\opportunities\templates\big_deal.html:52
+#: .\horilla_crm\opportunities\templates\opportunity_split\actions.html:15
+#: .\horilla_crm\opportunities\templates\opportunity_split\actions.html:20
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_row.html:91
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_row.html:93
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:105
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:120
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:122
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:206
 msgid "Final stage changed successfully."
-msgstr ""
+msgstr "Trạng thái cuối đã thay đổi thành công."
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:212
 msgid "Stage not found."
-msgstr ""
+msgstr "Không tìm thấy giai đoạn."
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:407
+#: .\horilla_crm\opportunities\opporunity_stages.py:564
 msgid "Prospecting"
-msgstr ""
+msgstr "Đang thăm dò"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:413
+#: .\horilla_crm\opportunities\opporunity_stages.py:570
 msgid "Qualification"
-msgstr ""
+msgstr "Trình độ chuyên môn"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:419
+#: .\horilla_crm\opportunities\opporunity_stages.py:576
 msgid "Needs Analysis"
-msgstr ""
+msgstr "Cần phân tích nhu cầu"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:425
+#: .\horilla_crm\opportunities\opporunity_stages.py:582
 msgid "Value Proposition"
-msgstr ""
+msgstr "Đề xuất giá trị"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:431
+#: .\horilla_crm\opportunities\opporunity_stages.py:588
 msgid "Id. Decision Makers"
-msgstr ""
+msgstr "Nhận dạng. Người ra quyết định"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:437
+#: .\horilla_crm\opportunities\opporunity_stages.py:594
 msgid "Perception Analysis"
-msgstr ""
+msgstr "Phân tích nhận thức"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:443
+#: .\horilla_crm\opportunities\opporunity_stages.py:600
 msgid "Proposal/Price Quote"
-msgstr ""
+msgstr "Đề xuất/Báo giá"
 
+#: .\horilla_crm\opportunities\opporunity_stages.py:449
+#: .\horilla_crm\opportunities\opporunity_stages.py:606
 msgid "Negotiation/Review"
-msgstr ""
+msgstr "Đàm phán/Đánh giá"
 
+#: .\horilla_crm\opportunities\templates\big_deal.html:155
 msgid " Nothing to show yet. Please add your Deal Alerts."
-msgstr ""
+msgstr " Chưa có gì để hiển thị. Vui lòng thêm Cảnh báo giao dịch của bạn."
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\actions.html:12
 msgid "Are you sure you want to delete this split?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa phần tách này không?"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\actions.html:14
 msgid "Delete Split"
-msgstr ""
+msgstr "Xóa phần tách"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\actions.html:18
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:107
 msgid "Cannot delete opportunity owner"
-msgstr ""
+msgstr "Không thể xóa chủ sở hữu cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\manage_opportunity_spilt.html:5
 msgid "Edit All Opportunity Splits"
-msgstr ""
+msgstr "Chỉnh sửa tất cả phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\manage_opportunity_spilt.html:7
+#: .\horilla_crm\opportunities\templates\opportunity_stage\custom_stages_form_opp.html:43
+#: .\horilla_crm\opportunities\templates\opportunity_stage\opportunity_stages_modal.html:127
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:13
 msgid "Enable Opportunity split"
-msgstr ""
+msgstr "Bật phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:64
 msgid ""
 "When enabled, users can assign splits to any active user in the company,not "
 "just opportunity team members. This allows adding new members while editing "
 "splits."
 msgstr ""
+"Khi được bật, người dùng có thể chỉ định phần chia cho bất kỳ người dùng "
+"đang hoạt động nào trong công ty, không chỉ các thành viên trong nhóm cơ "
+"hội. Điều này cho phép thêm thành viên mới trong khi chỉnh sửa phần tách."
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:73
 msgid "split"
-msgstr ""
+msgstr "tách ra"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:77
 msgid "Quick Tips for Opportunity Splits"
-msgstr ""
+msgstr "Mẹo nhanh để phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:80
 msgid ""
 "Enable opportunity splits to distribute revenue and credit among multiple "
 "team members"
 msgstr ""
+"Cho phép phân chia cơ hội để phân phối doanh thu và tín dụng giữa nhiều "
+"thành viên trong nhóm"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:83
 msgid ""
 "Configure split fields to track different revenue types (Revenue, Overlay, "
 "Expected Revenue)"
 msgstr ""
+"Định cấu hình các trường phân tách để theo dõi các loại doanh thu khác nhau "
+"(Doanh thu, Lớp phủ, Doanh thu dự kiến)"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:86
 msgid ""
 "Set percentage allocations for each team member to ensure proper credit "
 "distribution"
 msgstr ""
+"Đặt phân bổ tỷ lệ phần trăm cho mỗi thành viên trong nhóm để đảm bảo phân "
+"phối tín dụng hợp lý"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:89
 msgid ""
 "Choose whether to allow all users or restrict splits to opportunity team "
 "members only"
 msgstr ""
+"Chọn xem có cho phép tất cả người dùng hay hạn chế phân chia chỉ cho các "
+"thành viên trong nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\opportunity_split_view.html:102
 msgid "Please Activate opporunity team settings"
-msgstr ""
+msgstr "Vui lòng kích hoạt cài đặt nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_row.html:9
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:42
 msgid "Select User"
-msgstr ""
+msgstr "Chọn người dùng"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_row.html:14
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:47
 msgid "Not in team"
-msgstr ""
+msgstr "Không có trong đội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:24
 msgid "Percent"
-msgstr ""
+msgstr "Phần trăm"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:30
 msgid "Actions"
-msgstr ""
+msgstr "Hành động"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:154
 msgid "Add Row"
-msgstr ""
+msgstr "Thêm hàng"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:174
 msgid ""
 "Only opportunity team members can be assigned splits.To allow all users, "
 "enable Let users add members to opportunity teams while editing splits in  "
 "Opportunity Settings"
 msgstr ""
+"Chỉ các thành viên trong nhóm cơ hội mới có thể được chỉ định phần tách. Để "
+"cho phép tất cả người dùng, hãy bật Cho phép người dùng thêm thành viên vào "
+"nhóm cơ hội trong khi chỉnh sửa phần tách trong Cài đặt cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:178
 msgid "All active users in the company can be assigned splits."
 msgstr ""
+"Tất cả người dùng đang hoạt động trong công ty đều có thể được phân chia."
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:183
 #, python-format
 msgid "Total percentage must equal 100%% for this split type."
-msgstr ""
+msgstr "Tổng tỷ lệ phần trăm phải bằng 100%% cho loại phân chia này."
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:193
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\split_tab_content.html:222
 msgid "Saving..."
-msgstr ""
+msgstr "Đang lưu..."
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\totals_row.html:5
 msgid "TOTAL PERCENT"
-msgstr ""
+msgstr "TỔNG PHẦN TRĂM"
 
+#: .\horilla_crm\opportunities\templates\opportunity_split\totals_row.html:15
 msgid "TOTAL AMOUNT"
-msgstr ""
+msgstr "TỔNG SỐ TIỀN"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\custom_stages_form_opp.html:3
 msgid "Manage Custom Stages"
-msgstr ""
+msgstr "Quản lý các trạng thái tùy chỉnh"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\custom_stages_form_opp.html:18
 msgid "Drag"
-msgstr ""
+msgstr "Di chuyển"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\custom_stages_form_opp.html:56
 msgid "Add Stage"
-msgstr ""
+msgstr "Thêm Trạng thái"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\custom_stages_form_opp.html:62
 msgid " Changes"
-msgstr ""
+msgstr " Thay đổi"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\custom_stages_form_opp.html:67
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\oppor_stages_initialize.html:6
 msgid "Initialize Database"
-msgstr ""
+msgstr "Khởi tạo cơ sở dữ liệu"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\oppor_stages_initialize.html:27
 msgid "Get started by using default stages or adding your custom stages."
 msgstr ""
+"Bắt đầu bằng cách sử dụng các giai đoạn mặc định hoặc thêm các giai đoạn "
+"tùy chỉnh của bạn."
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\opportunity_stages_modal.html:22
 msgid "Default Stages"
-msgstr ""
+msgstr "Trạng thái mặc định"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\opportunity_stages_modal.html:24
+#: .\horilla_crm\opportunities\templates\opportunity_stage\opportunity_stages_modal.html:34
 msgid "Stages"
-msgstr ""
+msgstr "Danh sách Trạng thái"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\opportunity_stages_modal.html:83
 msgid "Select Opportunity Stages for"
-msgstr ""
+msgstr "Chọn các Trạng thái cơ hội cho"
 
+#: .\horilla_crm\opportunities\templates\opportunity_stage\opportunity_stages_modal.html:111
 msgid "Custom Stages"
-msgstr ""
+msgstr "Các trạng thái tùy chỉnh"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:12
 msgid "Team Selling Setup"
-msgstr ""
+msgstr "Thiết lập nhóm bán hàng"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:14
 msgid ""
-"Configure opportunity team settings to enable collaboration among sales team "
-"members"
+"Configure opportunity team settings to enable collaboration among sales "
+"team members"
 msgstr ""
+"Định cấu hình cài đặt nhóm cơ hội để cho phép cộng tác giữa các thành viên "
+"nhóm bán hàng"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:29
 msgid "Team Selling is Enabled"
-msgstr ""
+msgstr "Bán hàng theo nhóm đã được kích hoạt"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:30
 msgid "Opportunity teams are available across your system"
-msgstr ""
+msgstr "Các nhóm cơ hội có sẵn trên toàn hệ thống của bạn"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:37
 msgid "Team Selling is Disabled"
-msgstr ""
+msgstr "Bán hàng theo nhóm bị vô hiệu hóa"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:38
 msgid "Enable to start using opportunity teams"
-msgstr ""
+msgstr "Cho phép bắt đầu sử dụng các nhóm cơ hội"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:74
 msgid "About Team Selling"
-msgstr ""
+msgstr "Giới thiệu về đội ngũ bán hàng"
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:78
 msgid ""
-"Opportunity Teams help multiple users to better collaborate on opportunities "
-"by defining a role for each team member, setting record-level access "
-"individually, and viewing teams in list views and reports."
+"Opportunity Teams help multiple users to better collaborate on "
+"opportunities by defining a role for each team member, setting record-level "
+"access individually, and viewing teams in list views and reports."
 msgstr ""
+"Nhóm Cơ hội giúp nhiều người dùng cộng tác tốt hơn trên các cơ hội bằng "
+"cách xác định vai trò cho từng thành viên trong nhóm, đặt quyền truy cập "
+"cấp bản ghi riêng lẻ và xem các nhóm trong chế độ xem danh sách và báo cáo."
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:82
 msgid ""
 "When disabled, all existing opportunity teams and their members have been "
 "deleted."
 msgstr ""
+"Khi bị vô hiệu hóa, tất cả các nhóm cơ hội hiện có và các thành viên của họ "
+"đều bị xóa."
 
+#: .\horilla_crm\opportunities\templates\opportunity_team\team_selling_setup.html:84
 msgid ""
 "When enabled, opportunity teams are available throughout the application. "
 "Users may prepare default opportunity teams for speedy setup of new "
 "opportunities."
 msgstr ""
+"Khi được bật, các nhóm cơ hội sẽ có sẵn trong toàn bộ ứng dụng. Người dùng "
+"có thể chuẩn bị các nhóm cơ hội mặc định để thiết lập nhanh chóng các cơ "
+"hội mới."
 
+#: .\horilla_crm\opportunities\views.py:168
+#: .\horilla_crm\opportunities\views.py:421
 msgid "Change Owner"
-msgstr ""
+msgstr "Thay đổi chủ sở hữu"
 
+#: .\horilla_crm\opportunities\views.py:193
 msgid "Duplicate"
-msgstr ""
+msgstr "Nhân bản"
 
+#: .\horilla_crm\opportunities\views.py:294
+#: .\horilla_crm\opportunities\views.py:362
 msgid "Opportunity Information"
-msgstr ""
+msgstr "Thông tin Cơ hội"
 
+#: .\horilla_crm\opportunities\views.py:295
+#: .\horilla_crm\opportunities\views.py:363
 msgid "Additional Information"
-msgstr ""
+msgstr "Thông tin bổ sung"
 
+#: .\horilla_crm\opportunities\views.py:603
 msgid "Contact Roles"
-msgstr ""
+msgstr "Vai trò liên hệ"
 
+#: .\horilla_crm\opportunities\views.py:701
 msgid "Add Team"
-msgstr ""
+msgstr "Thêm đội"
 
+#: .\horilla_crm\opportunities\views.py:782
 msgid "Manage Opportunity Splits"
-msgstr ""
+msgstr "Quản lý phân chia cơ hội"
 
+#: .\horilla_crm\opportunities\views.py:863
 msgid "Add Contact Role"
-msgstr ""
+msgstr "Thêm vai trò liên hệ"

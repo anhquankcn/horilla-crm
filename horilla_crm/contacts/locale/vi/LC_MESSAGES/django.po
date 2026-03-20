@@ -6,195 +6,252 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-17 06:38+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
+"PO-Revision-Date: 2026-01-04 13:38+0700\n"
+"Last-Translator: 2025-01-05 09:24:00+0700\n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
+
+#: .\horilla_crm\contacts\apps.py:13 .\horilla_crm\contacts\menu.py:35
+#: .\horilla_crm\contacts\models.py:104
 msgid "Contacts"
-msgstr ""
+msgstr "Liên hệ"
 
+#: .\horilla_crm\contacts\forms.py:101
 msgid "Select Contact"
-msgstr ""
+msgstr "Chọn liên hệ"
 
+#: .\horilla_crm\contacts\forms.py:114
 msgid "Select the contact to assign as a child contact."
-msgstr ""
+msgstr "Chọn liên hệ để chỉ định làm liên hệ con."
 
+#: .\horilla_crm\contacts\forms.py:183
 msgid "Please select contact."
-msgstr ""
+msgstr "Vui lòng chọn liên hệ."
 
+#: .\horilla_crm\contacts\forms.py:188
 msgid "This contact already has a parent contact assigned."
-msgstr ""
+msgstr "Người liên hệ này đã được chỉ định một người liên hệ chính."
 
+#: .\horilla_crm\contacts\forms.py:194
 msgid "An contact cannot be its own parent."
-msgstr ""
+msgstr "Một liên hệ không thể là cha mẹ của chính nó."
 
+#: .\horilla_crm\contacts\forms.py:203
 msgid "Please select a valid contact."
-msgstr ""
+msgstr "Vui lòng chọn một liên hệ hợp lệ."
 
+#: .\horilla_crm\contacts\models.py:21
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
+#: .\horilla_crm\contacts\models.py:22
 msgid "Phone Inquiry"
-msgstr ""
+msgstr "Yêu cầu qua điện thoại"
 
+#: .\horilla_crm\contacts\models.py:23
 msgid "Partner Referral"
-msgstr ""
+msgstr "Giới thiệu đối tác"
 
+#: .\horilla_crm\contacts\models.py:24
 msgid "Purchased List"
-msgstr ""
+msgstr "Danh sách đã mua"
 
+#: .\horilla_crm\contacts\models.py:25
 msgid "Other"
-msgstr ""
+msgstr "Khác"
 
+#: .\horilla_crm\contacts\models.py:37
 msgid "Contact Owner"
-msgstr ""
+msgstr "Người sở hữu Liên hệ"
 
+#: .\horilla_crm\contacts\models.py:41
 msgid "Title"
-msgstr ""
+msgstr "Danh xưng"
 
+#: .\horilla_crm\contacts\models.py:43
 msgid "First Name"
-msgstr ""
+msgstr "Tên"
 
+#: .\horilla_crm\contacts\models.py:44
 msgid "Last Name"
-msgstr ""
+msgstr "Họ"
 
+#: .\horilla_crm\contacts\models.py:45
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
+#: .\horilla_crm\contacts\models.py:47
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
+#: .\horilla_crm\contacts\models.py:50
 msgid "Secondary Phone"
-msgstr ""
+msgstr "Điện thoại phụ"
 
+#: .\horilla_crm\contacts\models.py:54
 msgid "City"
-msgstr ""
+msgstr "Thành phố"
 
+#: .\horilla_crm\contacts\models.py:57
 msgid "State"
-msgstr ""
+msgstr "Khu vực"
 
+#: .\horilla_crm\contacts\models.py:60
 msgid "Zip"
-msgstr ""
+msgstr "Mã zip"
 
+#: .\horilla_crm\contacts\models.py:63
 msgid "Country"
-msgstr ""
+msgstr "Quốc gia"
 
+#: .\horilla_crm\contacts\models.py:67
 msgid "Parent Contact"
-msgstr ""
+msgstr "Liên hệ Cấp trên"
 
+#: .\horilla_crm\contacts\models.py:74
 msgid "Contact Source"
-msgstr ""
+msgstr "Nguồn liên hệ"
 
+#: .\horilla_crm\contacts\models.py:80
 msgid "Description"
-msgstr ""
+msgstr "Mô tả chi tiết"
 
+#: .\horilla_crm\contacts\models.py:81
 msgid "Birth Date"
-msgstr ""
+msgstr "Ngày sinh"
 
+#: .\horilla_crm\contacts\models.py:83
 msgid "Assistant"
-msgstr ""
+msgstr "Trợ lý"
 
+#: .\horilla_crm\contacts\models.py:86
 msgid "Assistant Phone"
-msgstr ""
+msgstr "Trợ lý điện thoại"
 
+#: .\horilla_crm\contacts\models.py:89
 msgid "Languages"
-msgstr ""
+msgstr "Ngôn ngữ"
 
+#: .\horilla_crm\contacts\models.py:95
 msgid "Is Primary"
-msgstr ""
+msgstr "Là chính"
 
+#: .\horilla_crm\contacts\models.py:96
 msgid "Contact Score"
-msgstr ""
+msgstr "Điểm Liên hệ"
 
+#: .\horilla_crm\contacts\models.py:103 .\horilla_crm\contacts\models.py:240
 msgid "Contact"
-msgstr ""
+msgstr "Liên hệ"
 
+#: .\horilla_crm\contacts\models.py:246
 msgid "Account"
-msgstr ""
+msgstr "Khách hàng"
 
+#: .\horilla_crm\contacts\models.py:253
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
+#: .\horilla_crm\contacts\models.py:260
 msgid "Contact Account Relationship"
-msgstr ""
+msgstr "Mối quan hệ Khách hàng - Liên hệ"
 
+#: .\horilla_crm\contacts\models.py:261
 msgid "Contact Account Relationships"
-msgstr ""
+msgstr "Danh sách mối quan hệ Khách hàng - Liên hệ"
 
+#: .\horilla_crm\contacts\views.py:149 .\horilla_crm\contacts\views.py:861
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
+#: .\horilla_crm\contacts\views.py:161 .\horilla_crm\contacts\views.py:403
 msgid "Change Owner"
-msgstr ""
+msgstr "Thay đổi Chủ sở hữu"
 
+#: .\horilla_crm\contacts\views.py:186
 msgid "Duplicate"
-msgstr ""
+msgstr "Nhân bản"
 
+#: .\horilla_crm\contacts\views.py:295 .\horilla_crm\contacts\views.py:349
 msgid "Contact Information"
-msgstr ""
+msgstr "Thông tin Liên hệ"
 
+#: .\horilla_crm\contacts\views.py:296 .\horilla_crm\contacts\views.py:350
 msgid "Address Information"
-msgstr ""
+msgstr "Thông tin Địa chỉ"
 
+#: .\horilla_crm\contacts\views.py:297 .\horilla_crm\contacts\views.py:351
 msgid "Additional Information"
-msgstr ""
+msgstr "Thông tin Bổ sung"
 
+#: .\horilla_crm\contacts\views.py:588
 msgid "Related Campaigns"
-msgstr ""
+msgstr "Danh sách chiến dịch liên quan"
 
+#: .\horilla_crm\contacts\views.py:694
 msgid "Related Opportunities"
-msgstr ""
+msgstr "Danh sách Cơ hội liên quan"
 
+#: .\horilla_crm\contacts\views.py:817
 msgid "Related Accounts"
-msgstr ""
+msgstr "Danh sách Khách hàng liên quan"
 
+#: .\horilla_crm\contacts\views.py:914
 msgid "Child Contacts"
-msgstr ""
+msgstr "Danh sách Khách hàng phụ thuộc"
 
+#: .\horilla_crm\contacts\views.py:975
 msgid "Add Account Contact Relationships"
-msgstr ""
+msgstr "Thêm các Mối quan hệ Khách hàng - Liên hệ"
 
+#: .\horilla_crm\contacts\views.py:1070
 msgid "Add Child Contact"
-msgstr ""
+msgstr "Thêm Liên hệ phụ thuộc"
 
+#: .\horilla_crm\contacts\views.py:1096
 msgid "You must be logged in to perform this action."
-msgstr ""
+msgstr "Bạn phải đăng nhập để thực hiện hành động này."
 
+#: .\horilla_crm\contacts\views.py:1104
 msgid "No parent contact specified in the request."
-msgstr ""
+msgstr "Không có liên hệ cấp trên nào được chỉ định trong yêu cầu."
 
+#: .\horilla_crm\contacts\views.py:1109
 msgid "A contact cannot be its own parent."
-msgstr ""
+msgstr "Một liên hệ không thể là cha mẹ của chính nó."
 
+#: .\horilla_crm\contacts\views.py:1114
 msgid "This contact already has a parent contact."
-msgstr ""
+msgstr "Địa chỉ liên hệ này đã có địa chỉ liên hệ cấp trên."
 
+#: .\horilla_crm\contacts\views.py:1124
 msgid "Child contact assigned successfully!"
-msgstr ""
+msgstr "Liên hệ phụ thuộc được chỉ định thành công!"
 
+#: .\horilla_crm\contacts\views.py:1131
 msgid "Invalid parent contact ID format."
-msgstr ""
+msgstr "Định dạng ID liên hệ của cấp trên không hợp lệ."
 
+#: .\horilla_crm\contacts\views.py:1137
 msgid "An unexpected error occurred while assigning the child contact."
-msgstr ""
+msgstr "Đã xảy ra lỗi không mong muốn khi chỉ định liên hệ phụ thuộc."
 
+#: .\horilla_crm\contacts\views.py:1173
 msgid "You don't have permission to perform this action."
-msgstr ""
+msgstr "Bạn không có quyền thực hiện hành động này."
 
+#: .\horilla_crm\contacts\views.py:1183
 msgid "This contact doesn't have a parent contact."
-msgstr ""
+msgstr "Địa chỉ liên hệ này không có địa chỉ liên hệ cấp trên."
 
-#, python-brace-format
-msgid ""
-"Successfully removed {child_contact} from {parent_contact}'s child contacts."
-msgstr ""
-
+#: .\horilla_crm\contacts\views.py:1207
 msgid "An error occurred while removing the child contact."
-msgstr ""
+msgstr "Đã xảy ra lỗi khi xóa liên hệ phụ thuộc."

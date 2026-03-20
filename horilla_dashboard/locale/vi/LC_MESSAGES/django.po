@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-19 10:06+0000\n"
+"POT-Creation-Date: 2026-01-04 12:25+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,322 +18,491 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: .\horilla_dashboard\__version__.py:6
 msgid "Module for building and customizing interactive dashboards."
-msgstr ""
+msgstr "Mô-đun để xây dựng và tùy chỉnh bảng thông tin tương tác."
 
+#: .\horilla_dashboard\apps.py:15 .\horilla_dashboard\models.py:123
+#: .\horilla_dashboard\models.py:249
 msgid "Dashboard"
-msgstr ""
+msgstr "Trang tổng quan"
 
+#: .\horilla_dashboard\menu.py:19
 msgid "Home"
-msgstr ""
+msgstr "Trang chủ"
 
+#: .\horilla_dashboard\menu.py:31 .\horilla_dashboard\models.py:124
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:42
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:102
+#: .\horilla_dashboard\templates\dashboard_list_view.html:16
+#: .\horilla_dashboard\templates\dashboard_list_view.html:72
+#: .\horilla_dashboard\templates\dashboard_view.html:23
+#: .\horilla_dashboard\templates\dashboard_view.html:65
+#: .\horilla_dashboard\templates\favourite_dashboard.html:20
+#: .\horilla_dashboard\templates\favourite_dashboard.html:77
+#: .\horilla_dashboard\templates\favourite_folder.html:43
+#: .\horilla_dashboard\templates\favourite_folder.html:100
+#: .\horilla_dashboard\views.py:234
 msgid "Dashboards"
-msgstr ""
+msgstr "Trang tổng quan"
 
+#: .\horilla_dashboard\models.py:29
 msgid "Folder Name"
-msgstr ""
+msgstr "Tên thư mục"
 
+#: .\horilla_dashboard\models.py:30 .\horilla_dashboard\models.py:100
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
+#: .\horilla_dashboard\models.py:37 .\horilla_dashboard\models.py:107
 msgid "Folder"
-msgstr ""
+msgstr "Thư mục"
 
+#: .\horilla_dashboard\models.py:43 .\horilla_dashboard\models.py:114
 msgid "Favourited By"
-msgstr ""
+msgstr "Được yêu thích bởi"
 
+#: .\horilla_dashboard\models.py:49
 msgid "Folder Owner"
-msgstr ""
+msgstr "Chủ sở hữu thư mục"
 
+#: .\horilla_dashboard\models.py:58
 msgid "Dashboard Folder"
-msgstr ""
+msgstr "Thư mục bảng thông tin"
 
+#: .\horilla_dashboard\models.py:59
 msgid "Dashboard Folders"
-msgstr ""
+msgstr "Thư mục bảng điều khiển"
 
+#: .\horilla_dashboard\models.py:97
 msgid "Dashboard Owner"
-msgstr ""
+msgstr "Chủ sở hữu trang tổng quan"
 
+#: .\horilla_dashboard\models.py:99
 msgid "Dashboard Name"
-msgstr ""
+msgstr "Tên trang tổng quan"
 
+#: .\horilla_dashboard\models.py:109 .\horilla_dashboard\views.py:237
 msgid "Is Default"
-msgstr ""
+msgstr "Là mặc định"
 
+#: .\horilla_dashboard\models.py:221
 msgid "Charts"
-msgstr ""
+msgstr "Biểu đồ"
 
+#: .\horilla_dashboard\models.py:222
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:497
 msgid "Table Data"
-msgstr ""
+msgstr "Dữ liệu bảng"
 
+#: .\horilla_dashboard\models.py:223
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:569
 msgid "KPI"
-msgstr ""
+msgstr "KPI"
 
+#: .\horilla_dashboard\models.py:227
 msgid "Column Chart"
-msgstr ""
+msgstr "Biểu đồ cột"
 
+#: .\horilla_dashboard\models.py:228
 msgid "Line Chart"
-msgstr ""
+msgstr "Biểu đồ đường"
 
+#: .\horilla_dashboard\models.py:229
 msgid "Pie Chart"
-msgstr ""
+msgstr "Biểu đồ hình tròn"
 
+#: .\horilla_dashboard\models.py:230
 msgid "Funnel"
-msgstr ""
+msgstr "Kênh"
 
+#: .\horilla_dashboard\models.py:231
 msgid "Bar Chart"
-msgstr ""
+msgstr "Biểu đồ thanh"
 
+#: .\horilla_dashboard\models.py:232
 msgid "Donut"
-msgstr ""
+msgstr "bánh rán"
 
+#: .\horilla_dashboard\models.py:233
 msgid "Stacked Vertical Chart"
-msgstr ""
+msgstr "Biểu đồ dọc xếp chồng"
 
+#: .\horilla_dashboard\models.py:234
 msgid "Stacked Horizontal Chart"
-msgstr ""
+msgstr "Biểu đồ ngang xếp chồng"
 
+#: .\horilla_dashboard\models.py:238
 msgid "Count"
-msgstr ""
+msgstr "Đếm"
 
+#: .\horilla_dashboard\models.py:239
 msgid "Sum"
-msgstr ""
+msgstr "Tổng"
 
+#: .\horilla_dashboard\models.py:240
 msgid "Average"
-msgstr ""
+msgstr "Trung bình"
 
+#: .\horilla_dashboard\models.py:241
 msgid "Minimum"
-msgstr ""
+msgstr "tối thiểu"
 
+#: .\horilla_dashboard\models.py:242
 msgid "Maximum"
-msgstr ""
+msgstr "Tối đa"
 
+#: .\horilla_dashboard\models.py:251
 msgid "Component Name"
-msgstr ""
+msgstr "Tên thành phần"
 
+#: .\horilla_dashboard\models.py:253
 msgid "Component Type"
-msgstr ""
+msgstr "Loại thành phần"
 
+#: .\horilla_dashboard\models.py:261
 msgid "Chart Type"
-msgstr ""
+msgstr "Loại biểu đồ"
 
+#: .\horilla_dashboard\models.py:268
 msgid "Reports"
-msgstr ""
+msgstr "Báo cáo"
 
+#: .\horilla_dashboard\models.py:279
 msgid "Module"
-msgstr ""
+msgstr "mô-đun"
 
+#: .\horilla_dashboard\models.py:288
 msgid "Metric Type"
-msgstr ""
+msgstr "Loại số liệu"
 
+#: .\horilla_dashboard\models.py:293
 msgid "Grouping Field"
-msgstr ""
+msgstr "Trường nhóm"
 
+#: .\horilla_dashboard\models.py:299
 msgid "Secondary Grouping (For Stacked)"
-msgstr ""
+msgstr "Nhóm thứ cấp (Dành cho xếp chồng)"
 
+#: .\horilla_dashboard\models.py:303
 msgid "Table Columns"
-msgstr ""
+msgstr "Cột bảng"
 
+#: .\horilla_dashboard\models.py:308 .\horilla_dashboard\models.py:477
 msgid "Sequence"
-msgstr ""
+msgstr "Sự liên tiếp"
 
+#: .\horilla_dashboard\models.py:314
 msgid "KPI Icon"
-msgstr ""
+msgstr "Biểu tượng KPI"
 
+#: .\horilla_dashboard\models.py:321
 msgid "Component Owner"
-msgstr ""
+msgstr "Chủ sở hữu thành phần"
 
+#: .\horilla_dashboard\models.py:330
 msgid "Dashboard Component"
-msgstr ""
+msgstr "Thành phần bảng điều khiển"
 
+#: .\horilla_dashboard\models.py:331
 msgid "Dashboard Components"
-msgstr ""
+msgstr "Thành phần bảng thông tin"
 
+#: .\horilla_dashboard\models.py:470
 msgid "Component"
-msgstr ""
+msgstr "Thành phần"
 
+#: .\horilla_dashboard\models.py:472
 msgid "Field Name"
-msgstr ""
+msgstr "Tên trường"
 
+#: .\horilla_dashboard\models.py:474
 msgid "Operator"
-msgstr ""
+msgstr "Toán tử"
 
+#: .\horilla_dashboard\models.py:476
 msgid "Value"
-msgstr ""
+msgstr "Giá trị"
 
+#: .\horilla_dashboard\models.py:483 .\horilla_dashboard\models.py:484
 msgid "Component Criteria"
-msgstr ""
+msgstr "Tiêu chí thành phần"
 
+#: .\horilla_dashboard\templates\dashboard_actions_detail.html:10
+#: .\horilla_dashboard\templates\dashboard_custom_actions.html:16
+#: .\horilla_dashboard\templates\folder_actions_detail.html:8
+#: .\horilla_dashboard\templates\folder_custom_actions.html:16
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
+#: .\horilla_dashboard\templates\dashboard_actions_detail.html:17
+#: .\horilla_dashboard\templates\dashboard_custom_actions.html:23
+#: .\horilla_dashboard\templates\folder_actions_detail.html:13
 msgid "Change Owner"
-msgstr ""
+msgstr "Thay đổi chủ sở hữu"
 
+#: .\horilla_dashboard\templates\dashboard_actions_detail.html:28
+#: .\horilla_dashboard\templates\dashboard_custom_actions.html:34
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:147
+#: .\horilla_dashboard\templates\folder_actions_detail.html:22
+#: .\horilla_dashboard\templates\folder_custom_actions.html:27
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:46
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:433
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:151
 msgid "Preview"
-msgstr ""
+msgstr "Xem trước"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:157
 msgid "Select component type to see preview"
-msgstr ""
+msgstr "Chọn loại thành phần để xem bản xem trước"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:186
 msgid "Choose File"
-msgstr ""
+msgstr "Chọn tệp"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:194
 msgid "No file chosen"
-msgstr ""
+msgstr "Không có tập tin nào được chọn"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:255
 msgid "Conditions"
-msgstr ""
+msgstr "Điều kiện"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:291
+#: .\horilla_dashboard\templates\dashboard_component_form.html:330
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
+#: .\horilla_dashboard\templates\dashboard_component_form.html:354
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:36
 msgid "Add components"
-msgstr ""
+msgstr "Thêm thành phần"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:41
 msgid "Reorder"
-msgstr ""
+msgstr "Sắp xếp lại"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:61
+#: .\horilla_dashboard\templates\home\home.html:53
 msgid "Loading KPI..."
-msgstr ""
+msgstr "Đang tải KPI..."
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:77
+#: .\horilla_dashboard\templates\home\home.html:69
 msgid "Charts & Data"
-msgstr ""
+msgstr "Biểu đồ & Dữ liệu"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:100
 msgid "Export as PNG"
-msgstr ""
+msgstr "Xuất dưới dạng PNG"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:107
 msgid "Export as PDF"
-msgstr ""
+msgstr "Xuất dưới dạng PDF"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:122
+#: .\horilla_dashboard\templates\kpi_components.html:31
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:133
 msgid "Add to Another Dashboard"
-msgstr ""
+msgstr "Thêm vào trang tổng quan khác"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:161
+#: .\horilla_dashboard\templates\home\home.html:95
 msgid " Loading chart..."
-msgstr ""
+msgstr "Đang tải biểu đồ..."
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:169
+#: .\horilla_dashboard\templates\home\home.html:103
 msgid "Created From report"
-msgstr ""
+msgstr "Được tạo từ báo cáo"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:206
+#: .\horilla_dashboard\templates\home\home.html:148
 msgid "No Components Added"
-msgstr ""
+msgstr "Không có thành phần nào được thêm vào"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:209
+#: .\horilla_dashboard\templates\home\home.html:151
 msgid ""
-"This dashboard doesn't have any components yet. Add charts, tables, KPIs, or "
-"targets to visualize your data."
+"This dashboard doesn't have any components yet. Add charts, tables, KPIs, or"
+" targets to visualize your data."
 msgstr ""
+"Trang tổng quan này chưa có bất kỳ thành phần nào. Thêm biểu đồ, bảng, KPI "
+"hoặc mục tiêu để trực quan hóa dữ liệu của bạn."
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:428
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:450
 msgid "Reorder Components"
-msgstr ""
+msgstr "Sắp xếp lại các thành phần"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:458
 msgid "Reorder KPIs"
-msgstr ""
+msgstr "Sắp xếp lại KPI"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:495
 msgid "Chart"
-msgstr ""
+msgstr "Biểu đồ"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:520
 msgid "No components to reorder"
-msgstr ""
+msgstr "Không có thành phần nào để sắp xếp lại"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:539
 msgid "Save Component Order"
-msgstr ""
+msgstr "Lưu thứ tự thành phần"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:591
 msgid "No KPI components to reorder"
-msgstr ""
+msgstr "Không có thành phần KPI nào để sắp xếp lại"
 
+#: .\horilla_dashboard\templates\dashboard_detail_view.html:610
 msgid "Save KPI Order"
-msgstr ""
+msgstr "Lưu đơn hàng KPI"
 
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:55
+#: .\horilla_dashboard\templates\dashboard_list_view.html:28
+#: .\horilla_dashboard\templates\dashboard_view.html:34
+#: .\horilla_dashboard\templates\favourite_dashboard.html:32
+#: .\horilla_dashboard\templates\favourite_folder.html:55
 msgid "All Dashboards"
-msgstr ""
+msgstr "Tất cả các trang tổng quan"
 
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:59
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:89
+#: .\horilla_dashboard\templates\dashboard_list_view.html:32
+#: .\horilla_dashboard\templates\dashboard_list_view.html:59
+#: .\horilla_dashboard\templates\dashboard_view.html:38
+#: .\horilla_dashboard\templates\dashboard_view.html:58
+#: .\horilla_dashboard\templates\favourite_dashboard.html:36
+#: .\horilla_dashboard\templates\favourite_dashboard.html:64
+#: .\horilla_dashboard\templates\favourite_folder.html:59
+#: .\horilla_dashboard\templates\favourite_folder.html:87
 msgid "Folders"
-msgstr ""
+msgstr "Thư mục"
 
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:72
+#: .\horilla_dashboard\templates\dashboard_list_view.html:43
+#: .\horilla_dashboard\templates\dashboard_view.html:49
+#: .\horilla_dashboard\templates\favourite_dashboard.html:48
+#: .\horilla_dashboard\templates\favourite_folder.html:71
 msgid "All Folders"
-msgstr ""
+msgstr "Tất cả các thư mục"
 
+#: .\horilla_dashboard\templates\dashboard_folder_detail.html:76
+#: .\horilla_dashboard\templates\dashboard_list_view.html:47
+#: .\horilla_dashboard\templates\dashboard_view.html:52
+#: .\horilla_dashboard\templates\favourite_dashboard.html:52
+#: .\horilla_dashboard\templates\favourite_folder.html:75
 msgid "Favourites"
-msgstr ""
+msgstr "Yêu thích"
 
+#: .\horilla_dashboard\templates\home\default_home.html:20
+#: .\horilla_dashboard\templates\home\home.html:18
 msgid "Welcome"
-msgstr ""
+msgstr "Chào mừng"
 
+#: .\horilla_dashboard\templates\home\default_home.html:25
+#: .\horilla_dashboard\templates\home\home.html:23
 msgid "View All Dashboards"
-msgstr ""
+msgstr "Xem tất cả bảng điều khiển"
 
+#: .\horilla_dashboard\templates\home\default_home.html:31
+#: .\horilla_dashboard\templates\home\home.html:28
 msgid ""
 "Get started by creating your first dashboard or explore the overview below."
 msgstr ""
+"Hãy bắt đầu bằng cách tạo trang tổng quan đầu tiên của bạn hoặc khám phá "
+"phần tổng quan bên dưới."
 
+#: .\horilla_dashboard\templates\home\default_home.html:35
 msgid ""
 "You currently don't have access to dashboard. Please contact your "
 "administrator to request permissions or explore available features."
 msgstr ""
+"Bạn hiện không có quyền truy cập vào trang tổng quan. Vui lòng liên hệ với "
+"quản trị viên của bạn để yêu cầu quyền hoặc khám phá các tính năng có sẵn."
 
+#: .\horilla_dashboard\templates\home\default_home.html:106
 msgid "Records"
-msgstr ""
+msgstr "Hồ sơ"
 
+#: .\horilla_dashboard\templates\kpi_components.html:44
 msgid " Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
+#: .\horilla_dashboard\templates\kpi_components.html:56
 msgid " Add to Another Dashboard"
-msgstr ""
+msgstr "Thêm vào trang tổng quan khác"
 
+#: .\horilla_dashboard\templates\kpi_components.html:72
 msgid "KPI icon"
-msgstr ""
+msgstr "Biểu tượng KPI"
 
+#: .\horilla_dashboard\views.py:196
 msgid "New Dashboard"
-msgstr ""
+msgstr "Trang tổng quan mới"
 
+#: .\horilla_dashboard\views.py:206
 msgid "New Folder"
-msgstr ""
+msgstr "Thư mục mới"
 
+#: .\horilla_dashboard\views.py:1610
 msgid "Component updated successfully!"
-msgstr ""
+msgstr "Thành phần được cập nhật thành công!"
 
+#: .\horilla_dashboard\views.py:1612
 msgid "Component added successfully!"
-msgstr ""
+msgstr "Đã thêm thành phần thành công!"
 
+#: .\horilla_dashboard\views.py:2882
 msgid "Move to Dashboard"
-msgstr ""
+msgstr "Di chuyển đến Bảng điều khiển"
 
+#: .\horilla_dashboard\views.py:2950
 msgid "Original component not found."
-msgstr ""
+msgstr "Thành phần gốc không được tìm thấy."
 
+#: .\horilla_dashboard\views.py:2971
 msgid "Chart successfully added to another dashboard!"
-msgstr ""
+msgstr "Biểu đồ đã được thêm thành công vào một trang tổng quan khác!"
 
+#: .\horilla_dashboard\views.py:3253
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
+#: .\horilla_dashboard\views.py:3254
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
+#: .\horilla_dashboard\views.py:3536
 msgid "Favourite Dashboards"
-msgstr ""
+msgstr "Trang tổng quan yêu thích"
 
+#: .\horilla_dashboard\views.py:3728
 msgid "Add to Dashboard"
-msgstr ""
+msgstr "Thêm vào Trang tổng quan"
 
+#: .\horilla_dashboard\views.py:3799
+#, python-brace-format
 msgid "This report '{}' is already added to the '{}' dashboard."
-msgstr ""
+msgstr "Báo cáo '{}' này đã được thêm vào trang tổng quan '{}'."
 
+#: .\horilla_dashboard\views.py:3819
 msgid "Report added to dashboard successfully!"
-msgstr ""
+msgstr "Đã thêm báo cáo vào bảng điều khiển thành công!"
 
+#: .\horilla_dashboard\views.py:3825
 msgid "Report not found."
-msgstr ""
+msgstr "Không tìm thấy báo cáo."

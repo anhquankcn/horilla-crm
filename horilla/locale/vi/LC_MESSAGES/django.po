@@ -6,2544 +6,2573 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-19 10:14+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2026-01-04 12:20+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
 
 msgid "Core System"
-msgstr ""
+msgstr "Hệ thống cốt lõi"
 
 msgid "The page you are looking for does not exist or may have been moved."
-msgstr ""
+msgstr "Trang bạn đang tìm kiếm không tồn tại hoặc có thể đã bị di chuyển."
 
 msgid "Horilla"
-msgstr ""
+msgstr "Horilla"
 
 msgid "Welcome to Horilla"
-msgstr ""
+msgstr "Chào mừng đến với Horilla"
 
 msgid "Please sign in to access your dashboard"
-msgstr ""
+msgstr "Vui lòng đăng nhập để truy cập trang tổng quan của bạn"
 
 msgid "Please sign up to access Horilla"
-msgstr ""
+msgstr "Hãy đăng ký để truy cập Horilla"
 
 msgid "English"
-msgstr ""
+msgstr "Tiếng Anh"
 
 msgid "French"
-msgstr ""
+msgstr "tiếng Pháp"
 
 msgid "German"
-msgstr ""
+msgstr "tiếng Đức"
 
 msgid "Spanish"
-msgstr ""
+msgstr "tiếng Tây Ban Nha"
 
 msgid "Italian"
-msgstr ""
+msgstr "tiếng Ý"
 
 msgid "Portuguese"
-msgstr ""
+msgstr "tiếng Bồ Đào Nha"
 
 msgid "No Grouping"
-msgstr ""
+msgstr "Không nhóm"
 
 msgid "January"
-msgstr ""
+msgstr "Tháng Một"
 
 msgid "February"
-msgstr ""
+msgstr "Tháng Hai"
 
 msgid "March"
-msgstr ""
+msgstr "Tháng Ba"
 
 msgid "April"
-msgstr ""
+msgstr "Tháng Tư"
 
 msgid "May"
-msgstr ""
+msgstr "Tháng Năm"
 
 msgid "June"
-msgstr ""
+msgstr "Tháng Sáu"
 
 msgid "July"
-msgstr ""
+msgstr "Tháng Bảy"
 
 msgid "August"
-msgstr ""
+msgstr "Tháng Tám"
 
 msgid "September"
-msgstr ""
+msgstr "Tháng Chín"
 
 msgid "October"
-msgstr ""
+msgstr "tháng mười"
 
 msgid "November"
-msgstr ""
+msgstr "Tháng Mười một"
 
 msgid "December"
-msgstr ""
+msgstr "Tháng Mười hai"
 
 msgid "Equals"
-msgstr ""
+msgstr "Bằng"
 
 msgid "Not Equals"
-msgstr ""
+msgstr "Không bằng"
 
 msgid "Contains"
-msgstr ""
+msgstr "Chứa"
 
 msgid "Does Not Contain"
-msgstr ""
+msgstr "không chứa"
 
 msgid "Ends With"
-msgstr ""
+msgstr "Kết thúc bằng"
 
 msgid "Greater Than"
-msgstr ""
+msgstr "lớn hơn"
 
 msgid "Greater Than or Equal"
-msgstr ""
+msgstr "Lớn hơn hoặc bằng"
 
 msgid "Less Than"
-msgstr ""
+msgstr "Ít hơn"
 
 msgid "Less Than or Equal"
-msgstr ""
+msgstr "Nhỏ hơn hoặc bằng"
 
 msgid "Is Empty"
-msgstr ""
+msgstr "trống"
 
 msgid "Is Not Empty"
-msgstr ""
+msgstr "Không trống"
 
 msgid "Users"
-msgstr ""
+msgstr "Người dùng"
 
 msgid "Add column to list"
-msgstr ""
+msgstr "Thêm cột vào danh sách"
 
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 msgid "Your password has been changed successfully."
-msgstr ""
+msgstr "Mật khẩu của bạn đã được thay đổi thành công."
 
 msgid "Customer Role"
-msgstr ""
+msgstr "Vai trò Khách hàng"
 
 msgid "Department"
-msgstr ""
+msgstr "Phòng"
 
 msgid "Export completed successfully!"
-msgstr ""
+msgstr "Xuất hoàn tất thành công!"
 
 msgid "Schedule not found."
-msgstr ""
+msgstr "Không tìm thấy lịch trình."
 
 msgid "Please select at least one module before scheduling."
-msgstr ""
+msgstr "Vui lòng chọn ít nhất một mô-đun trước khi lên lịch."
 
 msgid "Start date is required."
-msgstr ""
+msgstr "Ngày bắt đầu là bắt buộc."
 
 msgid "Start date cannot be in the past."
-msgstr ""
+msgstr "Ngày bắt đầu không được trong quá khứ."
 
 msgid "Invalid date format."
-msgstr ""
+msgstr "Định dạng ngày không hợp lệ."
 
 msgid "End date must be after start date."
-msgstr ""
+msgstr "Ngày kết thúc phải sau ngày bắt đầu."
 
 msgid "Day of month and month are required for yearly schedule."
-msgstr ""
+msgstr "Ngày trong tháng và tháng là bắt buộc đối với lịch trình hàng năm."
 
 msgid "Day of week is required for weekly schedule."
-msgstr ""
+msgstr "Ngày trong tuần là cần thiết cho lịch trình hàng tuần."
 
 msgid "Day of month is required for monthly schedule."
-msgstr ""
+msgstr "Ngày trong tháng là cần thiết cho lịch trình hàng tháng."
 
 msgid "Scheduled export updated successfully."
-msgstr ""
+msgstr "Xuất theo lịch đã được cập nhật thành công."
 
 msgid "Scheduled export created successfully."
-msgstr ""
+msgstr "Xuất theo lịch đã được tạo thành công."
 
 msgid "Modules"
-msgstr ""
+msgstr "Mô-đun"
 
 msgid "Schedule Details"
-msgstr ""
+msgstr "Chi tiết lịch trình"
 
 msgid "Last Executed On"
-msgstr ""
+msgstr "Thực thi lần cuối vào ngày"
 
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
 msgid "Effective date for these conversion rates"
-msgstr ""
+msgstr "Ngày có hiệu lực cho các tỷ lệ chuyển đổi này"
 
 msgid ""
-"Changing the default will update the current default business hour. Enable "
-"to set this as default; disable to allow another. Proceed?"
+"Changing the default will update the current default business hour. Enable to set this as "
+"default; disable to allow another. Proceed?"
 msgstr ""
+"Việc thay đổi mặc định sẽ cập nhật giờ làm việc mặc định hiện tại. Bật để đặt cài đặt này "
+"làm mặc định; vô hiệu hóa để cho phép cái khác. Tiếp tục?"
 
 msgid "You can select a maximum of 5 days for 24×5 business hours."
-msgstr ""
+msgstr "Bạn có thể chọn tối đa 5 ngày cho giờ làm việc 24×5."
 
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 msgid "Enter a secure password"
-msgstr ""
+msgstr "Nhập mật khẩu an toàn"
 
 msgid "Confirm Password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 msgid "Enter the same password again for verification"
-msgstr ""
+msgstr "Nhập lại cùng một mật khẩu để xác minh"
 
 msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
-msgstr ""
+msgstr "Yêu cầu. 150 ký tự trở xuống. Chỉ các chữ cái, chữ số và @/./+/-/_."
 
 msgid "Leave blank to keep current password"
-msgstr ""
+msgstr "Để trống để giữ mật khẩu hiện tại"
 
 msgid "Username is required."
-msgstr ""
+msgstr "Tên người dùng là bắt buộc."
 
 msgid "A user with this username already exists."
-msgstr ""
+msgstr "Một người dùng có tên người dùng này đã tồn tại."
 
 msgid "The two password fields must match."
-msgstr ""
+msgstr "Hai trường mật khẩu phải khớp nhau."
 
 msgid "Password is required for new users."
-msgstr ""
+msgstr "Mật khẩu là bắt buộc đối với người dùng mới."
 
 msgid "Password must be at least 8 characters long."
-msgstr ""
+msgstr "Mật khẩu phải dài ít nhất 8 ký tự."
 
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
 msgid "Select the role to assign to users."
-msgstr ""
+msgstr "Chọn vai trò để gán cho người dùng."
 
 msgid "Select one or more users to assign to the role."
-msgstr ""
+msgstr "Chọn một hoặc nhiều người dùng để gán vai trò."
 
 msgid "The following user(s) are already assigned to this role"
-msgstr ""
+msgstr "(Những) người dùng sau đã được chỉ định cho vai trò này"
 
 msgid "Enter current password"
-msgstr ""
+msgstr "Nhập mật khẩu hiện tại"
 
 msgid "Current Password"
-msgstr ""
+msgstr "Mật khẩu hiện tại"
 
 msgid "Enter new password"
-msgstr ""
+msgstr "Nhập mật khẩu mới"
 
 msgid "New Password"
-msgstr ""
+msgstr "Mật khẩu mới"
 
 msgid "Confirm your password"
-msgstr ""
+msgstr "Xác nhận mật khẩu của bạn"
 
 msgid "Confirm New Password"
-msgstr ""
+msgstr "Xác nhận mật khẩu mới"
 
 msgid "Current password is incorrect."
-msgstr ""
+msgstr "Mật khẩu hiện tại không chính xác."
 
 msgid "Confirm password and new password must be match"
-msgstr ""
+msgstr "Xác nhận mật khẩu và mật khẩu mới phải trùng khớp"
 
 msgid "New password must be different from current password."
-msgstr ""
+msgstr "Mật khẩu mới phải khác với mật khẩu hiện tại."
 
 msgid "Create"
-msgstr ""
+msgstr "Tạo mới"
 
 msgid "Change"
-msgstr ""
+msgstr "Thay đổi"
 
 msgid "View"
-msgstr ""
+msgstr "Xem"
 
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
 msgid "View Own"
-msgstr ""
+msgstr "Xem riêng"
 
 msgid "Change Own"
-msgstr ""
+msgstr "Thay đổi sở hữu"
 
 msgid "Import"
-msgstr ""
+msgstr "Nhập File"
 
 msgid "Role does not exist"
-msgstr ""
+msgstr "Vai trò không tồn tại"
 
 msgid "User does not exist"
-msgstr ""
+msgstr "Người dùng không tồn tại"
 
 msgid "Model not found"
-msgstr ""
+msgstr "Không tìm thấy mẫu"
 
 msgid "Field-level permissions are not available for this model."
-msgstr ""
+msgstr "Quyền cấp trường không có sẵn cho mô hình này."
 
 msgid "No users selected. Please select at least one user."
-msgstr ""
+msgstr "Không có người dùng nào được chọn. Vui lòng chọn ít nhất một người dùng."
 
 msgid "Invalid user selection."
-msgstr ""
+msgstr "Lựa chọn người dùng không hợp lệ."
 
 msgid "Please select at least one user."
-msgstr ""
+msgstr "Vui lòng chọn ít nhất một người dùng."
 
 msgid "No field permissions to save."
-msgstr ""
+msgstr "Không có quyền lưu trường."
 
 msgid "No valid users found."
-msgstr ""
+msgstr "Không tìm thấy người dùng hợp lệ."
 
 #, python-brace-format
-msgid ""
-"Successfully saved {count} field permission(s) for {user_count} user(s) on "
-"{model}."
+msgid "Successfully saved {count} field permission(s) for {user_count} user(s) on {model}."
 msgstr ""
+"Đã lưu thành công (các) quyền của trường {count} cho {user_count} người dùng trên {model}."
 
 #, python-brace-format
 msgid "Error saving field permissions: {error}"
-msgstr ""
+msgstr "Lỗi lưu quyền của trường: {error}"
 
 msgid "Either role or user must be specified"
-msgstr ""
+msgstr "Phải chỉ định vai trò hoặc người dùng"
 
 msgid "Groups"
-msgstr ""
+msgstr "Nhóm"
 
 msgid "Permissions"
-msgstr ""
+msgstr "Quyền"
 
 msgid "Super Users"
-msgstr ""
+msgstr "Người dùng Quản trị cao nhất"
 
 msgid "User Does not Exist"
-msgstr ""
+msgstr "Người dùng không tồn tại"
 
 msgid "Please select at least one permission."
-msgstr ""
+msgstr "Vui lòng chọn ít nhất một quyền."
 
 #, python-brace-format
-msgid ""
-"Successfully assigned {permissions_count} permission(s) to {users_count} "
-"user(s)."
-msgstr ""
+msgid "Successfully assigned {permissions_count} permission(s) to {users_count} user(s)."
+msgstr "Đã chỉ định thành công {permissions_count} quyền cho {users_count} người dùng."
 
 #, python-brace-format
 msgid "Error assigning permissions: {error}"
-msgstr ""
+msgstr "Lỗi gán quyền: {error}"
 
 msgid "Role Does not Exist"
-msgstr ""
+msgstr "Vai trò không tồn tại"
 
 msgid "First Name"
-msgstr ""
+msgstr "Tên"
 
 msgid "Super User Status"
-msgstr ""
+msgstr "Trạng thái Người dùng Quản trị cao nhất"
 
 msgid "Import Data"
-msgstr ""
+msgstr "Nhập dữ liệu"
 
 msgid "Import History"
-msgstr ""
+msgstr "Lịch sử nhập dữ liệu"
 
 #, python-format
 msgid "Unmapped choice values: %(values)s%(ellipsis)s"
-msgstr ""
+msgstr "Giá trị lựa chọn chưa được ánh xạ: %(values)s%(ellipsis)s"
 
 #, python-format
 msgid "Invalid choice value: %(value)s"
-msgstr ""
+msgstr "Giá trị lựa chọn không hợp lệ: %(value)s"
 
 #, python-format
 msgid "Unmapped foreign key values: %(values)s%(ellipsis)s"
-msgstr ""
+msgstr "Các giá trị khóa ngoại chưa được ánh xạ: %(values)s%(ellipsis)s"
 
 #, python-format
 msgid "Invalid foreign key ID: %(id)s"
-msgstr ""
+msgstr "ID khóa ngoại không hợp lệ: %(id)s"
 
 msgid "Foreign key must be a valid ID"
-msgstr ""
+msgstr "Khóa ngoại phải là ID hợp lệ"
 
 #, python-format
 msgid ""
-"Field type mismatch: '%(field)s' expects DATE format, but file column "
-"'%(column)s' contains invalid date: '%(value)s'"
+"Field type mismatch: '%(field)s' expects DATE format, but file column '%(column)s' "
+"contains invalid date: '%(value)s'"
 msgstr ""
+"Loại trường không khớp: '%(field)s' dự kiến ​​có định dạng DATE, nhưng cột tệp '%(column)s' "
+"chứa ngày không hợp lệ: '%(value)s'"
 
 msgid "INTEGER"
-msgstr ""
+msgstr "số nguyên"
 
 msgid "DECIMAL"
-msgstr ""
+msgstr "SỐ THẬP PHÂN"
 
 #, python-format
 msgid ""
-"Field type mismatch: '%(field)s' expects %(type)s format, but file column "
-"'%(column)s' contains invalid number: '%(value)s'"
+"Field type mismatch: '%(field)s' expects %(type)s format, but file column '%(column)s' "
+"contains invalid number: '%(value)s'"
 msgstr ""
+"Loại trường không khớp: '%(field)s' mong đợi định dạng %(type)s, nhưng cột tệp "
+"'%(column)s' chứa số không hợp lệ: '%(value)s'"
 
 #, python-format
 msgid ""
-"Field type mismatch: '%(field)s' expects BOOLEAN (true/false/yes/no/1/0), "
-"but file column '%(column)s' contains like: '%(value)s'"
+"Field type mismatch: '%(field)s' expects BOOLEAN (true/false/yes/no/1/0), but file column "
+"'%(column)s' contains like: '%(value)s'"
 msgstr ""
+"Loại trường không khớp: '%(field)s' mong đợi BOOLEAN (true/false/yes/no/1/0), nhưng cột "
+"tệp '%(column)s' chứa như: '%(value)s'"
 
 #, python-format
 msgid ""
-"Field type mismatch: '%(field)s' expects EMAIL format, but file column "
-"'%(column)s' contains invalid email"
+"Field type mismatch: '%(field)s' expects EMAIL format, but file column '%(column)s' "
+"contains invalid email"
 msgstr ""
+"Loại trường không khớp: '%(field)s' yêu cầu định dạng EMAIL, nhưng cột tệp '%(column)s' "
+"chứa email không hợp lệ"
 
 #, python-format
 msgid ""
-"Field type mismatch: '%(field)s' expects URL format, but file column "
-"'%(column)s' contains invalid URL: '%(value)s'"
+"Field type mismatch: '%(field)s' expects URL format, but file column '%(column)s' contains "
+"invalid URL: '%(value)s'"
 msgstr ""
+"Loại trường không khớp: '%(field)s' yêu cầu định dạng URL, nhưng cột tệp '%(column)s' chứa "
+"URL không hợp lệ: '%(value)s'"
 
 #, python-format
 msgid ""
-"Error: '%(field)s' is a TEXT field, but file column '%(column)s' appears to "
-"contain DATES. Consider mapping to a DateField instead."
+"Error: '%(field)s' is a TEXT field, but file column '%(column)s' appears to contain DATES. "
+"Consider mapping to a DateField instead."
 msgstr ""
+"Lỗi: '%(field)s' là một trường TEXT, nhưng cột tệp '%(column)s' dường như chứa NGÀY. Thay "
+"vào đó, hãy xem xét ánh xạ tới DateField."
 
 #, python-format
 msgid ""
-"Error: '%(field)s' is a TEXT field, but file column '%(column)s' appears to "
-"contain EMAIL addresses. Consider mapping to an EmailField instead."
+"Error: '%(field)s' is a TEXT field, but file column '%(column)s' appears to contain EMAIL "
+"addresses. Consider mapping to an EmailField instead."
 msgstr ""
+"Lỗi: '%(field)s' là trường TEXT, nhưng cột tệp '%(column)s' dường như chứa địa chỉ EMAIL. "
+"Thay vào đó, hãy xem xét ánh xạ tới EmailField."
 
 #, python-format
 msgid ""
-"Error: '%(field)s' is a TEXT field, but file column '%(column)s' appears to "
-"contain NUMBERS. Consider mapping to a numeric field instead."
+"Error: '%(field)s' is a TEXT field, but file column '%(column)s' appears to contain "
+"NUMBERS. Consider mapping to a numeric field instead."
 msgstr ""
+"Lỗi: '%(field)s' là một trường TEXT, nhưng cột tệp '%(column)s' dường như chứa SỐ. Thay "
+"vào đó, hãy xem xét ánh xạ tới một trường số."
 
 #, python-format
 msgid "Required field '%(field)s' must be mapped to a file column."
-msgstr ""
+msgstr "Trường bắt buộc '%(field)s' phải được ánh xạ tới một cột tệp."
 
 msgid "Imported File"
-msgstr ""
+msgstr "Tệp đã nhập"
 
 msgid "Error File"
-msgstr ""
+msgstr "Tệp lỗi"
 
 msgid "Unauthorized. Please authenticate first."
-msgstr ""
+msgstr "Không được phép. Vui lòng xác thực trước."
 
 msgid "Database already initialized"
-msgstr ""
+msgstr "Cơ sở dữ liệu đã được khởi tạo"
 
 msgid "Invalid password. Please try again."
-msgstr ""
+msgstr "Mật khẩu không hợp lệ. Vui lòng thử lại."
 
 msgid ""
-"Demo database loaded successfully! You can now login with username 'admin' "
-"and password 'admin'."
+"Demo database loaded successfully! You can now login with username 'admin' and password "
+"'admin'."
 msgstr ""
+"Cơ sở dữ liệu demo được tải thành công! Bây giờ bạn có thể đăng nhập bằng tên người dùng "
+"'admin' và mật khẩu 'admin'."
 
 msgid "Database loaded successfully."
-msgstr ""
+msgstr "Cơ sở dữ liệu được tải thành công."
 
 msgid "Data file not found: {}"
-msgstr ""
+msgstr "Không tìm thấy tệp dữ liệu: {}"
 
 msgid "Loading {}"
-msgstr ""
+msgstr "Đang tải {}"
 
 msgid "Error loading {}. All changes have been rolled back."
-msgstr ""
+msgstr "Lỗi tải {}. Tất cả các thay đổi đã được khôi phục."
 
 msgid "Profile"
-msgstr ""
+msgstr "Hồ sơ"
 
 msgid "Regional & Formatting"
-msgstr ""
+msgstr "Khu vực & Định dạng"
 
 msgid "Change Password"
-msgstr ""
+msgstr "Thay đổi mật khẩu"
 
 msgid "Login History"
-msgstr ""
+msgstr "Lịch sử đăng nhập"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Ngày lễ"
 
 msgid "General"
-msgstr ""
+msgstr "Tổng quan"
 
 msgid "Company Information"
-msgstr ""
+msgstr "Thông tin công ty"
 
 msgid "Groups and Permissions"
-msgstr ""
+msgstr "Nhóm và quyền"
 
 msgid "Base"
-msgstr ""
+msgstr "Căn cứ"
 
 msgid "Branches"
-msgstr ""
+msgstr "Chi nhánh"
 
 msgid "Data Mangement"
-msgstr ""
+msgstr "Quản lý dữ liệu"
 
 msgid "Export Data"
-msgstr ""
+msgstr "Xuất dữ liệu"
 
 msgid "Recycle Bin"
-msgstr ""
+msgstr "Thùng rác"
 
 msgid "About System"
-msgstr ""
+msgstr "Giới thiệu về hệ thống"
 
 msgid "Version Info"
-msgstr ""
+msgstr "Thông tin phiên bản"
 
 msgid "Model"
-msgstr ""
+msgstr "Mô hình"
 
 msgid "Models"
-msgstr ""
+msgstr "Các mô hình"
 
 msgid "Company Name"
-msgstr ""
+msgstr "Tên công ty"
 
 msgid "Email Address"
-msgstr ""
+msgstr "Địa chỉ email"
 
 msgid "Website"
-msgstr ""
+msgstr "Trang web"
 
 msgid "Company Icon"
-msgstr ""
+msgstr "Biểu tượng công ty"
 
 msgid "Contact Number"
-msgstr ""
+msgstr "Số liên lạc"
 
 msgid "Fax Number"
-msgstr ""
+msgstr "Số fax"
 
 msgid "Annual Revenue"
-msgstr ""
+msgstr "Doanh thu hàng năm"
 
 msgid "Number of Employees"
-msgstr ""
+msgstr "Số lượng nhân viên"
 
 msgid "Head quarter"
-msgstr ""
+msgstr "Trụ sở chính"
 
 msgid "City"
-msgstr ""
+msgstr "Thành phố"
 
 msgid "State/Province"
-msgstr ""
+msgstr "Tiểu bang/Tỉnh"
 
 msgid "Country"
-msgstr ""
+msgstr "Quốc gia"
 
 msgid "ZIP/Postal Code"
-msgstr ""
+msgstr "Mã ZIP/Bưu điện"
 
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 msgid "Time Zone"
-msgstr ""
+msgstr "Múi giờ"
 
 msgid "Select your preferred currency"
-msgstr ""
+msgstr "Chọn loại tiền tệ ưa thích của bạn"
 
 msgid "Currency"
-msgstr ""
+msgstr "Tiền tệ"
 
 msgid "Select your preferred time format."
-msgstr ""
+msgstr "Chọn định dạng thời gian ưa thích của bạn."
 
 msgid "Time Format"
-msgstr ""
+msgstr "Định dạng thời gian"
 
 msgid "Select your preferred date format."
-msgstr ""
+msgstr "Chọn định dạng ngày ưa thích của bạn."
 
 msgid "Date Format"
-msgstr ""
+msgstr "Định dạng ngày"
 
 msgid "Activate Multiple Currencies"
-msgstr ""
+msgstr "Kích hoạt nhiều loại tiền tệ"
 
 msgid "Created At"
-msgstr ""
+msgstr "Được tạo tại"
 
 msgid "Updated At"
-msgstr ""
+msgstr "Cập nhật lúc"
 
 msgid "Created By"
-msgstr ""
+msgstr "Được tạo bởi"
 
 msgid "Updated By"
-msgstr ""
+msgstr "Cập nhật bởi"
 
 msgid "Branch"
-msgstr ""
+msgstr "Chi nhánh"
 
 msgid "Is Active"
-msgstr ""
+msgstr "Đang hoạt động"
 
 msgid "Additional info"
-msgstr ""
+msgstr "Thông tin bổ sung"
 
 msgid "Company"
-msgstr ""
+msgstr "Công ty"
 
 msgid "Department Name"
-msgstr ""
+msgstr "Tên bộ phận"
 
 msgid "Description"
-msgstr ""
+msgstr "Sự miêu tả"
 
 msgid "Departments"
-msgstr ""
+msgstr "Phòng ban"
 
 msgid "Roles"
-msgstr ""
+msgstr "Vai trò"
 
 msgid "conversion rate from default currency"
-msgstr ""
+msgstr "tỷ lệ chuyển đổi từ tiền tệ mặc định"
 
 msgid "Conversion Rate"
-msgstr ""
+msgstr "Tỷ lệ chuyển đổi"
 
 msgid "Decimal places"
-msgstr ""
+msgstr "Số thập phân"
 
 msgid "Number grouping format"
-msgstr ""
+msgstr "Định dạng nhóm số"
 
 msgid "Default Currency"
-msgstr ""
+msgstr "Tiền tệ mặc định"
 
 msgid "Mark this currency as the default for the system"
-msgstr ""
+msgstr "Đánh dấu loại tiền này làm mặc định cho hệ thống"
 
 msgid "Multiple Currency"
-msgstr ""
+msgstr "Nhiều loại tiền tệ"
 
 msgid "Multiple Currencies"
-msgstr ""
+msgstr "Nhiều loại tiền tệ"
 
 msgid "Profile Image"
-msgstr ""
+msgstr "Hình ảnh hồ sơ"
 
 msgid "User's preferred currency for display"
-msgstr ""
+msgstr "Loại tiền tệ ưa thích của người dùng để hiển thị"
 
 msgid "Preferred Currency"
-msgstr ""
+msgstr "Tiền tệ ưa thích"
 
 msgid "Select your preferred date time format."
-msgstr ""
+msgstr "Chọn định dạng ngày giờ ưa thích của bạn."
 
 msgid "Date Time Format"
-msgstr ""
+msgstr "Định dạng ngày giờ"
 
 msgid "Select your preferred number grouping format."
-msgstr ""
+msgstr "Chọn định dạng nhóm số ưa thích của bạn."
 
 msgid "Number Grouping"
-msgstr ""
+msgstr "Nhóm số"
 
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
 msgid "Can View Global Import"
-msgstr ""
+msgstr "Có thể xem nhập file toàn hệ thống"
 
 msgid "Global Import"
-msgstr ""
+msgstr "Nhập file toàn hệ thống"
 
 msgid "Can View Global Settings"
-msgstr ""
+msgstr "Có thể xem cài đặt chung"
 
 msgid "Global Settings"
-msgstr ""
+msgstr "Cài đặt chung"
 
 msgid "Can View Global Export"
-msgstr ""
+msgstr "Có thể xem xuất file toàn hệ thống"
 
 msgid "Global Export"
-msgstr ""
+msgstr "Xuất file toàn hệ thống"
 
 msgid "Can Switch Company"
-msgstr ""
+msgstr "Có thể chuyển đổi công ty"
 
 msgid "Switch Company"
-msgstr ""
+msgstr "Chuyển đổi công ty"
 
 msgid "Can View About System"
-msgstr ""
+msgstr "Có thể xem về hệ thống"
 
 msgid "Can View Profile"
-msgstr ""
+msgstr "Có thể xem hồ sơ"
 
 msgid "Can Change Profile"
-msgstr ""
+msgstr "Có thể thay đổi hồ sơ"
 
 msgid "User Profile"
-msgstr ""
+msgstr "Hồ sơ người dùng"
 
 msgid "Column User"
-msgstr ""
+msgstr "Người dùng cột"
 
 msgid "Name of the model (e.g., 'User') to group by."
-msgstr ""
+msgstr "Tên của mô hình (ví dụ: 'Người dùng') để nhóm theo."
 
-msgid ""
-"Name of the field that can be used for grouping (ChoiceField or ForeignKey)."
-msgstr ""
+msgid "Name of the field that can be used for grouping (ChoiceField or ForeignKey)."
+msgstr "Tên của trường có thể được sử dụng để nhóm (ChoiceField hoặc ForeignKey)."
 
 msgid "Standard Fiscal Year"
-msgstr ""
+msgstr "Năm tài chính tiêu chuẩn"
 
 msgid "Custom Fiscal Year"
-msgstr ""
+msgstr "Năm tài chính tùy chỉnh"
 
 msgid "Fiscal Year Type"
-msgstr ""
+msgstr "Loại Năm Tài Chính"
 
 msgid "Year Based"
-msgstr ""
+msgstr "Dựa trên năm"
 
 msgid "Quarter Based"
-msgstr ""
+msgstr "Dựa trên quý"
 
 msgid "Format"
-msgstr ""
+msgstr "Định dạng"
 
 msgid ""
-"4-4-5 In each quarter, Period 1 has 4 weeks, Period 2 has 4 weeks, Period 3 "
-"has 5 weeks"
+"4-4-5 In each quarter, Period 1 has 4 weeks, Period 2 has 4 weeks, Period 3 has 5 weeks"
 msgstr ""
+"4-4-5 Trong mỗi quý, Giai đoạn 1 có 4 tuần, Giai đoạn 2 có 4 tuần, Giai đoạn 3 có 5 tuần"
 
 msgid ""
-"4-5-4 In each quarter, Period 1 has 4 weeks, Period 2 has 5 weeks, Period 3 "
-"has 4 weeks"
+"4-5-4 In each quarter, Period 1 has 4 weeks, Period 2 has 5 weeks, Period 3 has 4 weeks"
 msgstr ""
+"4-5-4 Trong mỗi quý, Giai đoạn 1 có 4 tuần, Giai đoạn 2 có 5 tuần, Giai đoạn 3 có 4 tuần"
 
 msgid ""
-"5-4-4 In each quarter, Period 1 has 5 weeks, Period 2 has 4 weeks, Period 3 "
-"has 4 weeks"
+"5-4-4 In each quarter, Period 1 has 5 weeks, Period 2 has 4 weeks, Period 3 has 4 weeks"
 msgstr ""
+"5-4-4 Trong mỗi quý, Giai đoạn 1 có 5 tuần, Giai đoạn 2 có 4 tuần, Giai đoạn 3 có 4 tuần"
 
 msgid "Quarter Based Format"
-msgstr ""
+msgstr "Định dạng dựa trên quý"
 
 msgid ""
-"3-3-3-4 Quarter 1 has 3 Periods, Quarter 2 has 3 Periods, Quarter 3 has 3 "
-"Periods, Quarter 4 has 4 Periods"
-msgstr ""
+"3-3-3-4 Quarter 1 has 3 Periods, Quarter 2 has 3 Periods, Quarter 3 has 3 Periods, Quarter "
+"4 has 4 Periods"
+msgstr "3-3-3-4 Quý 1 có 3 Tiết, Quý 2 có 3 Tiết, Quý 3 có 3 Tiết, Quý 4 có 4 Tiết"
 
 msgid ""
-"3-3-4-3 Quarter 1 has 3 Periods, Quarter 2 has 3 Periods, Quarter 3 has 4 "
-"Periods, Quarter 4 has 3 Periods"
-msgstr ""
+"3-3-4-3 Quarter 1 has 3 Periods, Quarter 2 has 3 Periods, Quarter 3 has 4 Periods, Quarter "
+"4 has 3 Periods"
+msgstr "3-3-4-3 Quý 1 có 3 Tiết, Quý 2 có 3 Tiết, Quý 3 có 4 Tiết, Quý 4 có 3 Tiết"
 
 msgid ""
-"3-4-3-3 Quarter 1 has 3 Periods, Quarter 2 has 4 Periods, Quarter 3 has 3 "
-"Periods, Quarter 4 has 3 Periods"
-msgstr ""
+"3-4-3-3 Quarter 1 has 3 Periods, Quarter 2 has 4 Periods, Quarter 3 has 3 Periods, Quarter "
+"4 has 3 Periods"
+msgstr "3-4-3-3 Quý 1 có 3 Tiết, Quý 2 có 4 Tiết, Quý 3 có 3 Tiết, Quý 4 có 3 Tiết"
 
 msgid ""
-"4-3-3-3 Quarter 1 has 4 Periods, Quarter 2 has 3 Periods, Quarter 3 has 3 "
-"Periods, Quarter 4 has 3 Periods"
-msgstr ""
+"4-3-3-3 Quarter 1 has 4 Periods, Quarter 2 has 3 Periods, Quarter 3 has 3 Periods, Quarter "
+"4 has 3 Periods"
+msgstr "4-3-3-3 Quý 1 có 4 Tiết, Quý 2 có 3 Tiết, Quý 3 có 3 Tiết, Quý 4 có 3 Tiết"
 
 msgid "Year Based Format"
-msgstr ""
+msgstr "Định dạng dựa trên năm"
 
 msgid "Start Date Month"
-msgstr ""
+msgstr "Ngày bắt đầu Tháng"
 
 msgid "Start Date Day"
-msgstr ""
+msgstr "Ngày bắt đầu Ngày"
 
 msgid "Week Start Day"
-msgstr ""
+msgstr "Ngày bắt đầu tuần"
 
 msgid "Starting Year"
-msgstr ""
+msgstr "Năm bắt đầu"
 
 msgid "Ending Year"
-msgstr ""
+msgstr "Năm kết thúc"
 
 msgid "Display Fiscal Year Based On"
-msgstr ""
+msgstr "Hiển thị năm tài chính dựa trên"
 
 msgid "Year"
-msgstr ""
+msgstr "Năm"
 
 msgid "Quarter"
-msgstr ""
+msgstr "Một phần tư"
 
 msgid "Period"
-msgstr ""
+msgstr "Giai đoạn"
 
 msgid "Number Weeks By"
-msgstr ""
+msgstr "Số Tuần Theo"
 
 msgid "Number by Year"
-msgstr ""
+msgstr "Số theo năm"
 
 msgid "Number by Quarter"
-msgstr ""
+msgstr "Số theo quý"
 
 msgid "Period Display Option"
-msgstr ""
+msgstr "Tùy chọn hiển thị thời gian"
 
 msgid "Fiscal Year"
-msgstr ""
+msgstr "Năm tài chính"
 
 msgid "Fiscal Years"
-msgstr ""
+msgstr "Năm tài chính"
 
 msgid "Fiscal Year Configuration"
-msgstr ""
+msgstr "Cấu hình năm tài chính"
 
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
 msgid "Fiscal Year Name"
-msgstr ""
+msgstr "Tên năm tài chính"
 
 msgid "Is Current"
-msgstr ""
+msgstr "Hiện tại"
 
 msgid "Fiscal Year Instance"
-msgstr ""
+msgstr "Phiên bản năm tài chính"
 
 msgid "Fiscal Year Instances"
-msgstr ""
+msgstr "Trường hợp năm tài chính"
 
 msgid "Quarter Name"
-msgstr ""
+msgstr "Tên quý"
 
 msgid "Quarter Number"
-msgstr ""
+msgstr "Số quý"
 
 msgid "Quarters"
-msgstr ""
+msgstr "Khu"
 
 msgid "Period Name"
-msgstr ""
+msgstr "Tên thời kỳ"
 
 msgid "Period Number"
-msgstr ""
+msgstr "Số kỳ"
 
 msgid "Periods"
-msgstr ""
+msgstr "Thời kỳ"
 
 msgid "Weekly"
-msgstr ""
+msgstr "Hàng tuần"
 
 msgid "Monthly"
-msgstr ""
+msgstr "Hàng tháng"
 
 msgid "Yearly"
-msgstr ""
+msgstr "Hàng năm"
 
 msgid "On Day"
-msgstr ""
+msgstr "Vào ngày"
 
 msgid "On the"
-msgstr ""
+msgstr "Trên"
 
 msgid "On every"
-msgstr ""
+msgstr "Trên mọi"
 
 msgid "Holiday Name"
-msgstr ""
+msgstr "Tên ngày lễ"
 
 msgid "All Users"
-msgstr ""
+msgstr "Tất cả người dùng"
 
 msgid "Specific Users"
-msgstr ""
+msgstr "Người dùng cụ thể"
 
 msgid "Recurring"
-msgstr ""
+msgstr "Định kỳ"
 
 msgid "Holiday Frequency"
-msgstr ""
+msgstr "Tần suất nghỉ lễ"
 
 msgid "Recurs Every (weeks)"
-msgstr ""
+msgstr "Tái phát mỗi (tuần)"
 
 msgid "Weekly Days"
-msgstr ""
+msgstr "Ngày hàng tuần"
 
 msgid "Monthly Repeat Type"
-msgstr ""
+msgstr "Loại lặp lại hàng tháng"
 
 msgid "Day of Month"
-msgstr ""
+msgstr "Ngày trong tháng"
 
 msgid "Monthly Interval"
-msgstr ""
+msgstr "Khoảng thời gian hàng tháng"
 
 msgid "Day of Week"
-msgstr ""
+msgstr "Ngày trong tuần"
 
 msgid "Week of Month"
-msgstr ""
+msgstr "Tuần trong tháng"
 
 msgid "Yearly Repeat Type"
-msgstr ""
+msgstr "Loại lặp lại hàng năm"
 
 msgid "Month"
-msgstr ""
+msgstr "Tháng"
 
 msgid "Holidays"
-msgstr ""
+msgstr "Ngày lễ"
 
 msgid "Start date cannot be after end date"
-msgstr ""
+msgstr "Ngày bắt đầu không thể sau ngày kết thúc"
 
 msgid "Frequency is required for recurring holidays"
-msgstr ""
+msgstr "Tần suất là bắt buộc đối với các ngày nghỉ định kỳ"
 
 msgid "Weekly days must be specified for weekly recurrence"
-msgstr ""
+msgstr "Ngày hàng tuần phải được chỉ định để lặp lại hàng tuần"
 
 msgid "Recurs every weeks must be at least 1"
-msgstr ""
+msgstr "Tái diễn mỗi tuần phải có ít nhất 1"
 
 msgid "Day of month is required for monthly recurrence"
-msgstr ""
+msgstr "Ngày trong tháng là bắt buộc để lặp lại hàng tháng"
 
 msgid "Both day of week and week of month are required for monthly recurrence"
-msgstr ""
+msgstr "Cần có cả ngày trong tuần và tuần trong tháng để tái phát hàng tháng"
 
 msgid "Please select a valid monthly repeat type"
-msgstr ""
+msgstr "Vui lòng chọn loại lặp lại hàng tháng hợp lệ"
 
 msgid "Month is required for yearly recurrence"
-msgstr ""
+msgstr "Tháng là bắt buộc để lặp lại hàng năm"
 
 msgid "Day of month is required for yearly recurrence"
-msgstr ""
+msgstr "Ngày trong tháng là bắt buộc để lặp lại hàng năm"
 
 msgid "Both week of month and day of week are required for yearly recurrence"
-msgstr ""
+msgstr "Cả tuần trong tháng và ngày trong tuần đều được yêu cầu để tái phát hàng năm"
 
 msgid "Please select a valid yearly repeat type"
-msgstr ""
+msgstr "Vui lòng chọn loại lặp lại hàng năm hợp lệ"
 
 msgid "1st"
-msgstr ""
+msgstr "thứ 1"
 
 msgid "2nd"
-msgstr ""
+msgstr "thứ 2"
 
 msgid "3rd"
-msgstr ""
+msgstr "thứ 3"
 
 msgid "4th"
-msgstr ""
+msgstr "thứ 4"
 
 msgid "5th"
-msgstr ""
+msgstr "thứ 5"
 
 msgid "One-time holiday"
-msgstr ""
+msgstr "Kỳ nghỉ một lần"
 
 msgid "Weekly on {}"
-msgstr ""
+msgstr "Hàng tuần vào {}"
 
 msgid "Every {} weeks on {}"
-msgstr ""
+msgstr "Mỗi {} tuần vào {}"
 
 msgid "Monthly on day {}"
-msgstr ""
+msgstr "Hàng tháng vào ngày {}"
 
 msgid "Every {} months on day {}"
-msgstr ""
+msgstr "Mỗi {} tháng vào ngày {}"
 
 msgid "Monthly on {} {} of month"
-msgstr ""
+msgstr "Hàng tháng vào {} {} của tháng"
 
 msgid "Every {} months on {} {} of month"
-msgstr ""
+msgstr "Mỗi {} tháng vào ngày {} {} của tháng"
 
 msgid "Yearly on {} {}"
-msgstr ""
+msgstr "Hàng năm vào {} {}"
 
 msgid "Yearly on {} {} of {}"
-msgstr ""
+msgstr "Hàng năm vào {} {} của {}"
 
 msgid "Custom recurrence"
-msgstr ""
+msgstr "Lặp lại tùy chỉnh"
 
 msgid "Conversion rate from default currency"
-msgstr ""
+msgstr "Tỷ lệ chuyển đổi từ tiền tệ mặc định"
 
 msgid "The date from which this conversion rate is effective"
-msgstr ""
+msgstr "Ngày mà tỷ lệ chuyển đổi này có hiệu lực"
 
 msgid "Dated Conversion Rate"
-msgstr ""
+msgstr "Tỷ lệ chuyển đổi theo ngày"
 
 msgid "Dated Conversion Rates"
-msgstr ""
+msgstr "Tỷ lệ chuyển đổi theo ngày"
 
 msgid "Monday Start Time"
-msgstr ""
+msgstr "Giờ bắt đầu Thứ Hai"
 
 msgid "Monday End Time"
-msgstr ""
+msgstr "Thời gian kết thúc thứ Hai"
 
 msgid "Tuesday Start Time"
-msgstr ""
+msgstr "Thời gian bắt đầu thứ ba"
 
 msgid "Tuesday End Time"
-msgstr ""
+msgstr "Thời gian kết thúc thứ Ba"
 
 msgid "Wednesday Start Time"
-msgstr ""
+msgstr "Thời gian bắt đầu thứ Tư"
 
 msgid "Wednesday End Time"
-msgstr ""
+msgstr "Thời gian kết thúc thứ Tư"
 
 msgid "Thursday Start Time"
-msgstr ""
+msgstr "Thời gian bắt đầu thứ năm"
 
 msgid "Thursday End Time"
-msgstr ""
+msgstr "Thời gian kết thúc thứ Năm"
 
 msgid "Friday Start Time"
-msgstr ""
+msgstr "Giờ bắt đầu thứ sáu"
 
 msgid "Friday End Time"
-msgstr ""
+msgstr "Thời gian kết thúc thứ sáu"
 
 msgid "Saturday Start Time"
-msgstr ""
+msgstr "Thời gian bắt đầu thứ bảy"
 
 msgid "Saturday End Time"
-msgstr ""
+msgstr "Thời gian kết thúc thứ bảy"
 
 msgid "Sunday Start Time"
-msgstr ""
+msgstr "Giờ bắt đầu Chủ nhật"
 
 msgid "Sunday End Time"
-msgstr ""
+msgstr "Giờ Kết Thúc Chủ Nhật"
 
 msgid "24 Hours x 7 days"
-msgstr ""
+msgstr "24 giờ x 7 ngày"
 
 msgid "24 Hours x 5 days"
-msgstr ""
+msgstr "24 giờ x 5 ngày"
 
 msgid "Custom Hours"
-msgstr ""
+msgstr "Giờ tùy chỉnh"
 
 msgid "Same Hour Every Day"
-msgstr ""
+msgstr "Cùng một giờ mỗi ngày"
 
 msgid "Different Hour Per Day"
-msgstr ""
+msgstr "Giờ khác nhau mỗi ngày"
 
 msgid "Monday"
-msgstr ""
+msgstr "Thứ Hai"
 
 msgid "Tuesday"
-msgstr ""
+msgstr "Thứ Ba"
 
 msgid "Wednesday"
-msgstr ""
+msgstr "Thứ Tư"
 
 msgid "Thursday"
-msgstr ""
+msgstr "Thứ Năm"
 
 msgid "Friday"
-msgstr ""
+msgstr "Thứ Sáu"
 
 msgid "Saturday"
-msgstr ""
+msgstr "Thứ Bảy"
 
 msgid "Sunday"
-msgstr ""
+msgstr "Chủ nhật"
 
 msgid "Business Hour Name"
-msgstr ""
+msgstr "Tên giờ làm việc"
 
 msgid "Type of business hours"
-msgstr ""
+msgstr "Loại giờ làm việc"
 
 msgid "Business Hour Type"
-msgstr ""
+msgstr "Loại giờ làm việc"
 
 msgid "Same hours every day or different hours per day"
-msgstr ""
+msgstr "Giờ giống nhau mỗi ngày hoặc giờ khác nhau mỗi ngày"
 
 msgid "Timing Type"
-msgstr ""
+msgstr "Loại thời gian"
 
 msgid "Default start time"
-msgstr ""
+msgstr "Thời gian bắt đầu mặc định"
 
 msgid "Default Start Time"
-msgstr ""
+msgstr "Thời gian bắt đầu mặc định"
 
 msgid "Default end time"
-msgstr ""
+msgstr "Thời gian kết thúc mặc định"
 
 msgid "Default End Time"
-msgstr ""
+msgstr "Thời gian kết thúc mặc định"
 
 msgid "Default Business Hour"
-msgstr ""
+msgstr "Giờ làm việc mặc định"
 
 msgid "Is Default"
-msgstr ""
+msgstr "Là mặc định"
 
 msgid "Business Hour"
-msgstr ""
+msgstr "Giờ làm việc"
 
 msgid "Business Hours"
-msgstr ""
+msgstr "Giờ làm việc"
 
 msgid "Deleted At"
-msgstr ""
+msgstr "Đã xóa tại"
 
 msgid "Retention Period (Days)"
-msgstr ""
+msgstr "Thời gian lưu giữ (Ngày)"
 
 msgid "Recycle Bin Policy"
-msgstr ""
+msgstr "Chính sách thùng rác"
 
 msgid "Recycle Bin Policies"
-msgstr ""
+msgstr "Chính sách thùng rác"
 
 msgid "Team Role Name"
-msgstr ""
+msgstr "Tên vai trò nhóm"
 
 msgid "Team Role"
-msgstr ""
+msgstr "Vai trò nhóm"
 
 msgid "Team Roles"
-msgstr ""
+msgstr "Vai trò nhóm"
 
 msgid "Customer Role Name"
-msgstr ""
+msgstr "Tên vai trò khách hàng"
 
 msgid "Customer Roles"
-msgstr ""
+msgstr "Vai trò khách hàng"
 
 msgid "Partner Role Name"
-msgstr ""
+msgstr "Tên vai trò đối tác"
 
 msgid "Partner Role"
-msgstr ""
+msgstr "Vai trò đối tác"
 
 msgid "Partner Roles"
-msgstr ""
+msgstr "Vai trò đối tác"
 
 msgid "Processing"
-msgstr ""
+msgstr "Xử lý"
 
 msgid "Success"
-msgstr ""
+msgstr "Thành công"
 
 msgid "Partial Success"
-msgstr ""
+msgstr "Thành công một phần"
 
 msgid "Failed"
-msgstr ""
+msgstr "Thất bại"
 
 msgid "Import Name"
-msgstr ""
+msgstr "Nhập tên File"
 
 msgid "Module Name"
-msgstr ""
+msgstr "Tên mô-đun"
 
 msgid "App Label"
-msgstr ""
+msgstr "Nhãn ứng dụng"
 
 msgid "Filename"
-msgstr ""
+msgstr "Tên tệp"
 
 msgid "Status"
-msgstr ""
+msgstr "Trạng thái"
 
 msgid "Total Counts"
-msgstr ""
+msgstr "Tổng số"
 
 msgid "Success Rate (%)"
-msgstr ""
+msgstr "Tỷ lệ thành công (%)"
 
 msgid "1=create, 2=update, 3=both"
-msgstr ""
+msgstr "1=tạo, 2=cập nhật, 3=cả hai"
 
 msgid "Duration (seconds)"
-msgstr ""
+msgstr "Thời lượng (giây)"
 
 msgid "Import Histories"
-msgstr ""
+msgstr "Lịch sử nhập khẩu"
 
 msgid "Title"
-msgstr ""
+msgstr "Tiêu đề"
 
 msgid "The title or name of the attachment."
-msgstr ""
+msgstr "Tiêu đề hoặc tên của tệp đính kèm."
 
 msgid "Related Object Type"
-msgstr ""
+msgstr "Loại đối tượng liên quan"
 
 msgid "The type of object this attachment is related to."
-msgstr ""
+msgstr "Loại đối tượng mà tệp đính kèm này có liên quan đến."
 
 msgid "Related Object ID"
-msgstr ""
+msgstr "ID đối tượng liên quan"
 
 msgid "The ID of the object this attachment is related to."
-msgstr ""
+msgstr "ID của đối tượng có liên quan đến tệp đính kèm này."
 
 msgid "File"
-msgstr ""
+msgstr "Tài liệu"
 
 msgid "Optional file attached to this record."
-msgstr ""
+msgstr "Tệp tùy chọn được đính kèm vào bản ghi này."
 
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
 msgid "Optional description or notes about the attachment."
-msgstr ""
+msgstr "Mô tả hoặc ghi chú tùy chọn về tệp đính kèm."
 
 msgid "Attachment"
-msgstr ""
+msgstr "Tệp đính kèm"
 
 msgid "Attachments"
-msgstr ""
+msgstr "Các tệp đính kèm"
 
 msgid "Daily"
-msgstr ""
+msgstr "Hằng ngày"
 
 msgid "List of model names, e.g. ['Employee', 'Department']"
-msgstr ""
+msgstr "Danh sách tên mẫu, ví dụ: ['Nhân viên', 'Bộ phận']"
 
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 msgid "Excel"
-msgstr ""
+msgstr "Excel"
 
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 msgid "Export Format"
-msgstr ""
+msgstr "Định dạng xuất"
 
 msgid "Frequency"
-msgstr ""
+msgstr "Tần suất"
 
 msgid "1-31 for monthly"
-msgstr ""
+msgstr "1-31 hàng tháng"
 
 msgid "Export Schedule"
-msgstr ""
+msgstr "Lịch xuất khẩu"
 
 msgid "Export Schedules"
-msgstr ""
+msgstr "Xuất lịch trình"
 
 msgid "Not run yet"
-msgstr ""
+msgstr "Chưa chạy"
 
 msgid "Every day"
-msgstr ""
+msgstr "Mỗi ngày"
 
 msgid "Every"
-msgstr ""
+msgstr "Mọi"
 
 msgid "Day"
-msgstr ""
+msgstr "Ngày"
 
 msgid "of every month"
-msgstr ""
+msgstr "của mỗi tháng"
 
 msgid "Field Permission"
-msgstr ""
+msgstr "Quyền theo trường dữ liệu"
 
 msgid "Field Permissions"
-msgstr ""
+msgstr "Các quyền của trường dữ liệu"
 
 msgid "Currency Code"
-msgstr ""
+msgstr "Mã tiền tệ"
 
 msgid "Add Currency"
-msgstr ""
+msgstr "Thêm tiền tệ"
 
 msgid "Edit Currency Information"
-msgstr ""
+msgstr "Chỉnh sửa thông tin tiền tệ"
 
 msgid "partner role"
-msgstr ""
+msgstr "vai trò đối tác"
 
 msgid "Record Name"
-msgstr ""
+msgstr "Tên bản ghi"
 
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
 msgid "Deleted By"
-msgstr ""
+msgstr "Đã xóa bởi"
 
 msgid "The requested data does not exist."
-msgstr ""
+msgstr "Dữ liệu được yêu cầu không tồn tại."
 
 msgid "Yo dont have permission to do this change"
-msgstr ""
+msgstr "Bạn không có quyền thực hiện thay đổi này"
 
 msgid "Recycle bin policy updated successfully!"
-msgstr ""
+msgstr "Chính sách thùng rác đã được cập nhật thành công!"
 
 msgid "Your preferences have been updated successfully."
-msgstr ""
+msgstr "Tùy chọn của bạn đã được cập nhật thành công."
 
 msgid "There was an error updating your preferences."
-msgstr ""
+msgstr "Đã xảy ra lỗi khi cập nhật tùy chọn của bạn."
 
-msgid ""
-"Successfully assigned {len(users)} user(s) to the role '{form."
-"cleaned_data['role']}'."
+msgid "Successfully assigned {len(users)} user(s) to the role '{form.cleaned_data['role']}'."
 msgstr ""
+"Đã chỉ định thành công {len(users)} người dùng cho vai trò '{form.cleaned_data['role']}'."
 
 msgid "The requested user does not exist."
-msgstr ""
+msgstr "Người dùng được yêu cầu không tồn tại."
 
 msgid "Scheduled Export - {}"
-msgstr ""
+msgstr "Xuất theo lịch trình - {}"
 
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 msgid "Save and add another"
-msgstr ""
+msgstr "Lưu và thêm mới"
 
 msgid "Save and continue editing"
-msgstr ""
+msgstr "Lưu và tiếp tục chỉnh sửa"
 
 msgid "Avatar"
-msgstr ""
+msgstr "Hình đại diện"
 
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 msgid "Localization"
-msgstr ""
+msgstr "Bản địa hóa"
 
 msgid "Drag"
-msgstr ""
+msgstr "Di kéo"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "Permission Denied"
-msgstr ""
+msgstr "Quyền bị từ chối"
 
 msgid "You do not have permission to view this page."
-msgstr ""
+msgstr "Bạn không có quyền xem trang này."
 
 msgid "Page Not Found"
-msgstr ""
+msgstr "Không tìm thấy trang"
 
 msgid "Go to Dashboard"
-msgstr ""
+msgstr "Đi tới trang Tổng quan"
 
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "Phương pháp không được phép"
 
 msgid "The request method is not allowed for this resource."
-msgstr ""
+msgstr "Phương thức yêu cầu không được phép đối với tài nguyên này."
 
 msgid ""
-"You are allowed to access the settings, but some details are hidden due to "
-"limited permissions."
-msgstr ""
+"You are allowed to access the settings, but some details are hidden due to limited "
+"permissions."
+msgstr "Bạn được phép truy cập cài đặt nhưng một số chi tiết bị ẩn do quyền hạn chế."
 
 msgid "Select Module"
-msgstr ""
+msgstr "Chọn mô-đun"
 
 msgid "Schedule"
-msgstr ""
+msgstr "Lịch trình"
 
 msgid "Export"
-msgstr ""
+msgstr "Xuất khẩu"
 
 msgid "Scheduled Exports"
-msgstr ""
+msgstr "Xuất khẩu theo lịch trình"
 
 msgid "Quick Tips"
-msgstr ""
+msgstr "Mẹo nhanh"
 
 msgid "Select multiple modules to export data from different sections at once"
-msgstr ""
+msgstr "Chọn nhiều mô-đun để xuất dữ liệu từ các phần khác nhau cùng một lúc"
 
 msgid "Choose from Excel, CSV, or PDF formats based on your needs"
-msgstr ""
+msgstr "Chọn từ các định dạng Excel, CSV hoặc PDF dựa trên nhu cầu của bạn"
 
 msgid ""
-"You can set an end date for scheduled exports or leave it blank for "
-"indefinite scheduling"
+"You can set an end date for scheduled exports or leave it blank for indefinite scheduling"
 msgstr ""
+"Bạn có thể đặt ngày kết thúc cho việc xuất theo lịch trình hoặc để trống nếu lập lịch "
+"không xác định"
 
 msgid ""
-"Export immediately by clicking the Export button, or schedule for automated "
-"recurring exports"
-msgstr ""
+"Export immediately by clicking the Export button, or schedule for automated recurring "
+"exports"
+msgstr "Xuất ngay lập tức bằng cách nhấp vào nút Xuất hoặc lên lịch xuất định kỳ tự động"
 
 msgid "Schedule Export"
-msgstr ""
+msgstr "Lên lịch xuất file"
 
 msgid "Day of week"
-msgstr ""
+msgstr "Ngày trong tuần"
 
 msgid "Day of month"
-msgstr ""
+msgstr "Ngày trong tháng"
 
 msgid "End Date (optional)"
-msgstr ""
+msgstr "Ngày kết thúc (tùy chọn)"
 
 msgid "Logo"
-msgstr ""
+msgstr "Biểu tượng"
 
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Quên mật khẩu?"
 
 msgid "Username or Email"
-msgstr ""
+msgstr "Tên người dùng hoặc Email"
 
 msgid "arrow"
-msgstr ""
+msgstr "mũi tên"
 
 msgid "Send reset link"
-msgstr ""
+msgstr "Gửi liên kết đặt lại"
 
 msgid "Loading..."
-msgstr ""
+msgstr "Đang tải..."
 
 msgid " Reset link will be sent to your registered email"
-msgstr ""
+msgstr "Liên kết đặt lại sẽ được gửi đến email đăng ký của bạn"
 
 msgid "Back to login"
-msgstr ""
+msgstr "Quay lại để đăng nhập"
 
 msgid "Email Sent!"
-msgstr ""
+msgstr "Email đã được gửi!"
 
 msgid "Password reset link has been sent to your email."
-msgstr ""
+msgstr "Liên kết đặt lại mật khẩu đã được gửi đến email của bạn."
 
 msgid ""
-"Please check your inbox and click the link to reset your password. The link "
-"will expire in 24 hours."
+"Please check your inbox and click the link to reset your password. The link will expire in "
+"24 hours."
 msgstr ""
+"Vui lòng kiểm tra hộp thư đến của bạn và nhấp vào liên kết để đặt lại mật khẩu của bạn. "
+"Liên kết sẽ hết hạn sau 24 giờ."
 
 msgid "Login"
-msgstr ""
+msgstr "Đăng nhập"
 
 msgid "Back to Login"
-msgstr ""
+msgstr "Quay lại đăng nhập"
 
 msgid "Didn't receive the email? Try again"
-msgstr ""
+msgstr "Bạn không nhận được email? Thử lại"
 
 msgid "Reset Your Password"
-msgstr ""
+msgstr "Đặt lại mật khẩu của bạn"
 
 msgid "Please enter your new password"
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu mới của bạn"
 
 msgid "Toggle visibility"
-msgstr ""
+msgstr "Chuyển đổi chế độ hiển thị"
 
 msgid "Arrow"
-msgstr ""
+msgstr "Mũi tên"
 
 msgid "Reset Password"
-msgstr ""
+msgstr "Đặt lại mật khẩu"
 
 msgid "Invalid Link"
-msgstr ""
+msgstr "Liên kết không hợp lệ"
 
 msgid "This password reset link is invalid or has expired."
-msgstr ""
+msgstr "Liên kết đặt lại mật khẩu này không hợp lệ hoặc đã hết hạn."
 
 msgid "Please request a new password reset link."
-msgstr ""
+msgstr "Vui lòng yêu cầu liên kết đặt lại mật khẩu mới."
 
 msgid "Password Reset Request"
-msgstr ""
+msgstr "Yêu cầu đặt lại mật khẩu"
 
 msgid "We received a request to reset your password for your"
-msgstr ""
+msgstr "Chúng tôi đã nhận được yêu cầu đặt lại mật khẩu cho"
 
 msgid "account. Click the button below to reset your password:"
-msgstr ""
+msgstr "tài khoản. Nhấp vào nút bên dưới để đặt lại mật khẩu của bạn:"
 
-msgid ""
-"If the button above doesn't work, copy and paste this link into your browser:"
+msgid "If the button above doesn't work, copy and paste this link into your browser:"
 msgstr ""
+"Nếu nút trên không hoạt động, hãy sao chép và dán liên kết này vào trình duyệt của bạn:"
 
 msgid "Security Notice:"
-msgstr ""
+msgstr "Thông báo bảo mật:"
 
 msgid ""
-"If you didn't request a password reset, please ignore this email or contact "
-"support if you have concerns. This link will expire in 24 hours."
+"If you didn't request a password reset, please ignore this email or contact support if you "
+"have concerns. This link will expire in 24 hours."
 msgstr ""
+"Nếu bạn không yêu cầu đặt lại mật khẩu, vui lòng bỏ qua email này hoặc liên hệ với bộ phận "
+"hỗ trợ nếu bạn có thắc mắc. Liên kết này sẽ hết hạn sau 24 giờ."
 
 msgid "This is an automated message from the system. Please do not reply."
-msgstr ""
+msgstr "Đây là tin nhắn tự động từ hệ thống. Xin vui lòng không trả lời."
 
 msgid "All rights reserved."
-msgstr ""
+msgstr "Mọi quyền được bảo lưu."
 
 msgid "Are you sure you want to delete this holiday?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa ngày lễ này không?"
 
 msgid "Download"
-msgstr ""
+msgstr "Tải xuống"
 
 msgid "Upload Files"
-msgstr ""
+msgstr "Tải tập tin lên"
 
 msgid "Map Fields"
-msgstr ""
+msgstr "Trường bản đồ"
 
 msgid "Action"
-msgstr ""
+msgstr "Hoạt động"
 
 msgid "Choose Module"
-msgstr ""
+msgstr "Chọn mô-đun"
 
 msgid "Enter Import Name"
-msgstr ""
+msgstr "Nhập tên nhập"
 
 msgid "Upload File"
-msgstr ""
+msgstr "Tải tệp lên"
 
 msgid "File already uploaded"
-msgstr ""
+msgstr "Tệp đã được tải lên"
 
 msgid "CSV, XLS, XLSX ( Max 10MB )"
-msgstr ""
+msgstr "CSV, XLS, XLSX (Tối đa 10MB)"
 
 msgid "Next"
-msgstr ""
+msgstr "Kế tiếp"
 
 msgid "Import Failed"
-msgstr ""
+msgstr "Nhập không thành công"
 
 msgid "There was an error during the import process:"
-msgstr ""
+msgstr "Đã xảy ra lỗi trong quá trình nhập:"
 
 msgid "Go Back"
-msgstr ""
+msgstr "Quay lại"
 
 msgid "Start Over"
-msgstr ""
+msgstr "Bắt đầu lại"
 
 msgid "Model Field"
-msgstr ""
+msgstr "Trường mẫu"
 
 msgid "File Header"
-msgstr ""
+msgstr "Tiêu đề tệp"
 
 msgid "Default Values"
-msgstr ""
+msgstr "Giá trị mặc định"
 
 msgid "Sample Data"
-msgstr ""
+msgstr "Dữ liệu mẫu"
 
 msgid "Select Header"
-msgstr ""
+msgstr "Chọn tiêu đề"
 
 msgid "Select Default Value"
-msgstr ""
+msgstr "Chọn giá trị mặc định"
 
 msgid "Default value"
-msgstr ""
+msgstr "Giá trị mặc định"
 
 msgid "Auto Mapped"
-msgstr ""
+msgstr "Tự động ánh xạ"
 
 msgid "Not Mapped"
-msgstr ""
+msgstr "Chưa được ánh xạ"
 
 msgid "No model fields available"
-msgstr ""
+msgstr "Không có trường mô hình nào có sẵn"
 
 msgid "Previous"
-msgstr ""
+msgstr "Trước"
 
 msgid "Import Option:"
-msgstr ""
+msgstr "Tùy chọn nhập:"
 
 msgid "Create new record"
-msgstr ""
+msgstr "Tạo bản ghi mới"
 
 msgid "Update existing"
-msgstr ""
+msgstr "Cập nhật hiện có"
 
 msgid "Create new and update existing"
-msgstr ""
+msgstr "Tạo mới và cập nhật hiện có"
 
 msgid "Record match by"
-msgstr ""
+msgstr "Ghi lại trận đấu bằng"
 
 msgid "Module"
-msgstr ""
+msgstr "Phân hệ"
 
 msgid "Import Action"
-msgstr ""
+msgstr "Nhập hành động"
 
 msgid "Create New"
-msgstr ""
+msgstr "Tạo mới"
 
 msgid "Update Existing"
-msgstr ""
+msgstr "Cập nhật hiện có"
 
 msgid "Create New and Update Existing"
-msgstr ""
+msgstr "Tạo mới và cập nhật hiện có"
 
 msgid "Mapped"
-msgstr ""
+msgstr "Đã ánh xạ"
 
 msgid "Fields"
-msgstr ""
+msgstr "Trường"
 
 msgid "Unmapped"
-msgstr ""
+msgstr "Chưa được lập bản đồ"
 
 msgid "Import Completed Successfully!"
-msgstr ""
+msgstr "Nhập hoàn tất thành công!"
 
 msgid "Your data has been imported successfully."
-msgstr ""
+msgstr "Dữ liệu của bạn đã được nhập thành công."
 
 msgid "Records Created"
-msgstr ""
+msgstr "Bản ghi đã được tạo"
 
 msgid "Records Updated"
-msgstr ""
+msgstr "Hồ sơ được cập nhật"
 
 msgid "Errors"
-msgstr ""
+msgstr "Lỗi"
 
 msgid "Total Rows Processed:"
-msgstr ""
+msgstr "Tổng số hàng được xử lý:"
 
 msgid "Success Rate:"
-msgstr ""
+msgstr "Tỷ lệ thành công:"
 
 msgid "Errors encountered:"
-msgstr ""
+msgstr "Các lỗi gặp phải:"
 
 msgid "Download Full Error Report"
-msgstr ""
+msgstr "Tải xuống báo cáo lỗi đầy đủ"
 
 msgid "... and"
-msgstr ""
+msgstr "... Và"
 
 msgid "more errors."
-msgstr ""
+msgstr "nhiều lỗi hơn."
 
 msgid "Download the full report above to see all errors."
-msgstr ""
+msgstr "Tải xuống báo cáo đầy đủ ở trên để xem tất cả các lỗi."
 
 msgid "Import More Data"
-msgstr ""
+msgstr "Nhập thêm dữ liệu"
 
 msgid "Import Wizard"
-msgstr ""
+msgstr "Thuật sĩ nhập khẩu"
 
 msgid "Map Values for"
-msgstr ""
+msgstr "Giá trị bản đồ cho"
 
 msgid "File Value"
-msgstr ""
+msgstr "Giá trị tệp"
 
 msgid "Replace With"
-msgstr ""
+msgstr "Thay thế bằng"
 
 msgid "Initialize Database"
-msgstr ""
+msgstr "Khởi tạo cơ sở dữ liệu"
 
 msgid "Company  Information"
-msgstr ""
+msgstr "Thông tin công ty"
 
 msgid "Database Authentication"
-msgstr ""
+msgstr "Xác thực cơ sở dữ liệu"
 
 msgid "Authenticate with your password intialize the Database"
-msgstr ""
+msgstr "Xác thực bằng mật khẩu của bạn nội bộ hóa Cơ sở dữ liệu"
 
 msgid "Authenticate"
-msgstr ""
+msgstr "Xác thực"
 
 msgid "Role Name"
-msgstr ""
+msgstr "Tên vai trò"
 
 msgid "Role Description"
-msgstr ""
+msgstr "Mô tả vai trò"
 
 msgid "Parent Role"
-msgstr ""
+msgstr "Vai trò phụ huynh"
 
 msgid "Select Parent Role"
-msgstr ""
+msgstr "Chọn vai trò phụ huynh"
 
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 msgid "Sign In"
-msgstr ""
+msgstr "Đăng nhập"
 
 msgid "Next Step"
-msgstr ""
+msgstr "Bước tiếp theo"
 
 msgid "Sign Up"
-msgstr ""
+msgstr "Đăng ký"
 
 msgid "Configure Demo Data"
-msgstr ""
+msgstr "Định cấu hình dữ liệu demo"
 
 msgid "Select the number of records to load for each data type"
-msgstr ""
+msgstr "Chọn số lượng bản ghi cần tải cho từng loại dữ liệu"
 
 msgid "No configurable entities found"
-msgstr ""
+msgstr "Không tìm thấy thực thể có thể định cấu hình nào"
 
 msgid "Note:"
-msgstr ""
+msgstr "Ghi chú:"
 
 msgid ""
-"Loading large datasets may take several minutes. Higher values will require "
-"more processing time and storage space."
+"Loading large datasets may take several minutes. Higher values will require more "
+"processing time and storage space."
 msgstr ""
+"Việc tải các tập dữ liệu lớn có thể mất vài phút. Giá trị cao hơn sẽ yêu cầu nhiều thời "
+"gian xử lý và không gian lưu trữ hơn."
 
 msgid "Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid "Start Loading"
-msgstr ""
+msgstr "Bắt đầu tải"
 
 msgid "Authenticate with your password to load demo database"
-msgstr ""
+msgstr "Xác thực bằng mật khẩu của bạn để tải cơ sở dữ liệu demo"
 
 msgid "Loading Demo Database"
-msgstr ""
+msgstr "Đang tải cơ sở dữ liệu demo"
 
 msgid "Please wait while we load the demo data..."
-msgstr ""
+msgstr "Vui lòng đợi trong khi chúng tôi tải dữ liệu demo..."
 
 msgid "Initializing..."
-msgstr ""
+msgstr "Đang khởi tạo..."
 
 msgid ""
-"Success! Demo database loaded. You can now login with username 'admin' and "
-"password 'admin'."
+"Success! Demo database loaded. You can now login with username 'admin' and password "
+"'admin'."
 msgstr ""
+"Thành công! Đã tải cơ sở dữ liệu demo. Bây giờ bạn có thể đăng nhập bằng tên người dùng "
+"'admin' và mật khẩu 'admin'."
 
 msgid "Loading"
-msgstr ""
+msgstr "Đang tải"
 
 msgid "Error:"
-msgstr ""
+msgstr "Lỗi:"
 
 msgid "Network error occurred"
-msgstr ""
+msgstr "Đã xảy ra lỗi mạng"
 
 msgid "Assign Users"
-msgstr ""
+msgstr "Chỉ định người dùng"
 
 msgid "Select users"
-msgstr ""
+msgstr "Chọn người dùng"
 
 msgid "Search models..."
-msgstr ""
+msgstr "Tìm kiếm mô hình..."
 
 msgid "Select All"
-msgstr ""
+msgstr "Chọn tất cả"
 
 msgid "Field permissions not available for this model"
-msgstr ""
+msgstr "Quyền trường không có sẵn cho mô hình này"
 
 msgid "Field Level Permissions"
-msgstr ""
+msgstr "Quyền cấp trường"
 
 msgid "Role:"
-msgstr ""
+msgstr "Vai trò:"
 
 msgid "User:"
-msgstr ""
+msgstr "Người dùng:"
 
 msgid "Selected Users:"
-msgstr ""
+msgstr "Người dùng đã chọn:"
 
 msgid "Model:"
-msgstr ""
+msgstr "Người mẫu:"
 
 msgid "Warning:"
-msgstr ""
+msgstr "Cảnh báo:"
 
 msgid "No users selected. Please select atleast one user."
-msgstr ""
+msgstr "Không có người dùng nào được chọn. Vui lòng chọn ít nhất một người dùng."
 
 msgid "Read Only"
-msgstr ""
+msgstr "Chỉ đọc"
 
 msgid "Read and Write"
-msgstr ""
+msgstr "Đọc và viết"
 
 msgid "Don't Show"
-msgstr ""
+msgstr "Không hiển thị"
 
 msgid "No fields found for this model."
-msgstr ""
+msgstr "Không tìm thấy trường nào cho mô hình này."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Save All Changes"
-msgstr ""
+msgstr "Lưu tất cả thay đổi"
 
 msgid "To manage field-level permissions, simply click the name of a model."
-msgstr ""
+msgstr "Để quản lý quyền cấp trường, chỉ cần nhấp vào tên của mô hình."
 
 msgid "User Groups"
-msgstr ""
+msgstr "Nhóm người dùng"
 
 msgid "Add Groups"
-msgstr ""
+msgstr "Thêm nhóm"
 
 msgid "Members"
-msgstr ""
+msgstr "Thành viên"
 
 msgid "User Permissions"
-msgstr ""
+msgstr "Quyền của người dùng"
 
 msgid "Search users..."
-msgstr ""
+msgstr "Tìm kiếm người dùng..."
 
 msgid "Assign"
-msgstr ""
+msgstr "Giao phó"
 
 msgid "Add Member"
-msgstr ""
+msgstr "Thêm thành viên"
 
 msgid "No models found matching your search."
-msgstr ""
+msgstr "Không tìm thấy mô hình nào phù hợp với tìm kiếm của bạn."
 
 msgid "No models available."
-msgstr ""
+msgstr "Không có mô hình có sẵn."
 
 msgid "No users available."
-msgstr ""
+msgstr "Không có người dùng có sẵn."
 
 msgid "Regional Formatting"
-msgstr ""
+msgstr "Định dạng khu vực"
 
 msgid "Language and Time Zone"
-msgstr ""
+msgstr "Ngôn ngữ và múi giờ"
 
 msgid "Number Format"
-msgstr ""
+msgstr "Định dạng số"
 
 msgid "Role Hierarchy"
-msgstr ""
+msgstr "Phân cấp vai trò"
 
 msgid "Add Role"
-msgstr ""
+msgstr "Thêm vai trò"
 
 msgid "No roles found"
-msgstr ""
+msgstr "Không tìm thấy vai trò nào"
 
 msgid "users"
-msgstr ""
+msgstr "người dùng"
 
 msgid "Add Business Hour"
-msgstr ""
+msgstr "Thêm giờ làm việc"
 
 msgid "Add"
-msgstr ""
+msgstr "Thêm vào"
 
 msgid "Current Default Currency"
-msgstr ""
+msgstr "Tiền tệ mặc định hiện tại"
 
 msgid "Password Management"
-msgstr ""
+msgstr "Quản lý mật khẩu"
 
 msgid "Last Updated"
-msgstr ""
+msgstr "Cập nhật lần cuối"
 
 msgid "Change Your Password"
-msgstr ""
+msgstr "Thay đổi mật khẩu của bạn"
 
 msgid "Activate company"
-msgstr ""
+msgstr "Kích hoạt công ty"
 
 msgid "Please create or activate your company."
-msgstr ""
+msgstr "Vui lòng tạo hoặc kích hoạt công ty của bạn."
 
 msgid "Conversion Rates"
-msgstr ""
+msgstr "Tỷ lệ chuyển đổi"
 
 msgid "Active Currencies"
-msgstr ""
+msgstr "Tiền tệ đang hoạt động"
 
 msgid "Preview in Calendar"
-msgstr ""
+msgstr "Xem trước trong Lịch"
 
 msgid "Week"
-msgstr ""
+msgstr "Tuần"
 
 msgid "Preview Calendar"
-msgstr ""
+msgstr "Xem trước lịch"
 
 msgid "Manage Fiscal Year"
-msgstr ""
+msgstr "Quản lý năm tài chính"
 
 msgid "No active company"
-msgstr ""
+msgstr "Không có công ty hoạt động"
 
 msgid "Configuration Preview"
-msgstr ""
+msgstr "Xem trước cấu hình"
 
 msgid "Period Display:"
-msgstr ""
+msgstr "Hiển thị thời gian:"
 
 msgid "Add Holidays"
-msgstr ""
+msgstr "Thêm ngày lễ"
 
 msgid "Dated Exchange  Rates"
-msgstr ""
+msgstr "Tỷ giá hối đoái ngày"
 
 msgid "Select a Date Range"
-msgstr ""
+msgstr "Chọn một phạm vi ngày"
 
 msgid "New Exchange Rates"
-msgstr ""
+msgstr "Tỷ giá hối đoái mới"
 
 msgid "Currency Management"
-msgstr ""
+msgstr "Quản lý tiền tệ"
 
 msgid "Dropdown"
-msgstr ""
+msgstr "Thả xuống"
 
 msgid "Change Default Currency"
-msgstr ""
+msgstr "Thay đổi tiền tệ mặc định"
 
 msgid "Edit Conversion Rates"
-msgstr ""
+msgstr "Chỉnh sửa tỷ lệ chuyển đổi"
 
 msgid "Dated Exchange Rates"
-msgstr ""
+msgstr "Tỷ giá hối đoái ngày"
 
 msgid "Enable Multiple Currency"
-msgstr ""
+msgstr "Kích hoạt nhiều loại tiền tệ"
 
 msgid "My Settings"
-msgstr ""
+msgstr "Cài đặt của tôi"
 
 msgid "Default Expire Days"
-msgstr ""
+msgstr "Ngày hết hạn mặc định"
 
 msgid "Settings"
-msgstr ""
+msgstr "Cài đặt"
 
 msgid "Icon"
-msgstr ""
+msgstr "Biểu tượng"
 
 msgid "Personal Information"
-msgstr ""
+msgstr "Thông tin cá nhân"
 
 msgid "Last Name"
-msgstr ""
+msgstr "Họ"
 
 msgid "Work Info"
-msgstr ""
+msgstr "Thông tin công việc"
 
 msgid "View Login History"
-msgstr ""
+msgstr "Xem lịch sử đăng nhập"
 
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
 msgid "Modules & Versions"
-msgstr ""
+msgstr "Mô-đun & Phiên bản"
 
 msgid "Version Information & Installed Packages"
-msgstr ""
+msgstr "Thông tin phiên bản & các gói đã cài đặt"
 
 msgid "My Holidays"
-msgstr ""
+msgstr "Ngày lễ của tôi"
 
 msgid "Holiday Type"
-msgstr ""
+msgstr "Loại kỳ nghỉ"
 
 msgid "Details"
-msgstr ""
+msgstr "Chi tiết"
 
 msgid "Holiday Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu kỳ nghỉ"
 
 msgid "Holiday End Date"
-msgstr ""
+msgstr "Ngày kết thúc kỳ nghỉ"
 
 msgid "My Login History"
-msgstr ""
+msgstr "Lịch sử đăng nhập của tôi"
 
 msgid "Browser"
-msgstr ""
+msgstr "Trình duyệt"
 
 msgid "Login Time"
-msgstr ""
+msgstr "Thời gian đăng nhập"
 
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgid "Address Information"
-msgstr ""
+msgstr "Thông tin địa chỉ"
 
 msgid "Work Information"
-msgstr ""
+msgstr "Thông tin công việc"
 
 msgid "Localization Information"
-msgstr ""
+msgstr "Thông tin bản địa hóa"
 
 msgid "Invalid credentials. Please check and try again."
-msgstr ""
+msgstr "Thông tin xác thực không hợp lệ. Vui lòng kiểm tra và thử lại."
 
 msgid "This user is archived or blocked. Please contact support."
-msgstr ""
+msgstr "Người dùng này đã được lưu trữ hoặc bị chặn. Vui lòng liên hệ với bộ phận hỗ trợ."
 
 msgid "Login successful."
-msgstr ""
+msgstr "Đăng nhập thành công."
 
 msgid "Currencies"
-msgstr ""
+msgstr "Tiền tệ"
 
 msgid "Basic Information"
-msgstr ""
+msgstr "Thông tin cơ bản"
 
 msgid "Business Details"
-msgstr ""
+msgstr "Chi tiết doanh nghiệp"
 
 msgid "Location & Locale"
-msgstr ""
+msgstr "Vị trí & Địa điểm"
 
 msgid "Preferences"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "Hour Type"
-msgstr ""
+msgstr "Loại giờ"
 
 msgid "Week Starts On"
-msgstr ""
+msgstr "Tuần bắt đầu vào"
 
 msgid "Business Days"
-msgstr ""
+msgstr "Ngày làm việc"
 
 msgid "Activity"
-msgstr ""
+msgstr "Hoạt động"
 
 #, python-format
 msgid "Upload %(field)s"
-msgstr ""
+msgstr "Tải lên %(field)s"
 
 #, python-format
 msgid "Enter %(field)s"
-msgstr ""
+msgstr "Nhập %(field)s"
 
 #, python-format
 msgid "Select %(field)s"
-msgstr ""
+msgstr "Chọn %(field)s"
 
 #, python-format
 msgid "Enter %(field)s here..."
-msgstr ""
+msgstr "Nhập %(field)s vào đây..."
 
 msgid "Select Fields to Display"
-msgstr ""
+msgstr "Chọn trường để hiển thị"
 
 msgid "Available Fields"
-msgstr ""
+msgstr "Các trường có sẵn"
 
 msgid "Visible Fields"
-msgstr ""
+msgstr "Trường hiển thị"
 
 msgid "Menu"
-msgstr ""
+msgstr "Thực đơn"
 
 msgid "Filter"
-msgstr ""
+msgstr "Lọc"
 
 msgid "Add more filter"
-msgstr ""
+msgstr "Thêm bộ lọc khác"
 
 msgid "Applied Filters"
-msgstr ""
+msgstr "Bộ lọc được áp dụng"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Xóa tất cả"
 
 msgid "Save to List"
-msgstr ""
+msgstr "Lưu vào danh sách"
 
 msgid "Multi-Step Form"
-msgstr ""
+msgstr "Biểu mẫu nhiều bước"
 
 msgid "Single-Step Form"
-msgstr ""
+msgstr "Biểu mẫu một bước"
 
 msgid "Choose File"
-msgstr ""
+msgstr "Chọn tệp"
 
 msgid "No file chosen"
-msgstr ""
+msgstr "Không có tập tin nào được chọn"
 
 msgid "Clear"
-msgstr ""
+msgstr "Thông thoáng"
 
 msgid "Add Notes and Attachment"
-msgstr ""
+msgstr "Thêm ghi chú và tệp đính kèm"
 
 msgid "Click to upload or drag & drop"
-msgstr ""
+msgstr "Bấm để tải lên hoặc kéo và thả"
 
 msgid "Any file (Max 10MB)"
-msgstr ""
+msgstr "Bất kỳ tệp nào (Tối đa 10 MB)"
 
 msgid "Clear file"
-msgstr ""
+msgstr "Xóa tập tin"
 
 msgid "File selected"
-msgstr ""
+msgstr "Đã chọn tệp"
 
 msgid "We searched for"
-msgstr ""
+msgstr "Chúng tôi đã tìm kiếm"
 
 msgid "No search results found"
-msgstr ""
+msgstr "Không tìm thấy kết quả tìm kiếm"
 
 msgid "Clear Filters"
-msgstr ""
+msgstr "Xóa bộ lọc"
 
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 msgid "Call"
-msgstr ""
+msgstr "Gọi"
 
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 msgid "created"
-msgstr ""
+msgstr "tạo"
 
 msgid "status"
-msgstr ""
+msgstr "trạng thái"
 
 msgid "Added call task to this"
-msgstr ""
+msgstr "Đã thêm nhiệm vụ cuộc gọi vào đây"
 
 msgid "Send email to this"
-msgstr ""
+msgstr "Gửi email tới đây"
 
 msgid "Activity logged for this"
-msgstr ""
+msgstr "Hoạt động được ghi lại cho việc này"
 
 msgid "Event scheduled for this"
-msgstr ""
+msgstr "Sự kiện được lên lịch cho việc này"
 
 msgid "Meeting scheduled with this"
-msgstr ""
+msgstr "Cuộc họp được lên lịch với điều này"
 
 msgid "Action performed by"
-msgstr ""
+msgstr "Hành động được thực hiện bởi"
 
 msgid "No history available for this object."
-msgstr ""
+msgstr "Không có lịch sử có sẵn cho đối tượng này."
 
 msgid "Kanban Settings"
-msgstr ""
+msgstr "Cài đặt Kanban"
 
 msgid "Nothing to show yet. Please add your"
-msgstr ""
+msgstr "Chưa có gì để hiển thị. Vui lòng thêm của bạn"
 
 msgid "Add New"
-msgstr ""
+msgstr "Thêm mới"
 
 msgid "Select Columns to Export (Optional)"
-msgstr ""
+msgstr "Chọn cột để xuất (Tùy chọn)"
 
 msgid "Available Columns"
-msgstr ""
+msgstr "Cột có sẵn"
 
 msgid "Select which columns to export"
-msgstr ""
+msgstr "Chọn cột để xuất"
 
 msgid "Add Additional Columns"
-msgstr ""
+msgstr "Thêm cột bổ sung"
 
 msgid "Select more fields you want to export"
-msgstr ""
+msgstr "Chọn thêm trường bạn muốn xuất"
 
 msgid "Unselect"
-msgstr ""
+msgstr "Bỏ chọn"
 
 msgid "Export Selected"
-msgstr ""
+msgstr "Xuất đã chọn"
 
 msgid "Bulk Update"
-msgstr ""
+msgstr "Cập nhật hàng loạt"
 
 msgid "Bulk Delete"
-msgstr ""
+msgstr "Xóa hàng loạt"
 
 msgid "Selected"
-msgstr ""
+msgstr "Đã chọn"
 
 msgid "Delete List"
-msgstr ""
+msgstr "Xóa danh sách"
 
 msgid "Clear Session"
-msgstr ""
+msgstr "Xóa phiên"
 
 msgid "Actions"
-msgstr ""
+msgstr "Hành động"
 
 #, python-format
 msgid ""
 "\n"
 "                    Nothing to show yet. The %(view)s list doesn’t have any "
-"data.\n"
-"                    "
+"data.                    "
 msgstr ""
+"\n"
+"                    Chưa có gì để hiển thị. Danh sách %(view)s không có bất kỳ dữ liệu "
+"nào.                    "
 
 msgid " Nothing to show yet. Please add your"
-msgstr ""
+msgstr "Chưa có gì để hiển thị. Vui lòng thêm của bạn"
 
 msgid "All Items"
-msgstr ""
+msgstr "Tất cả các mục"
 
 msgid "Recently Viewed"
-msgstr ""
+msgstr "Đã xem gần đây"
 
 msgid "Recently Created"
-msgstr ""
+msgstr "Mới được tạo"
 
 msgid "Recently Modified"
-msgstr ""
+msgstr "Đã sửa đổi gần đây"
 
 msgid "Pin"
-msgstr ""
+msgstr "Ghim"
 
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 msgid "Reload"
-msgstr ""
+msgstr "Tải lại"
 
 msgid "List"
-msgstr ""
+msgstr "Danh sách"
 
 msgid "Kanban"
-msgstr ""
+msgstr "Kanban"
 
 msgid "Notes and Attachments"
-msgstr ""
+msgstr "Ghi chú và tệp đính kèm"
 
 msgid "Open file in new tab"
-msgstr ""
+msgstr "Mở tệp trong tab mới"
 
 msgid "File Size"
-msgstr ""
+msgstr "Kích thước tệp"
 
 msgid "Related To"
-msgstr ""
+msgstr "Liên quan đến"
 
 msgid "Bulk Reassign Dependencies"
-msgstr ""
+msgstr "Chỉ định lại phần phụ thuộc hàng loạt"
 
 msgid "Reassign all dependent"
-msgstr ""
+msgstr "Chỉ định lại tất cả người phụ thuộc"
 
 msgid "to a new target before deleting"
-msgstr ""
+msgstr "đến mục tiêu mới trước khi xóa"
 
 msgid "New Target"
-msgstr ""
+msgstr "Mục tiêu mới"
 
 msgid "No other targets available"
-msgstr ""
+msgstr "Không có mục tiêu nào khác"
 
 msgid "Confirm"
-msgstr ""
+msgstr "Xác nhận"
 
 msgid "Confirm Deletion"
-msgstr ""
+msgstr "Xác nhận xóa"
 
 msgid "Deleting this"
-msgstr ""
+msgstr "Xóa cái này"
 
 msgid "will also remove all its related"
-msgstr ""
+msgstr "cũng sẽ loại bỏ tất cả liên quan của nó"
 
 msgid "Are you sure you want to proceed ?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn tiếp tục không?"
 
 msgid "with Dependencies"
-msgstr ""
+msgstr "với sự phụ thuộc"
 
 msgid "Confirm Delete"
-msgstr ""
+msgstr "Xác nhận Xóa"
 
 msgid "The"
-msgstr ""
+msgstr "các"
 
 msgid "has dependencies and cannot be deleted directly."
-msgstr ""
+msgstr "có sự phụ thuộc và không thể xóa trực tiếp."
 
 msgid "Reassign All"
-msgstr ""
+msgstr "Chỉ định lại tất cả"
 
 msgid "Reassign Individually"
-msgstr ""
+msgstr "Chỉ định lại riêng lẻ"
 
 msgid "Delete All"
-msgstr ""
+msgstr "Xóa tất cả"
 
 msgid "Are you sure you want to delete the"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa"
 
 msgid "Select Delete Mode"
-msgstr ""
+msgstr "Chọn Chế độ Xóa"
 
 msgid "Choose the deletion mode for"
-msgstr ""
+msgstr "Chọn chế độ xóa cho"
 
 msgid "Hard Delete will permanently delete data."
-msgstr ""
+msgstr "Hard Delete sẽ xóa vĩnh viễn dữ liệu."
 
 msgid "Soft Delete allows you to restore deleted records."
-msgstr ""
+msgstr "Soft Delete cho phép bạn khôi phục các bản ghi đã xóa."
 
 msgid "Hard Delete"
-msgstr ""
+msgstr "Xóa cứng"
 
 msgid "Soft Delete"
-msgstr ""
+msgstr "Xóa mềm"
 
 msgid "Individual Reassign or Delete Dependencies"
-msgstr ""
+msgstr "Chỉ định lại hoặc xóa phụ thuộc riêng lẻ"
 
 msgid "Choose actions for each dependent"
-msgstr ""
+msgstr "Chọn hành động cho từng người phụ thuộc"
 
 msgid "before deleting"
-msgstr ""
+msgstr "trước khi xóa"
 
 msgid "Select Target"
-msgstr ""
+msgstr "Chọn mục tiêu"
 
 msgid "Set to Null"
-msgstr ""
+msgstr "Đặt thành rỗng"
 
 msgid "Set Null"
-msgstr ""
+msgstr "Đặt giá trị rỗng"
 
 msgid "No dependent records found."
-msgstr ""
+msgstr "Không tìm thấy hồ sơ phụ thuộc."
 
 msgid "Hard Delete Confirmation"
-msgstr ""
+msgstr "Xác nhận xóa cứng"
 
 msgid "Deletable Records"
-msgstr ""
+msgstr "Bản ghi có thể xóa"
 
 msgid "Protected Records"
-msgstr ""
+msgstr "Hồ sơ được bảo vệ"
 
 msgid " Confirm Delete"
-msgstr ""
+msgstr "Xác nhận Xóa"
 
 msgid "Bulk Update Selected"
-msgstr ""
+msgstr "Đã chọn cập nhật hàng loạt"
 
 msgid "Yes"
-msgstr ""
+msgstr "Đồng ý"
 
 msgid "No"
-msgstr ""
+msgstr "Từ chối"
 
 msgid "No fields available for bulk update."
-msgstr ""
+msgstr "Không có trường nào có sẵn để cập nhật hàng loạt."
 
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
 msgid "Choose the deletion mode for the selected records"
-msgstr ""
+msgstr "Chọn chế độ xóa cho các bản ghi đã chọn"
 
 msgid "Select Field"
-msgstr ""
+msgstr "Chọn trường"
 
 msgid "No value needed"
-msgstr ""
+msgstr "Không cần giá trị"
 
 msgid "and"
-msgstr ""
+msgstr "Và"
 
 msgid "Select an option"
-msgstr ""
+msgstr "Chọn một tùy chọn"
 
 msgid "Remove filter"
-msgstr ""
+msgstr "Xóa bộ lọc"
 
 msgid "Apply"
-msgstr ""
+msgstr "Áp dụng"
 
 msgid "More Action"
-msgstr ""
+msgstr "Thêm hành động"
 
 msgid "Soft Delete Confirmation"
-msgstr ""
+msgstr "Xác nhận xóa mềm"
 
 msgid "No Records to Delete"
-msgstr ""
+msgstr "Không có bản ghi nào để xóa"
 
 msgid "No related lists found for this"
-msgstr ""
+msgstr "Không tìm thấy danh sách liên quan cho việc này"
 
 msgid "New List View"
-msgstr ""
+msgstr "Chế độ xem danh sách mới"
 
 msgid "No filter parameters available."
-msgstr ""
+msgstr "Không có thông số bộ lọc nào có sẵn."
 
 msgid "List View Name"
-msgstr ""
+msgstr "Tên xem danh sách"
 
 msgid "Conditions"
-msgstr ""
+msgstr "Điều kiện"
 
 msgid "Add More"
-msgstr ""
+msgstr "Thêm nhiều hơn nữa"
 
 msgid "You don't have permission to update this record."
-msgstr ""
+msgstr "Bạn không có quyền cập nhật bản ghi này."
 
 #, python-brace-format
 msgid "{self.model._meta.verbose_name} Stage Updated Successfully"
-msgstr ""
+msgstr "Đã cập nhật giai đoạn {self.model._meta.verbose_name} thành công"
 
 msgid "Related Lists"
-msgstr ""
+msgstr "Danh sách liên quan"
 
 msgid "Notes & Attachments"
-msgstr ""
+msgstr "Ghi chú & Tệp đính kèm"
 
 msgid "History"
-msgstr ""
+msgstr "Lịch sử"
 
 msgid "You don't have permission to edit this attachment."
-msgstr ""
+msgstr "Bạn không có quyền chỉnh sửa tệp đính kèm này."
 
 msgid "The requested attachment does not exist."
-msgstr ""
+msgstr "Tệp đính kèm được yêu cầu không tồn tại."
 
 msgid "You don't have permission to add attachments to this record."
-msgstr ""
+msgstr "Bạn không có quyền thêm tệp đính kèm vào bản ghi này."
 
 msgid "Invalid related object."
-msgstr ""
+msgstr "Đối tượng liên quan không hợp lệ."
 
 msgid ""
-"Selected record is not associated with any company. Activate a company to "
-"proceed with deletion."
+"Selected record is not associated with any company. Activate a company to proceed with "
+"deletion."
 msgstr ""
+"Bản ghi đã chọn không được liên kết với bất kỳ công ty nào. Kích hoạt một công ty để tiến "
+"hành xóa."
 
 msgid "Notifications"
-msgstr ""
+msgstr "Danh sách thông báo"
 
 msgid "Notification"
-msgstr ""
+msgstr "Thông báo"
 
 msgid "No notifications"
-msgstr ""
+msgstr "Không có thông báo"
 
 msgid "No unread notifications"
-msgstr ""
+msgstr "Không có thông báo chưa đọc"
 
 msgid "View all Notification"
-msgstr ""
+msgstr "Xem tất cả Thông báo"
 
 msgid "All Notifications"
-msgstr ""
+msgstr "Tất cả thông báo"
 
 msgid "No recent items"
-msgstr ""
+msgstr "Không có mục gần đây"
 
 msgid "icon"
-msgstr ""
+msgstr "biểu tượng"
 
 msgid "No companies available"
-msgstr ""
+msgstr "Không có công ty nào"
 
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 msgid "Menu arrow"
-msgstr ""
+msgstr "Mũi tên trình đơn"
 
 msgid "Username"
-msgstr ""
+msgstr "Tên người dùng"
 
 msgid "Load Demo Data"
-msgstr ""
+msgstr "Tải dữ liệu demo"

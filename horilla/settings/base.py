@@ -388,7 +388,7 @@ except ImportError as e:
 
 ALLOWED_LANGUAGES = [
     ("en", "English", "usa.webp"),
-    ("ar", "Arabic", "ar.png"),
+    ("vi", "Vietnamese", "vi.png"),
     ("de", "German", "german.jpeg"),
     ("fr", "French", "france.webp"),
 ]

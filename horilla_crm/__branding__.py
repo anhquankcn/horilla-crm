@@ -2,7 +2,7 @@
 
 from django.utils.translation import gettext_lazy as _
 
-TITLE = "Horilla CRM"
-LOGIN_WELCOME_LINE = "Welcome to Horilla CRM"
-SIGNUP_TAG_LINE = "Please sign up to access Horilla CRM"
-PAGE_HEADER = "Horilla CRM"
+TITLE = "AQ CRM"
+LOGIN_WELCOME_LINE = "Welcome to AQ CRM"
+SIGNUP_TAG_LINE = "Please sign up to access AQ CRM"
+PAGE_HEADER = "AQ CRM"
